@@ -1,4 +1,4 @@
-# Free-English-Dictionary
+# dictionaryminer (In Development)
 :book: Free English dictionary available for any use
 
 ## Data Structure
