@@ -1,0 +1,4 @@
+env
+assets/dictionary-raw/wn.db
+assets/dictionary-raw/downloads
+__pycache__
