@@ -1,5 +1,7 @@
-# dictionaryminer (In Development)
-:book: Free English dictionary available for any use
+# :scroll: dictionaryminer
+Free English dictionary available for any use (personal or commercial). 
+
+Contributions are encouraged and welcomed! 
 
 ## Data Structure
 ```json
