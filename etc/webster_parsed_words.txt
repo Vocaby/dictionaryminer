@@ -152,6 +152,7 @@ abiding
 abidingly
 abies
 abietene
+abietic
 abietin
 abietine
 abietinic
@@ -213,6 +214,7 @@ ablush
 ablution
 ablutionary
 abluvion
+ably
 abnegate
 abnegation
 abnegative
@@ -281,6 +283,7 @@ abra
 abracadabra
 abradant
 abrade
+abrahamic
 abrahamitic
 abrahamitical
 abraham-man
@@ -564,6 +567,7 @@ accessibly
 accession
 accessional
 accessive
+accessorial
 accessorily
 accessoriness
 accessory
@@ -611,6 +615,7 @@ accommodableness
 accommodate
 accommodately
 accommodateness
+accommodating
 accommodation
 accommodator
 accompanable
@@ -706,6 +711,7 @@ accusative
 accusatively
 accusatorial
 accusatorially
+accusatory
 accuse
 accused
 accusement
@@ -753,6 +759,7 @@ acetable
 acetabular
 acetabulifera
 acetabuliferous
+acetabuliform
 acetabulum
 acetal
 acetaldehyde
@@ -783,11 +790,12 @@ acetosity
 acetous
 acetyl
 acetylene
+ach
+ache
 acharnement
 achate
 achatina
 achatour
-ache
 achenial
 acheron
 acherontic
@@ -809,6 +817,7 @@ achromatic
 achromatically
 achromaticity
 achromatin
+achromatism
 achromatization
 achromatize
 achromatopsy
@@ -950,6 +959,7 @@ acrisy
 acrita
 acritan
 acrite
+acritical
 acritochromacy
 acritude
 acrity
@@ -966,6 +976,7 @@ acroceraunian
 acrodactylum
 acrodont
 acrogen
+acrogenous
 acrolein
 acrolith
 acrolithan
@@ -1036,6 +1047,7 @@ actinozoon
 actinozooen
 actinula
 action
+actionable
 actionably
 actionary
 actionist
@@ -1051,10 +1063,12 @@ actor
 actress
 actual
 actualist
+actuality
 actualization
 actualize
 actually
 actualness
+actuarial
 actuary
 actuate
 actuation
@@ -1084,6 +1098,7 @@ acupuncture
 acustumaunce
 acutangular
 acute
+acute-angled
 acutely
 acuteness
 acutifoliate
@@ -1101,6 +1116,7 @@ adam
 adamant
 adamantean
 adamantine
+adambulacral
 adamic
 adamical
 adamite
@@ -1249,6 +1265,7 @@ adipic
 adipocerate
 adipoceration
 adipocere
+adipoceriform
 adipocerous
 adipogenous
 adipolysis
@@ -1319,6 +1336,7 @@ admeasure
 admeasurer
 admensuration
 adminicle
+adminicular
 adminiculary
 administer
 administerial
@@ -1326,6 +1344,7 @@ administrable
 administrant
 administrate
 administration
+administrative
 administrator
 administratorship
 administratrix
@@ -1343,6 +1362,7 @@ admire
 admired
 admirer
 admiring
+admissibility
 admissible
 admission
 admissive
@@ -1365,6 +1385,7 @@ admonitioner
 admonitive
 admonitor
 admonitorial
+admonitory
 admonitrix
 admortization
 admove
@@ -1386,6 +1407,7 @@ adonist
 adonize
 adopt
 adoptable
+adopted
 adopter
 adoption
 adoptionist
@@ -1492,6 +1514,7 @@ adventurous
 adventurously
 adventurousness
 adverb
+adverbial
 adverbiality
 adverbialize
 adverbially
@@ -1520,6 +1543,7 @@ advisement
 adviser
 advisership
 adviso
+advisory
 advocacy
 advocate
 advocateship
@@ -1571,11 +1595,13 @@ aerial
 aeriality
 aerially
 aerie
+aeriferous
 aerification
 aeriform
 aerify
 aerobic
 aerobies
+aerobiotic
 aeroboat
 aerobus
 aeroclub
@@ -1591,6 +1617,7 @@ aerographic
 aerographical
 aerography
 aerogun
+aerohydrodynamic
 aerolite
 aerolith
 aerolithology
@@ -1647,6 +1674,8 @@ esthesiometer
 aesthesis
 aesthesodic
 aesthete
+aesthetic
+aesthetical
 aesthetican
 aestheticism
 aesthetics
@@ -1687,6 +1716,7 @@ affectible
 affecting
 affectingly
 affection
+affectional
 affectionate
 affectionated
 affectionately
@@ -1733,6 +1763,7 @@ afflatus
 afflict
 afflictedness
 afflicter
+afflicting
 affliction
 afflictionless
 afflictive
@@ -1742,6 +1773,7 @@ affluency
 affluent
 affluently
 affluentness
+afflux
 affluxion
 affodill
 afforce
@@ -1832,6 +1864,7 @@ afterguard
 after-image
 afterings
 aftermath
+after-mentioned
 aftermost
 afternoon
 after-note
@@ -1891,6 +1924,7 @@ age
 aged
 agedly
 agedness
+ageless
 agen
 agency
 agend
@@ -1974,6 +2008,8 @@ aglossal
 aglow
 aglutition
 agminal
+agminate
+agminated
 agnail
 agnate
 agnatic
@@ -2114,6 +2150,7 @@ aimer
 aimless
 aino
 air
+air-built
 aircraft
 air-drawn
 airer
@@ -2128,6 +2165,7 @@ airmanship
 airol
 airometer
 airsick
+air-slacked
 air-tight
 airward
 airwards
@@ -2245,6 +2283,7 @@ albuminous
 albuminuria
 albumose
 alburn
+alburnous
 alburnum
 albyn
 alcade
@@ -2309,6 +2348,7 @@ aldebaran
 aldehyde
 aldehydic
 alder
+aller
 alder-liefest
 alderman
 aldermancy
@@ -2324,6 +2364,7 @@ aldine
 aldol
 ale
 aleak
+aleatory
 alebench
 aleberry
 alecithal
@@ -2443,6 +2484,7 @@ alienage
 alienate
 alienation
 alienator
+aliene
 alienee
 alienism
 alienist
@@ -2483,6 +2525,7 @@ alisphenoid
 alisphenoidal
 alitrunk
 aliturgical
+aliunde
 alive
 alizari
 alizarin
@@ -2561,7 +2604,6 @@ alleluiah
 allemande
 allemannic
 allenarly
-aller
 allerion
 alleviate
 alleviation
@@ -2598,6 +2640,7 @@ allision
 alliteral
 alliterate
 alliteration
+alliterative
 alliterator
 allium
 allmouth
@@ -2684,6 +2727,7 @@ alluvion
 alluvious
 alluvium
 allwhere
+allwork
 ally
 allyl
 allylene
@@ -2744,6 +2788,7 @@ aloneness
 along
 alongshore
 alongshoreman
+alongside
 alongst
 aloof
 aloofness
@@ -2761,6 +2806,7 @@ alpenglow
 alpenhorn
 alphorn
 alpenstock
+alpestrine
 alpha
 alphabet
 alphabetarian
@@ -2864,6 +2910,7 @@ aluminiform
 aluminium
 aluminize
 aluminography
+aluminous
 aluminum
 alumish
 alumna
@@ -2928,9 +2975,11 @@ amateurism
 amateurship
 amative
 amativeness
+amatorial
 amatorially
 amatorian
 amatorious
+amatory
 amaurosis
 amaurotic
 amaze
@@ -3012,6 +3061,7 @@ ambrosin
 ambrotype
 ambry
 ambs-ace
+ambulacral
 ambulacriform
 ambulacrum
 ambulance
@@ -3058,6 +3108,7 @@ amenity
 amenorrhoea
 amenorrhoeal
 ament
+amentaceous
 amentia
 amentiferous
 amentiform
@@ -3126,6 +3177,7 @@ ammodyte
 ammonal
 ammonia
 ammoniac
+ammoniacal
 gum ammoniac
 ammoniated
 ammonic
@@ -3143,6 +3195,7 @@ amnigenous
 amnion
 amnios
 amniota
+amniotic
 amoebaeum
 amoebea
 amoebean
@@ -3321,6 +3374,7 @@ amyelous
 amygdala
 amygdalaceous
 amygdalate
+amygdalic
 amygdaliferous
 amygdalin
 amygdaline
@@ -3342,9 +3396,11 @@ amylolytic
 amylometer
 amyloplastic
 amylopsin
+amylose
 amyous
 amyss
 an
+ana
 anabaptism
 anabaptist
 anabaptistic
@@ -3364,6 +3420,7 @@ anacanthini
 anacanths
 anacanthous
 anacardiaceous
+anacardic
 anacardium
 anacathartic
 anacharis
@@ -3408,9 +3465,12 @@ anaglyphical
 anaglyptic
 anaglyptics
 anaglyptograph
+anaglyptographic
 anaglyptography
 anagnorisis
 anagoge
+anagogic
+anagogical
 anagogics
 anagogy
 anagram
@@ -3422,8 +3482,10 @@ anagrammatize
 anagraph
 anakim
 anaks
+anal
 analcime
 analcite
+analectic
 analects
 analecta
 analemma
@@ -3510,6 +3572,7 @@ anastigmatic
 anastomose
 anastomosis
 anastomotic
+anastrophe
 anathema
 anathematic
 anathematical
@@ -3522,6 +3585,8 @@ anatifer
 anatiferous
 anatine
 anatocism
+anatomic
+anatomical
 anatomically
 anatomism
 anatomist
@@ -3622,6 +3687,7 @@ androtomy
 anear
 aneath
 anecdotage
+anecdotal
 anecdote
 anecdotic
 anecdotical
@@ -3663,8 +3729,11 @@ anet
 anethol
 anetic
 aneurism
+aneurismal
+anew
 anfractuose
 anfractuosity
+anfractuous
 anfracture
 angariation
 angeiology
@@ -3708,6 +3777,7 @@ angiosporous
 angiostomous
 angiotomy
 angle
+angled
 anglemeter
 angler
 angles
@@ -3718,6 +3788,7 @@ anglian
 anglic
 anglican
 anglicanism
+anglice
 anglicify
 anglicism
 anglicity
@@ -3875,6 +3946,7 @@ annat
 anna
 annal
 annalist
+annalistic
 annalize
 annals
 annats
@@ -3988,6 +4060,7 @@ anomia
 anomophyllous
 anomura
 anomoura
+anomural
 anomuran
 anomy
 anon
@@ -4075,6 +4148,7 @@ antecede
 antecedence
 antecedency
 antecedent
+antecedently
 antecessor
 antechamber
 antechapel
@@ -4172,7 +4246,9 @@ anthracene
 anthracic
 anthraciferous
 anthracite
+anthracitic
 anthracnose
+anthracoid
 anthracomancy
 anthracometer
 anthracometric
@@ -4213,6 +4289,7 @@ anthropomorphitism
 anthropomorphize
 anthropomorphology
 anthropomorphosis
+anthropomorphous
 anthroponomics
 anthroponomy
 anthropopathic
@@ -4251,6 +4328,7 @@ antibody
 antibrachial
 antibrachium
 antibromic
+antibubonic
 antiburgher
 antic
 anticatarrhal
@@ -4344,6 +4422,7 @@ antimoniated
 antimonic
 antimonious
 antimonite
+antimoniureted
 antimonsoon
 antimony
 antinational
@@ -4598,6 +4677,7 @@ aphidian
 aphidophagous
 aphilanthropy
 aphis
+aphlogistic
 aphonia
 aphony
 aphonic
@@ -4634,6 +4714,7 @@ apicular
 apiculate
 apiculated
 apiculture
+apiece
 apieces
 apiked
 apiol
@@ -4656,6 +4737,7 @@ aplomb
 aplotomy
 aplustre
 aplysia
+apneumatic
 apneumona
 apnoea
 apnea
@@ -4703,6 +4785,7 @@ apogaic
 apogamic
 apogamy
 apogeal
+apogean
 apogee
 apogeotropic
 apogeotropism
@@ -4733,6 +4816,7 @@ apomorphine
 aponeurosis
 aponeurotic
 aponeurotomy
+apopemptic
 apophasis
 apophlegmatic
 apophlegmatism
@@ -4885,6 +4969,7 @@ appetibility
 appetible
 appetite
 appetition
+appetitive
 appetize
 appetizer
 appetizing
@@ -4953,6 +5038,7 @@ appreciation
 appreciative
 appreciativeness
 appreciator
+appreciatory
 apprehend
 apprehender
 apprehensibiity
@@ -4974,6 +5060,7 @@ apprizement
 apprizer
 approach
 approachability
+approachable
 approachableness
 approacher
 approaching
@@ -4997,6 +5084,7 @@ appropriate
 appropriately
 appropriateness
 appropriation
+appropriative
 appropriator
 approvable
 approval
@@ -5013,6 +5101,7 @@ approximator
 appui
 appulse
 appulsion
+appulsive
 appulsively
 appurtenance
 appurtenant
@@ -5048,6 +5137,7 @@ aptitudinal
 aptly
 aptness
 aptote
+aptotic
 aptychus
 apus
 apyretic
@@ -5073,6 +5163,7 @@ aqueduct
 aqueity
 aqueous
 aqueousness
+aquiferous
 aquiform
 aquilated
 aquiline
@@ -5128,6 +5219,7 @@ araneoidea
 araneidan
 araneina
 araneose
+araneous
 arango
 arapaima
 arara
@@ -5184,6 +5276,8 @@ arc
 arcade
 arcaded
 arcadia
+arcadian
+arcadic
 arcane
 arcanum
 arcboutant
@@ -5221,6 +5315,7 @@ archduchy
 archduke
 archdukedom
 archebiosis
+arched
 archegonial
 archegonium
 archegony
@@ -5246,10 +5341,12 @@ archiblastula
 archical
 archidiaconal
 archiepiscopacy
+archiepiscopal
 archiepiscopality
 archiepiscopate
 archierey
 archil
+archilochian
 archimage
 archimagus
 archimandrite
@@ -5326,6 +5423,7 @@ are
 area
 aread
 areed
+areal
 arear
 areca
 arecoline
@@ -5381,6 +5479,7 @@ argentan
 argentate
 argentation
 argentic
+argentiferous
 argentine
 argentite
 argentous
@@ -5644,6 +5743,7 @@ arsenal
 arsenate
 arseniate
 arsenic
+arsenical
 arsenicate
 arsenicism
 arsenide
@@ -5717,6 +5817,7 @@ articulately
 articulateness
 articulation
 articulative
+articulator
 artifact
 artifice
 artificer
@@ -5749,6 +5850,7 @@ artotype
 artotyrite
 artsman
 arum
+arundelian
 arundiferous
 arundinaceous
 arundineous
@@ -5786,6 +5888,7 @@ ascendency
 ascendible
 ascending
 ascension
+ascensional
 ascensive
 ascertain
 ascertainable
@@ -5828,6 +5931,7 @@ a-sea
 asemia
 asepsis
 aseptic
+asexual
 asexualization
 asexually
 ash
@@ -5870,10 +5974,12 @@ ask
 askance
 askant
 asker
+askew
 asking
 aslake
 aslant
 asleep
+aslope
 aslug
 asmear
 asmonean
@@ -5898,6 +6004,7 @@ asperation
 asperges
 aspergill
 aspergillum
+aspergilliform
 asperifoliate
 asperifolious
 asperity
@@ -6014,6 +6121,7 @@ asseveratory
 assibilate
 assibilation
 assidean
+assident
 assiduate
 assiduity
 assiduous
@@ -6028,11 +6136,13 @@ assignation
 assignee
 assigner
 assignment
+assignor
 assimilability
 assimilable
 assimilate
 assimilation
 assimilative
+assimilatory
 assimulate
 assimulation
 assish
@@ -6145,6 +6255,8 @@ asthenic
 asthenopia
 asthma
 asthmatic
+asthmatical
+astigmatic
 astigmatism
 astipulate
 astipulation
@@ -6155,12 +6267,15 @@ aston
 astone
 astonish
 astonishedly
+astonishing
 astonishment
 astony
 astoop
 astound
+astounding
 astoundment
 astrachan
+astraddle
 astraean
 astragal
 astragalar
@@ -6245,6 +6360,7 @@ asymptote
 asynartete
 asynchronous
 asyndetic
+asyndeton
 asystole
 asystolism
 at
@@ -6364,6 +6480,8 @@ atrabiliar
 atrabiliary
 atrabilious
 atramentaceous
+atramental
+atramentous
 atramentarious
 atrede
 atrenne
@@ -6595,6 +6713,7 @@ auntrous
 aura
 aural
 aurantiaceous
+aurate
 aurated
 aureate
 aurelia
@@ -6605,6 +6724,7 @@ auric
 aurichalceous
 aurichalcite
 auricle
+auricled
 auricula
 auricular
 auricularia
@@ -6652,6 +6772,7 @@ austerely
 austereness
 austerity
 austin
+austral
 australasian
 australian
 australize
@@ -6686,6 +6807,8 @@ authorly
 authorship
 authotype
 autobiographer
+autobiographic
+autobiographical
 autobiographist
 autobiography
 autocarpous
@@ -6918,6 +7041,7 @@ avoutrer
 avoutrie
 avow
 avowable
+avowal
 avowance
 avowant
 avowed
@@ -6986,6 +7110,7 @@ axe
 axial
 axially
 axil
+axile
 axilla
 axillar
 axillaries
@@ -7053,6 +7178,7 @@ azureous
 azurine
 azurite
 azurn
+azygous
 azym
 azyme
 azymic
@@ -7154,6 +7280,7 @@ backboned
 backcast
 backdoor
 backdown
+backed
 backer
 backfall
 back-fire
@@ -7187,6 +7314,8 @@ backslide
 backslider
 backsliding
 backstaff
+backstairs
+backstair
 backstay
 backster
 backstitch
@@ -7250,6 +7379,7 @@ baff
 baffle
 bafflement
 baffler
+baffling
 baffy
 bafta
 bag
@@ -7342,6 +7472,7 @@ bald-faced
 baldhead
 baldheaded
 baldly
+baldness
 baldpate
 baldpated
 baldrib
@@ -7589,10 +7720,12 @@ bardism
 bardling
 bardship
 bare
+bareback
 barebacked
 barebone
 barefaced
 barefacedly
+barefacedness
 barefoot
 barefooted
 barege
@@ -7698,6 +7831,8 @@ barras
 barrator
 barratry
 barrel
+barreled
+barrelled
 barren
 barrenly
 barrenness
@@ -7743,6 +7878,7 @@ barytum
 basal
 basal-nerved
 basalt
+basaltic
 basaltiform
 basaltoid
 basan
@@ -7777,6 +7913,7 @@ basidiomycetes
 basidiospore
 basidium
 basifier
+basifugal
 basify
 basigynium
 basihyal
@@ -8090,6 +8227,7 @@ bebleed
 beblood
 bebloody
 beblot
+beblubber
 bebung
 becalm
 becard
@@ -8131,6 +8269,7 @@ bedchair
 bedchamber
 bedclothes
 bedcord
+bedded
 bedding
 bede
 bedeck
@@ -8539,6 +8678,7 @@ benthamite
 benthos
 benty
 benumb
+benumbed
 benumbment
 benzal
 benzamide
@@ -8611,6 +8751,7 @@ bernouse
 berob
 beroe
 berretta
+berried
 berry
 berrying
 berseem
@@ -8655,6 +8796,7 @@ beseen
 beset
 besetment
 besetter
+besetting
 beshine
 beshow
 beshrew
@@ -8804,6 +8946,7 @@ bewig
 bewilder
 bewildered
 bewilderedness
+bewildering
 bewilderment
 bewinter
 bewit
@@ -8868,6 +9011,7 @@ bibirine
 bibitory
 bible
 bibler
+biblical
 biblicality
 biblically
 biblicism
@@ -8994,6 +9138,7 @@ biferous
 biffin
 bifid
 bifidate
+bifilar
 biflabellate
 biflagellate
 biflorate
@@ -9024,6 +9169,7 @@ bigamous
 bigamy
 bigarreau
 bigaroon
+big-bellied
 bigeminate
 bigential
 bigeye
@@ -9076,6 +9222,7 @@ bilection
 bilestone
 bilge
 bilgy
+biliary
 biliation
 biliferous
 bilifuscin
@@ -9083,6 +9230,7 @@ bilimbi
 bilimbing
 biliment
 bilin
+bilinear
 bilingual
 bilingualism
 bilinguar
@@ -9129,6 +9277,7 @@ billycock hat
 bilobate
 bilobed
 bilocation
+bilocular
 bilsted
 biltong
 bimaculate
@@ -9143,6 +9292,7 @@ bimestrial
 bimetallic
 bimetallism
 bimetallist
+bimolecular
 bimonthly
 bimuscular
 bin
@@ -9252,6 +9402,7 @@ bipinnatifid
 biplane
 biplicate
 biplicity
+bipolar
 bipolarity
 bipont
 bipontine
@@ -9296,6 +9447,7 @@ bird's-nesting
 bird's-tongue
 bird-witted
 birdwoman
+birectangular
 bireme
 biretta
 birgander
@@ -9339,6 +9491,7 @@ biserrate
 bisetose
 bisetous
 bisexous
+bisexual
 bisexuous
 bish
 bishop
@@ -9690,6 +9843,7 @@ blissom
 blister
 blistery
 blite
+blithe
 blitheful
 blithely
 blitheness
@@ -9718,6 +9872,7 @@ bloedite
 blomary
 bloncket
 blonket
+blond
 blonde
 blondness
 blood
@@ -9861,6 +10016,7 @@ blusher
 blushet
 blushful
 blushing
+blushingly
 blushless
 blushy
 bluster
@@ -9905,6 +10061,7 @@ bob
 bobac
 bobance
 bobber
+bobbery
 bobbin
 bobbinet
 bobbinwork
@@ -9917,6 +10074,7 @@ bobsled
 bobsleigh
 bobstay
 bobtail
+bobtailed
 bobwhite
 bocal
 bocardo
@@ -10061,6 +10219,7 @@ bombproof
 bombshell
 bombycid
 bombycinous
+bombylious
 bombyx
 bon
 bon-accord
@@ -10113,6 +10272,7 @@ boniform
 bonify
 boniness
 boning
+bonitary
 bonito
 bonmot
 bonnaz
@@ -10245,6 +10405,7 @@ bordrag
 bordraging
 bordure
 bore
+boreal
 boreas
 borecole
 boredom
@@ -10355,6 +10516,7 @@ bottle-nosed
 bottler
 bottom
 bottomed
+bottomless
 bottomry
 bottony
 bottone
@@ -10728,6 +10890,7 @@ braziletto
 brazilian
 brazilin
 breach
+breachy
 bread
 breadbasket
 breaded
@@ -10975,6 +11138,7 @@ brisure
 brit
 britt
 britannia
+britannic
 brite
 briticism
 british
@@ -11069,6 +11233,7 @@ bromidiom
 brominate
 bromine
 bromism
+bromize
 bromlife
 bromoform
 bromogelatin
@@ -11139,6 +11304,7 @@ browbeat
 browbeating
 browbound
 browdyng
+browed
 browless
 brown
 brownback
@@ -11186,6 +11352,7 @@ brushite
 brushwood
 brushy
 brusk
+brusque
 brusqueness
 brussels
 brustle
@@ -11416,6 +11583,7 @@ bumble
 bumblebee
 bumblepuppy
 bumboat
+bumkin
 bummalo
 bummer
 bummery
@@ -11557,6 +11725,7 @@ burrock
 burrow
 burrower
 burrstone
+burry
 bursa
 bursal
 bursar
@@ -11800,6 +11969,8 @@ cachaemia
 cachemia
 cachalot
 cache
+cachectic
+cachectical
 cachepot
 cachet
 cachexia
@@ -11871,6 +12042,7 @@ cadent
 cadenza
 cader
 cadet
+cadetship
 cadew
 cadeworm
 cadge
@@ -11885,6 +12057,7 @@ cadis
 cadmean
 cadmia
 cadmian
+cadmic
 cadmium
 cadrans
 cadre
@@ -12007,6 +12180,7 @@ calcified
 calciform
 calcify
 calcigenous
+calcigerous
 calcimine
 calciminer
 calcinable
@@ -12443,6 +12617,7 @@ canonistic
 canonization
 canonize
 canonry
+canonship
 canopus
 canopy
 canorous
@@ -12467,6 +12642,7 @@ canteen
 cantel
 canter
 canterbury
+cantharidal
 cantharides
 cantharidin
 cantharis
@@ -12494,6 +12670,7 @@ cantonment
 cantoon
 cantor
 cantoral
+cantoris
 cantrap
 cantrip
 cantred
@@ -12653,6 +12830,7 @@ captious
 captiously
 captiousness
 captivate
+captivating
 captivation
 captive
 captivity
@@ -12724,6 +12902,7 @@ carbonatation
 carbonate
 carbonated
 carbone
+carbonic
 carbonide
 carboniferous
 carbonite
@@ -12831,6 +13010,7 @@ cariosity
 carious
 cark
 carkanet
+carking
 carl
 carlin
 carline
@@ -12839,6 +13019,7 @@ carlings
 carlist
 carlock
 carlot
+carlovingian
 carmagnole
 carman
 carmelite
@@ -12895,6 +13076,7 @@ caromel
 caroteel
 carotic
 carotid
+carotidal
 carotin
 carotte
 carousal
@@ -12992,6 +13174,7 @@ cartulary
 cartway
 cartwright
 carucage
+carucate
 caruncle
 caruncula
 caruncular
@@ -13045,6 +13228,7 @@ cash
 cashbook
 cashew
 cashier
+cashierer
 cashmere
 cashmerette
 cashoo
@@ -13223,6 +13407,7 @@ catchup
 catsup
 catchwater
 catchweed
+catchweight
 catchword
 catchwork
 catchy
@@ -13245,9 +13430,11 @@ catechu
 catechuic
 catechumen
 catechumenate
+catechumenical
 catechumenist
 categorematic
 categorical
+categorically
 categoricalness
 categorist
 categorize
@@ -13295,6 +13482,7 @@ catheterism
 catheterization
 catheterize
 cathetometer
+cathetus
 cathode
 cathodic
 cathodograph
@@ -13389,6 +13577,7 @@ causidical
 caustic
 caustical
 caustically
+causticily
 causticness
 cautel
 cautelous
@@ -13469,6 +13658,7 @@ cecutiency
 cedar
 cedared
 cedarn
+cede
 cedilla
 cedrat
 cedrene
@@ -13560,6 +13750,7 @@ censorian
 censorious
 censorship
 censual
+censurable
 censure
 censurer
 census
@@ -13659,6 +13850,7 @@ cephalaspis
 cephalata
 cephalate
 cephalic
+cephalism
 cephalitis
 cephalization
 cephalocercal
@@ -13741,6 +13933,7 @@ cerecloth
 cerement
 ceremonial
 ceremonialism
+ceremonially
 ceremonialness
 ceremonious
 ceremoniously
@@ -13776,6 +13969,7 @@ ceroplasty
 cerosin
 cerote
 cerotene
+cerotic
 cerotin
 cerotype
 cerrial
@@ -13799,6 +13993,7 @@ cerulescent
 ceruleum
 cerulific
 cerumen
+ceruminous
 ceruse
 cerused
 cerusite
@@ -13936,6 +14131,7 @@ chalk
 chalkcutter
 chalkiness
 chalkstone
+chalky
 challenge
 challengeable
 challenger
@@ -13949,6 +14145,7 @@ cham
 chamade
 chamal
 chamber
+chambered
 chamberer
 chambering
 chamberlain
@@ -14237,6 +14434,7 @@ checkroll
 checkstring
 checkwork
 checky
+cheddar
 cheek
 cheeked
 cheep
@@ -14348,6 +14546,7 @@ chessman
 chessom
 chesstree
 chest
+chested
 chesterlite
 chesteyn
 chestnut
@@ -14359,6 +14558,7 @@ cheval
 cheval-de-frise
 chevalier
 chevaux
+cheve
 chevelure
 cheven
 cheventein
@@ -14370,6 +14570,7 @@ chevisance
 chevrette
 chevron
 chevronel
+chevronwise
 chevrotain
 chevy
 chew
@@ -14674,6 +14875,7 @@ cholericly
 choleriform
 cholerine
 choleroid
+cholesteric
 cholesterin
 choliamb
 choliambic
@@ -14833,6 +15035,7 @@ chromite
 chromium
 chromo
 chromoblast
+chromogenic
 chromograph
 chromoleucite
 chromolithograph
@@ -14973,6 +15176,7 @@ chylific
 chylification
 chylificatory
 chylify
+chylopoetic
 chylous
 chyluria
 chyme
@@ -15021,11 +15225,14 @@ cigarette
 cilia
 ciliary
 ciliata
+ciliate
+ciliated
 cilice
 cilician
 cilicious
 ciliform
 ciliiform
+ciliograde
 cilium
 cill
 cillosis
@@ -15114,6 +15321,7 @@ circuit
 circuiteer
 circuiter
 circuition
+circuitous
 circuity
 circulable
 circular
@@ -15234,6 +15442,7 @@ cirrate
 cirrhiferous
 cirrhose
 cirrhosis
+cirrhotic
 cirrhous
 cirrhus
 cirri
@@ -15292,6 +15501,7 @@ citole
 citraconic
 citrange
 citrate
+citric
 citrination
 citrine
 citron
@@ -15313,6 +15523,7 @@ civilization
 civilize
 civilized
 civilizer
+civily
 civism
 cizar
 cizars
@@ -15480,6 +15691,7 @@ clean-cut
 cleaner
 cleaning
 cleanlily
+clean-limbed
 cleanliness
 cleanly
 cleanness
@@ -15500,6 +15712,7 @@ clearly
 clearness
 clear-seeing
 clear-shining
+clear-sighted
 clear-sightedness
 clearstarch
 clearstarcher
@@ -15539,6 +15752,7 @@ clergeon
 clergial
 clergical
 clergy
+clergyable
 clergyman
 cleric
 clerical
@@ -15733,6 +15947,7 @@ clouterly
 clove
 cloven-footed
 cloven-hoofed
+clover
 clovered
 clowe-gilofre
 clown
@@ -15839,6 +16054,7 @@ coagulated
 coagulation
 coagulative
 coagulator
+coagulatory
 coagulum
 coaita
 coak
@@ -15920,6 +16136,7 @@ cocagne
 cocaine
 cocainism
 cocainize
+cocciferous
 coccinella
 coccobacterium
 coccolite
@@ -15948,6 +16165,7 @@ cockamaroo
 cockateel
 cockatoo
 cockatrice
+cockbill
 cockboat
 cock-brained
 cockchafer
@@ -16116,6 +16334,7 @@ cognatus
 cognisor
 cognisee
 cognition
+cognitive
 cognizable
 cognizably
 cognizance
@@ -16182,6 +16401,7 @@ coincident
 coincidental
 coincidently
 coincider
+coindication
 coiner
 coinhabitant
 coinhere
@@ -16192,6 +16412,7 @@ coinquinate
 coinquination
 coinstantaneous
 coinsurance
+cointense
 cointension
 coir
 coistril
@@ -16331,6 +16552,7 @@ colliquable
 colliquament
 colliquate
 colliquation
+colliquative
 colliquefaction
 collish
 collision
@@ -16353,6 +16575,7 @@ colloped
 collophore
 colloquial
 colloquialism
+colloquialize
 colloquist
 colloquy
 collotype
@@ -16383,6 +16606,7 @@ colonel
 colonelcy
 colonelship
 coloner
+colonial
 colonialism
 colonical
 colonist
@@ -16466,12 +16690,14 @@ comanches
 comart
 comate
 co-mate
+comatose
 comatous
 comatula
 comatulid
 comb
 combe
 combat
+combatable
 combatant
 combater
 combativeness
@@ -16598,6 +16824,7 @@ commentator
 commentatorial
 commentatorship
 commenter
+commentitious
 commerce
 commercial
 commercialism
@@ -16712,6 +16939,7 @@ compactly
 compactness
 compacture
 compages
+compaginate
 compagination
 companable
 companator
@@ -16719,6 +16947,7 @@ companiable
 companion
 companionable
 companionless
+companionship
 company
 comparable
 comparate
@@ -16796,6 +17025,7 @@ compiler
 compinge
 complacence
 complacency
+complacent
 complacential
 complacently
 complain
@@ -16805,6 +17035,7 @@ complainer
 complaint
 complaintful
 complaisance
+complaisant
 complanar
 complanate
 complected
@@ -16825,6 +17056,7 @@ complexion
 complexional
 complexionally
 complexionary
+complexioned
 complexity
 complexly
 complexness
@@ -16901,9 +17133,11 @@ comprehensiveness
 comprehensor
 compress
 compressed
+compressibility
 compressible
 compressibleness
 compression
+compressive
 compressor
 compressure
 comprint
@@ -17013,11 +17247,13 @@ conceptual
 conceptualism
 conceptualist
 concern
+concerned
 concernedly
 concerning
 concert
 concertation
 concertative
+concerted
 concertina
 concertino
 concertion
@@ -17033,6 +17269,7 @@ concessory
 concettism
 conch
 concha
+conchal
 conchifer
 conchiferous
 conchiform
@@ -17047,6 +17284,8 @@ conchology
 conchometer
 conchometry
 concho-spiral
+conchylaceous
+conchyliaceous
 conchyliologist
 conchyliology
 conchyliometry
@@ -17155,6 +17394,7 @@ cond
 condemn
 condemnable
 condemnation
+condemnatory
 condemned
 condemner
 condensability
@@ -17164,6 +17404,7 @@ condensation
 condensative
 condense
 condenser
+condensible
 conder
 condescend
 condescendence
@@ -17209,6 +17450,7 @@ conductance
 conductibility
 conductible
 conduction
+conductive
 conductivity
 conductor
 conductory
@@ -17396,6 +17638,7 @@ congener
 congeneracy
 congeneric
 congenerical
+congenerous
 congenial
 congeniality
 congenialize
@@ -17459,6 +17702,7 @@ conical
 conicality
 conically
 conicalness
+conico-
 conicoid
 conics
 conidium
@@ -17584,6 +17828,7 @@ conscienced
 conscienceless
 conscient
 conscientious
+conscientiously
 conscientiousness
 conscionable
 conscionableness
@@ -17689,6 +17934,7 @@ consolidant
 consolidate
 consolidation
 consolidative
+consoling
 consols
 consomme
 consonance
@@ -17754,6 +18000,7 @@ constitutive
 constitutively
 constrain
 constrainable
+constrained
 constrainedly
 constrainer
 constraint
@@ -17935,6 +18182,7 @@ contorniate
 contorsion
 contort
 contorted
+contortion
 contortionist
 contortive
 contortuplicate
@@ -18074,6 +18322,7 @@ convallamarin
 convallaria
 convallarin
 convection
+convective
 convectively
 convellent
 convenable
@@ -18097,6 +18346,7 @@ conventionality
 conventionalization
 conventionalize
 conventionally
+conventionary
 conventioner
 conventionist
 conventual
@@ -18104,6 +18354,7 @@ converge
 convergence
 convergency
 convergent
+converging
 conversable
 conversableness
 conversably
@@ -18409,6 +18660,7 @@ co-relation
 co-religionist
 coreopsis
 coreplasty
+corer
 co-respondent
 corf
 corfiote
@@ -18426,6 +18678,7 @@ corivalry
 corivalship
 cork
 corkage
+corked
 corkiness
 corkscrew
 corkwing
@@ -18524,6 +18777,7 @@ coroniform
 coronilla
 coronis
 coronium
+coronoid
 coronule
 coroun
 corozo
@@ -18576,6 +18830,8 @@ correctional
 correctioner
 corrective
 correctly
+correctness
+corrector
 correctory
 correctress
 correi
@@ -18634,6 +18890,7 @@ corrugent
 corrump
 corrumpable
 corrupt
+corrupter
 corruptful
 corruptibility
 corruptible
@@ -18747,6 +19004,8 @@ cossack
 cossas
 cosset
 cossette
+cossic
+cossical
 cost
 costa
 costage
@@ -18830,9 +19089,11 @@ cotyla
 cotyle
 cotyledon
 cotyledonal
+cotyledonary
 cotyledonous
 cotyliform
 cotyligerous
+cotyloid
 coucal
 couch
 couchancy
@@ -19203,6 +19464,7 @@ crag
 cragged
 craggedness
 cragginess
+craggy
 cragsman
 craie
 crail
@@ -19233,6 +19495,7 @@ crania
 cranial
 cranioclasm
 cranioclast
+craniofacial
 craniognomy
 craniological
 craniologist
@@ -19342,6 +19605,7 @@ creasy
 creat
 creatable
 create
+creatic
 creatin
 creatinin
 creation
@@ -19369,8 +19633,10 @@ credence
 credendum
 credent
 credential
+credibility
 credible
 credibleness
+credibly
 credit
 creditable
 creditableness
@@ -19483,6 +19749,7 @@ crevalle
 crevasse
 crevet
 crevice
+creviced
 crevis
 crew
 crewel
@@ -19518,12 +19785,15 @@ criminalness
 criminate
 crimination
 criminative
+criminatory
 criminology
 criminous
 crimosin
 crimp
 crimpage
+crimper
 crimple
+crimpy
 crimson
 crinal
 crinated
@@ -19622,6 +19892,7 @@ crocose
 crocus
 croesus
 croft
+crofter
 crofting
 croftland
 croisade
@@ -19658,6 +19929,7 @@ crop-tailed
 croquante
 croquet
 croquette
+crore
 crosier
 crosiered
 croslet
@@ -19757,6 +20029,7 @@ croupal
 crouper
 croupier
 croupous
+croupy
 crouse
 croustade
 crout
@@ -19849,6 +20122,7 @@ crunode
 cruor
 cruorin
 crup
+crupper
 crura
 crural
 crus
@@ -19876,6 +20150,7 @@ crustalogist
 crustalogy
 crustated
 crustation
+crusted
 crustific
 crustily
 crustiness
@@ -19958,6 +20233,7 @@ cubbyhole
 cubdrawn
 cube
 cubeb
+cubebic
 cubhood
 cubic
 cubical
@@ -20195,6 +20471,7 @@ curious
 curiously
 curiousness
 curl
+curled
 curledness
 curler
 curlew
@@ -20204,11 +20481,13 @@ curlingly
 curly
 curlycue
 curmudgeon
+curmudgeonly
 curmurring
 curr
 currant
 currency
 current
+currently
 currentness
 curricle
 curriculum
@@ -20231,10 +20510,12 @@ cursorary
 cursores
 cursorial
 cursorily
+cursoriness
 cursory
 curst
 curstfully
 curstness
+curt
 curtail
 curtailer
 curtailment
@@ -20267,6 +20548,8 @@ curvicostate
 curvidentate
 curviform
 curvilinead
+curvilineal
+curvilinear
 curvilinearity
 curvilinearly
 curvinerved
@@ -20365,6 +20648,7 @@ cyanophyll
 cyanosed
 cyanosis
 cyanosite
+cyanotic
 cyanotype
 cyanurate
 cyanuret
@@ -20379,6 +20663,8 @@ cyclamen
 cyclamin
 cyclas
 cycle
+cyclic
+cyclical
 cyclide
 cycling
 cyclist
@@ -20387,6 +20673,7 @@ cycloganoid
 cycloganoidei
 cyclograph
 cycloid
+cycloidal
 cycloidei
 cycloidian
 cyclometer
@@ -20676,6 +20963,7 @@ damoiselle
 damourite
 damp
 dampen
+damper
 dampish
 dampne
 dampness
@@ -20809,6 +21097,7 @@ dashism
 dashpot
 dashy
 dastard
+dastardize
 dastardliness
 dastardly
 dastardness
@@ -21011,6 +21300,8 @@ debellation
 debenture
 debentured
 debile
+debilitant
+debilitate
 debilitation
 debility
 debit
@@ -21028,6 +21319,7 @@ debouch
 debouche
 debouchure
 debris
+debruised
 debt
 debtee
 debtless
@@ -21049,6 +21341,7 @@ decade
 decadence
 decadency
 decadent
+decadist
 decagon
 decagonal
 decagram
@@ -21092,6 +21385,7 @@ decapodal
 decapodous
 decarbonate
 decarbonization
+decarbonize
 decarbonizer
 decarburization
 decarburize
@@ -21210,6 +21504,7 @@ deck
 deckel
 decker
 deckle
+deckle-edged
 declaim
 declaimant
 declaimer
@@ -21238,6 +21533,7 @@ declinate
 declination
 declinator
 declinatory
+declinature
 decline
 declined
 decliner
@@ -21390,10 +21686,12 @@ deemster
 deep
 deepen
 deep-fet
+deep-laid
 deeply
 deep-mouthed
 deepness
 deep-read
+deep-sea
 deep-waisted
 deer
 deerberry
@@ -21485,6 +21783,8 @@ defibrinize
 deficience
 deficiency
 deficient
+deficit
+defier
 defiguration
 defigure
 defilade
@@ -21555,6 +21855,7 @@ defraudation
 defrauder
 defraudment
 defray
+defrayal
 defrayer
 defrayment
 deft
@@ -21616,6 +21917,7 @@ dehortatory
 dehorter
 dehumanize
 dehusk
+dehydrate
 dehydration
 dehydrogenate
 dehydrogenation
@@ -21645,12 +21947,15 @@ deipnosophist
 deis
 deism
 deist
+deistic
+deistical
 deistically
 deisticalness
 deitate
 deity
 deject
 dejecta
+dejected
 dejecter
 dejection
 dejectly
@@ -21698,6 +22003,7 @@ delegatory
 delenda
 delenifical
 delete
+deleterious
 deletery
 deletion
 deletitious
@@ -21726,6 +22032,7 @@ delicatessen
 delices
 deliciate
 delicious
+deliciously
 deliciousness
 delict
 deligate
@@ -22135,6 +22442,7 @@ deoxidate
 deoxidation
 deoxidization
 deoxidize
+deoxidizer
 deoxygenate
 deoxygenation
 deoxygenize
@@ -22438,6 +22746,7 @@ desecrate
 desecrater
 desecration
 desecrator
+desegmentation
 desert
 deserter
 desertful
@@ -22547,6 +22856,7 @@ desperation
 despicability
 despicable
 despicableness
+despicably
 despiciency
 despisable
 despisal
@@ -22567,6 +22877,7 @@ despoliation
 despond
 despondence
 despondency
+despondent
 desponder
 despondingly
 desponsage
@@ -22638,6 +22949,7 @@ desynonymization
 desynonymize
 detach
 detachable
+detached
 detachment
 detail
 detailer
@@ -22646,6 +22958,8 @@ detainder
 detainer
 detainment
 detect
+detectable
+detectible
 detecter
 detection
 detective
@@ -22844,6 +23158,7 @@ devotee
 devotement
 devoter
 devotion
+devotional
 devotionalist
 devotionist
 devotionality
@@ -22998,6 +23313,7 @@ dialytic
 dialyzate
 dialyzation
 dialyze
+dialyzed
 dialyzer
 diamagnet
 diamagnetic
@@ -23054,6 +23370,7 @@ diaphoretic
 diaphoretical
 diaphote
 diaphragm
+diaphragmatic
 diaphysis
 diapnoic
 diapophysical
@@ -23071,6 +23388,7 @@ diarthrosis
 diary
 diaspore
 diastase
+diastasic
 diastasis
 diastatic
 diastem
@@ -23098,6 +23416,8 @@ diatonically
 diatribe
 diatribist
 diatryma
+diazeuctic
+diazeutic
 diazotize
 dib
 dibasic
@@ -23129,6 +23449,7 @@ dichogamous
 dichogamy
 dichotomist
 dichotomize
+dichotomous
 dichotomy
 dichroic
 dichroiscope
@@ -23150,7 +23471,9 @@ dickey
 dicky
 diclinic
 diclinous
+dicoccous
 dicotyledon
+dicotyledonous
 dicrotal
 dicrotous
 dicrotic
@@ -23295,6 +23618,8 @@ diffusivity
 dig
 digamist
 digamma
+digammate
+digammated
 digamous
 digamy
 digastric
@@ -23324,6 +23649,7 @@ digitalis
 digitate
 digitated
 digitation
+digitiform
 digitigrade
 digitipartite
 digitize
@@ -23466,11 +23792,13 @@ dimly
 dimmish
 dimmy
 dimness
+dimorph
 dimorphic
 dimorphism
 dimorphous
 dimple
 dimplement
+dimply
 dim-sighted
 dimya
 dimyaria
@@ -23529,6 +23857,8 @@ dioicous
 diomedea
 dionaea
 dionysia
+dionysiac
+dionysian
 diophantine
 diopside
 dioptase
@@ -23536,6 +23866,7 @@ diopter
 dioptra
 dioptre
 dioptric
+dioptrical
 dioptrics
 dioptry
 diorama
@@ -23647,6 +23978,7 @@ directorship
 directory
 directress
 directrix
+direful
 direly
 dirempt
 diremption
@@ -23820,6 +24152,7 @@ disceptator
 discern
 discernance
 discerner
+discernible
 discernibleness
 discernibly
 discerning
@@ -23949,6 +24282,7 @@ discorrespondent
 discost
 discounsel
 discount
+discountable
 discountenance
 discountenancer
 discounter
@@ -23967,6 +24301,7 @@ discous
 discovenant
 discover
 discoverability
+discoverable
 discoverer
 discoverment
 discovert
@@ -24215,6 +24550,7 @@ disimbitter
 disimpark
 disimpassioned
 disimprove
+disimprovement
 disincarcerate
 disinclination
 disincline
@@ -24398,6 +24734,7 @@ dispensator
 dispensatorily
 dispensatory
 dispense
+dispenser
 dispeople
 dispeopler
 disperge
@@ -24463,6 +24800,7 @@ disposingly
 disposited
 disposition
 dispositional
+dispositioned
 dispositive
 dispositively
 dispositor
@@ -24526,6 +24864,7 @@ disquietal
 disquieter
 disquietful
 disquietive
+disquietly
 disquietment
 disquietness
 disquietous
@@ -24635,6 +24974,8 @@ dissilience
 dissiliency
 dissilient
 dissilition
+dissimilar
+dissimilarity
 dissimilarly
 dissimilate
 dissimilation
@@ -24657,6 +24998,7 @@ disslander
 disslanderous
 dissociability
 dissociable
+dissocial
 dissocialize
 dissociate
 dissociation
@@ -24697,6 +25039,7 @@ dissympathy
 distad
 distaff
 distain
+distal
 distally
 distance
 distancy
@@ -25064,6 +25407,7 @@ documentary
 dodd
 dod
 doddart
+dodded
 dodder
 doddered
 dodecagon
@@ -25089,6 +25433,7 @@ dodkin
 dodman
 dodo
 doe
+doeglic
 doegling
 doeskin
 doff
@@ -25198,6 +25543,7 @@ dolorous
 dolphin
 dolphinet
 dolt
+doltish
 dolus
 dom
 domable
@@ -25215,6 +25561,7 @@ domestic
 domestical
 domestically
 domesticant
+domesticate
 domestication
 domesticator
 domesticity
@@ -25255,6 +25602,7 @@ donable
 donary
 donat
 donatary
+donate
 donation
 donatism
 donatist
@@ -25358,6 +25706,7 @@ dorsibranchiate
 dorsimeson
 dorsiparous
 dorsiventral
+dorsoventral
 dorsum
 dortour
 dorture
@@ -25471,6 +25820,7 @@ doughtily
 doughtiness
 doughtren
 doughty
+doughy
 doulocracy
 doupe
 dour
@@ -25514,6 +25864,7 @@ downfall
 downfallen
 downfalling
 downgyved
+downhaul
 downhearted
 downhill
 downiness
@@ -25630,6 +25981,7 @@ dramseller
 dramshop
 drank
 drape
+draper
 draperied
 drapery
 drapet
@@ -25642,6 +25994,7 @@ draughthouse
 draughts
 draughtsman
 draughtsmanship
+draughty
 dravida
 dravidian
 draw
@@ -25766,6 +26119,7 @@ drimys
 drink
 drinkable
 drinkableness
+drinker
 drinking
 drinkless
 drip
@@ -26050,6 +26404,7 @@ dully
 dulocracy
 dulse
 dulwilly
+duly
 dumal
 dumb
 dumb-bell
@@ -26145,6 +26500,7 @@ duramen
 durance
 durancy
 durant
+durante
 duration
 durative
 durbar
@@ -26158,12 +26514,14 @@ durga
 durham
 durian
 durion
+during
 durio
 durity
 durometer
 durous
 durra
 durukuli
+durylic
 duse
 dusk
 dusken
@@ -26255,7 +26613,10 @@ dysaesthesia
 dyscrasia
 dyscrasite
 dyscrasy
+dysenteric
+dysenterical
 dysentery
+dysgenesic
 dysgenesis
 dyslogistic
 dysluite
@@ -26264,6 +26625,7 @@ dysmenorrhea
 dysnomy
 dysodile
 dyspeptic
+dyspeptical
 dyspeptone
 dysphagia
 dysphagy
@@ -26345,6 +26707,7 @@ ear-shell
 earshot
 earshrift
 earsore
+ear-splitting
 earst
 earth
 earthbag
@@ -26391,6 +26754,7 @@ east
 easter
 easterling
 easterly
+eastern
 easternmost
 easting
 east-insular
@@ -26418,6 +26782,7 @@ eblis
 ebon
 ebonist
 ebonite
+ebonize
 ebony
 ebracteate
 ebracteolate
@@ -26477,6 +26842,8 @@ eche
 echelon
 echidna
 echidnine
+echinate
+echinated
 echinid
 echinidan
 echinital
@@ -26613,6 +26980,7 @@ edentation
 edentulous
 edge
 edgebone
+edgeless
 edgelong
 edgeshot
 edgeways
@@ -26625,6 +26993,7 @@ edibility
 edible
 edibleness
 edict
+edictal
 edificant
 edification
 edificatory
@@ -26655,6 +27024,7 @@ educated
 education
 educational
 educationist
+educative
 educator
 educe
 educible
@@ -26796,6 +27166,7 @@ egest
 egesta
 egestion
 egg
+eggar
 egg-bird
 egg-cup
 eggement
@@ -26891,6 +27262,7 @@ ejaculation
 ejaculator
 ejaculatory
 eject
+ejecta
 ejection
 ejectment
 ejector
@@ -27034,6 +27406,7 @@ electro-dynamometer
 electro-engraving
 electro-etching
 electrogenesis
+electrogenic
 electrogeny
 electro-gilding
 electro-gilt
@@ -27056,6 +27429,8 @@ electro-magnetic
 electro-magnetism
 electro-metallurgy
 electrometer
+electro-metric
+electro-metrical
 electrometry
 electro-motion
 electro-motive
@@ -27121,6 +27496,7 @@ element
 elemental
 elementalism
 elementality
+elementally
 elementar
 elementariness
 elementarity
@@ -27152,6 +27528,7 @@ eleutheromania
 eleutheromaniac
 eleuthero-petalous
 elevate
+elevated
 elevatedness
 elevation
 elevator
@@ -27171,6 +27548,7 @@ elicit
 elicitate
 elicitation
 elide
+eligibility
 eligible
 eligibleness
 eligibly
@@ -27198,6 +27576,7 @@ elknut
 elkwood
 ell
 ellachick
+ellagic
 ellebore
 elleborin
 elleck
@@ -27210,6 +27589,7 @@ ellipse
 ellipsis
 ellipsograph
 ellipsoid
+ellipsoidal
 elliptic
 elliptical
 elliptically
@@ -27254,6 +27634,7 @@ elrich
 elritch
 else
 elsewhere
+elsewhither
 elsewise
 elsin
 elucidate
@@ -27273,6 +27654,7 @@ elusion
 elusive
 elusory
 elute
+elutriate
 elutriation
 eluxate
 eluxation
@@ -27350,6 +27732,7 @@ embattlement
 embay
 embayment
 embeam
+embed
 embedment
 embellish
 embellisher
@@ -27396,6 +27779,8 @@ embolism
 embolismal
 embolismatic
 embolismatical
+embolismic
+embolismical
 embolite
 embolus
 emboly
@@ -27466,6 +27851,7 @@ embryonated
 embryonic
 embryoniferous
 embryoniform
+embryoplastic
 embryotic
 embryotomy
 embryotroph
@@ -27525,6 +27911,7 @@ emigre
 eminence
 eminency
 eminent
+eminently
 emir
 emirship
 emeership
@@ -27666,6 +28053,7 @@ emu
 emulable
 emulate
 emulation
+emulative
 emulatively
 emulator
 emulatory
@@ -27807,6 +28195,7 @@ encomber
 encomberment
 encomiast
 encomiastic
+encomiastical
 encomion
 encomium
 encompass
@@ -27857,6 +28246,7 @@ encyclopedism
 encyclopedist
 encyst
 encystation
+encysted
 encystment
 end
 endable
@@ -27883,6 +28273,7 @@ endecagon
 endecagynous
 endecane
 endecaphyllous
+endeictic
 endeixis
 endemial
 endemic
@@ -27892,6 +28283,7 @@ endemiology
 endenization
 endenize
 endenizen
+ender
 endermatic
 endermic
 endermically
@@ -27965,6 +28357,7 @@ endorser
 endosarc
 endoscope
 endoscopy
+endoskeletal
 endoskeleton
 endosmometer
 endosmometric
@@ -28074,6 +28467,7 @@ engagedly
 engagedness
 engagement
 engager
+engaging
 engallant
 engaol
 engarboil
@@ -28104,10 +28498,12 @@ englishman
 englishry
 englishwoman
 engloom
+englue
 englut
 engore
 engorge
 engorgement
+engouled
 engoulee
 engraff
 engraffment
@@ -28294,6 +28690,7 @@ enshield
 enshrine
 enshroud
 ensiferous
+ensiform
 ensign
 ensigncy
 ensignship
@@ -28383,6 +28780,7 @@ entheastic
 entheat
 enthelmintha
 enthelminthes
+enthetic
 enthrall
 enthrallment
 enthrill
@@ -28392,6 +28790,7 @@ enthronization
 enthronize
 enthuse
 enthusiasm
+enthusiast
 enthusiastic
 enthusiastical
 enthymematic
@@ -28451,6 +28850,7 @@ entoperipheral
 entophyte
 entophytic
 entoplasm
+entoplastic
 entoplastron
 entoprocta
 entoptic
@@ -28574,6 +28974,8 @@ eosphorite
 eozoic
 eozoon
 eozooen
+eozoonal
+eozooenal
 epacris
 epact
 epagoge
@@ -28604,6 +29006,8 @@ epencephalon
 ependyma
 ependymis
 epenetic
+epenthesis
+epenthetic
 epergne
 eperlan
 epexegesis
@@ -28698,6 +29102,7 @@ epidictical
 epididymis
 epididymitis
 epidote
+epidotic
 epigaea
 epigaeous
 epigastrial
@@ -28722,6 +29127,8 @@ epigrammatize
 epigrammatizer
 epigrammist
 epigraph
+epigraphic
+epigraphical
 epigraphics
 epigraphist
 epigraphy
@@ -28848,6 +29255,7 @@ epithalamic
 epithalamium
 epithalamy
 epitheca
+epithelial
 epithelioid
 epithelioma
 epithelium
@@ -28936,10 +29344,12 @@ equestrian
 equestrianism
 equestrienne
 equiangled
+equiangular
 equibalance
 equicrescent
 equicrural
 equicrure
+equidifferent
 equidistance
 equidistant
 equidiurnal
@@ -28985,6 +29395,8 @@ equisetiform
 equisetum
 equisonance
 equitable
+equitableness
+equitably
 equitancy
 equitant
 equitation
@@ -29184,6 +29596,7 @@ erythrochroism
 erythrodextrin
 erythrogen
 erythrogranulose
+erythroid
 erythroleic
 erythrolein
 erythrolitmin
@@ -29248,6 +29661,7 @@ escuage
 esculapian
 esculapius
 esculent
+esculic
 esculin
 escurial
 escutcheon
@@ -29445,6 +29859,7 @@ ethnical
 ethnically
 ethnographically
 ethnography
+ethnologically
 ethnologist
 ethology
 ethos
@@ -29514,6 +29929,8 @@ eudemonistical
 eudaemonistical
 eudialyte
 eudiometer
+eudiometric
+eudiometrical
 eudiometry
 eudipleura
 eudoxian
@@ -29647,6 +30064,7 @@ eval
 evaluate
 evaluation
 evanesce
+evanescence
 evanescent
 evanescently
 evangel
@@ -29663,11 +30081,13 @@ evangelistic
 evangelize
 evangely
 evangile
+evanid
 evanish
 evanishment
 evaporable
 evaporate
 evaporation
+evaporative
 evaporator
 evaporometer
 evasible
@@ -29716,6 +30136,7 @@ eversive
 evert
 every
 everybody
+everyday
 everyone
 everything
 everywhen
@@ -29824,6 +30245,7 @@ examine
 examinee
 examiner
 examinership
+examining
 examplary
 example
 exampleless
@@ -29907,10 +30329,12 @@ exceptional
 exceptioner
 exceptionless
 exceptious
+exceptive
 exceptless
 exceptor
 excerebration
 excerebrose
+excern
 excernent
 excerp
 excerpt
@@ -29931,6 +30355,7 @@ excide
 excipient
 exciple
 excipulum
+excisable
 excise
 exciseman
 excision
@@ -29942,7 +30367,9 @@ excitative
 excitator
 excitatory
 excite
+exciteful
 exciter
+exciting
 excitive
 excito-motion
 excito-motor
@@ -29952,6 +30379,7 @@ exclaim
 exclaimer
 exclamation
 exclamative
+exclamatory
 exclave
 exclude
 exclusion
@@ -29997,9 +30425,11 @@ exculpation
 excurrent
 excurse
 excursionist
+excursive
 excursus
 excusation
 excusator
+excusatory
 excuse
 excuseless
 excusement
@@ -30057,6 +30487,7 @@ exequy
 exercent
 exercise
 exerciser
+exercisible
 exercitation
 exergue
 exert
@@ -30081,6 +30512,7 @@ exhaustible
 exhausting
 exhaustion
 exhaustive
+exhaustless
 exhaustment
 exhausture
 exhedra
@@ -30103,6 +30535,7 @@ exhortation
 exhortative
 exhorter
 exhumated
+exhumation
 exhume
 exiccate
 exiccation
@@ -30132,6 +30565,8 @@ exit
 exitial
 exitious
 exmoor
+exocardiac
+exocardial
 exocarp
 exoccipital
 exocetus
@@ -30200,6 +30635,7 @@ exoterics
 exotery
 exotheca
 exothecium
+exothermic
 exotic
 exotical
 exoticism
@@ -30236,6 +30672,7 @@ expediate
 expedience
 expediency
 expedient
+expeditate
 expedite
 expeditely
 expediteness
@@ -30274,12 +30711,15 @@ experimentist
 experrection
 expert
 expertly
+expertness
 expetible
+expiable
 expiate
 expiation
 expiatist
 expiator
 expiatorious
+expiatory
 expilation
 expilator
 expirable
@@ -30299,11 +30739,13 @@ explanate
 explanation
 explanative
 explanatoriness
+explanatory
 explat
 explate
 expletion
 expletive
 expletively
+expletory
 explicable
 explicableness
 explicate
@@ -30337,6 +30779,7 @@ expoliation
 expolish
 expone
 exponent
+exponential
 export
 exportability
 exportable
@@ -30344,6 +30787,7 @@ exportation
 exporter
 exposal
 expose
+exposedness
 exposer
 exposition
 expositive
@@ -30352,6 +30796,7 @@ expository
 expostulate
 expostulation
 expostulator
+expostulatory
 exposture
 exposure
 expound
@@ -30373,6 +30818,7 @@ exprobrative
 exprobratory
 expropriate
 expropriation
+expugn
 expugnable
 expugnation
 expugner
@@ -30405,6 +30851,8 @@ exscript
 exscriptural
 exscutellate
 exsect
+exsert
+exserted
 exsertile
 exsiccant
 exsiccate
@@ -30456,6 +30904,7 @@ extension
 extensional
 extensionist
 extensive
+extensively
 extensiveness
 extensometer
 extensor
@@ -30496,6 +30945,7 @@ extinguishable
 extinguisher
 extinguishment
 extirp
+extirpable
 extirpate
 extirpation
 extirpative
@@ -30586,12 +31036,14 @@ extrinsicalness
 extroitive
 extrorsal
 extrorse
+extroversion
 extruct
 extruction
 extructive
 extructor
 extrude
 extrusion
+extrusive
 extuberance
 extuberancy
 extuberant
@@ -30646,6 +31098,7 @@ eyebolt
 eyebright
 eyebrow
 eyecup
+eyed
 eyedrop
 eyeflap
 eyeful
@@ -30667,6 +31120,7 @@ eye-saint
 eyesalve
 eyeservant
 eyeservice
+eyeshot
 eyesight
 eyesore
 eyesplice
@@ -30719,14 +31173,17 @@ faburden
 fac
 facade
 face
+faced
 facer
 facet
 facete
 faceted
 facetiae
+facetious
 facette
 facework
 facia
+facial
 faciend
 facient
 facies
@@ -30825,6 +31282,7 @@ fair-spoken
 fairway
 fair-weather
 fairy
+fairylike
 faith
 faithed
 faithful
@@ -30835,6 +31293,8 @@ faker
 fakir
 falanaka
 falcade
+falcate
+falcated
 falcation
 falcer
 falchion
@@ -30853,6 +31313,7 @@ faldfee
 falding
 faldistory
 faldstool
+falernian
 falk
 fall
 fallacious
@@ -30868,6 +31329,7 @@ fallibility
 fallible
 fallibly
 falling
+fallopian
 fallow
 fallowist
 fallowness
@@ -30957,6 +31419,7 @@ fanner
 fan-nerved
 fanon
 fantail
+fan-tailed
 fan-tan
 fantasia
 fantasied
@@ -30998,6 +31461,7 @@ farcilite
 farcimen
 farcin
 farcing
+farctate
 farcy
 fard
 fardage
@@ -31059,10 +31523,13 @@ fascial
 fasciate
 fasciated
 fasciation
+fascicle
+fascicled
 fascicular
 fascicularly
 fasciculate
 fasciculated
+fascicule
 fasciculus
 fascinate
 fascination
@@ -31075,6 +31542,7 @@ fashion
 fashionable
 fashionableness
 fashionably
+fashioned
 fashioner
 fashionist
 fashionless
@@ -31169,6 +31637,7 @@ faulting
 faultless
 faulty
 faun
+fauna
 faunal
 faunist
 faunus
@@ -31266,6 +31735,7 @@ febriferous
 febrific
 febrifugal
 febrifuge
+febrile
 february
 februation
 fecal
@@ -31345,6 +31815,7 @@ fellah
 feller
 fellfare
 fellifluous
+fellinic
 fellmonger
 fellness
 felloe
@@ -31470,6 +31941,7 @@ ferme
 fermacy
 ferment
 fermentability
+fermentable
 fermental
 fermentation
 fermentative
@@ -31481,6 +31953,7 @@ fernery
 fernticle
 ferny
 ferocious
+ferocity
 feroher
 ferous
 ferrandine
@@ -31531,6 +32004,7 @@ fertilization
 fertilize
 fertilizer
 ferula
+ferulaceous
 ferular
 ferule
 ferulic
@@ -31569,6 +32043,7 @@ festucine
 festucous
 festue
 fet
+fetal
 fetation
 fetch
 fetcher
@@ -31656,6 +32131,7 @@ fibreless
 fibriform
 fibril
 fibrilla
+fibrillar
 fibrillary
 fibrillated
 fibrillation
@@ -31668,6 +32144,7 @@ fibrinogen
 fibrinogenous
 fibrinoplastic
 fibrinoplastin
+fibrinous
 fibrocartilage
 fibrochondrosteal
 fibroid
@@ -31675,6 +32152,7 @@ fibroin
 fibrolite
 fibroma
 fibrospongiae
+fibrous
 fibrovascular
 fibster
 fibula
@@ -31738,6 +32216,7 @@ fiendlike
 fiendly
 fierasfer
 fierce
+fieriness
 fiery
 fiesta
 fife
@@ -31821,11 +32300,13 @@ filiciform
 filicoid
 filiety
 filiferous
+filiform
 filigrain
 filigrane
 filigraned
 filigree
 filigreed
+filing
 filioque
 filipendulous
 filipino
@@ -31889,6 +32370,7 @@ findy
 fine
 finedraw
 finedrawer
+finedrawn
 fineer
 fineless
 finely
@@ -32016,6 +32498,7 @@ fiscal
 fisetic
 fisetin
 fish
+fish-bellied
 fish-block
 fisher
 fisherman
@@ -32053,6 +32536,7 @@ fissipedal
 fissipedia
 fissirostral
 fissirostres
+fissural
 fissuration
 fissure
 fissurella
@@ -32080,7 +32564,9 @@ fitchy
 fitful
 fithel
 fithul
+fitly
 fitment
+fitness
 fitt
 fittable
 fittedness
@@ -32221,6 +32707,7 @@ flasket
 flat
 flatbill
 flatboat
+flat-bottomed
 flat-cap
 flatfish
 flat-footed
@@ -32235,6 +32722,7 @@ flatour
 flatten
 flatter
 flatterer
+flattering
 flatteringly
 flattery
 flatting
@@ -32276,6 +32764,7 @@ flax-plant
 flaxseed
 flaxweed
 flaxy
+flay
 flayer
 flea
 fleabane
@@ -32311,9 +32800,11 @@ fleeringly
 fleet
 fleeten
 fleet-foot
+fleeting
 fleetingly
 fleetings
 fleetly
+fleetness
 fleme
 flemer
 fleming
@@ -32351,6 +32842,7 @@ flexible
 flexicostate
 flexile
 flexion
+flexor
 flexuose
 flexuous
 flexural
@@ -32466,6 +32958,7 @@ flop
 floppy
 flopwing
 flora
+floral
 florally
 floramour
 floran
@@ -32477,6 +32970,7 @@ florescence
 florescent
 floret
 floriage
+floriated
 floriation
 floricomous
 floricultural
@@ -32507,6 +33001,7 @@ flossification
 flossy
 flota
 flotage
+flotant
 flotation
 flote
 flotery
@@ -32632,6 +33127,7 @@ flutter
 flutterer
 flutteringly
 fluty
+fluvial
 fluvialist
 fluviatic
 fluviatile
@@ -32733,6 +33229,7 @@ folding
 foldless
 foliaceous
 foliage
+foliaged
 foliar
 foliate
 foliated
@@ -32742,6 +33239,7 @@ folier
 foliferous
 folily
 folio
+foliolate
 foliole
 foliomort
 foliose
@@ -32769,6 +33267,7 @@ folwe
 fomalhaut
 foment
 fomentation
+fomenter
 fomes
 fon
 fond
@@ -32844,14 +33343,17 @@ footpace
 footpad
 footpath
 footplate
+footprint
 footrope
 foots
+foot-sore
 footstalk
 footstall
 footstep
 footstone
 footstool
 footway
+footworn
 footy
 foozle
 fop
@@ -33178,6 +33680,7 @@ former
 formeret
 formerly
 formful
+formic
 formica
 formicaroid
 formicary
@@ -33189,6 +33692,7 @@ formidable
 formidableness
 formidably
 formidolose
+forming
 formless
 formula
 formularistic
@@ -33309,6 +33813,7 @@ fossilize
 fossilized
 fossores
 fossoria
+fossorial
 fossorious
 fossulate
 foster
@@ -33336,6 +33841,7 @@ foundation
 foundationer
 foundationless
 founder
+founderous
 foundershaft
 foundery
 founding
@@ -33374,6 +33880,7 @@ fourteen
 fourteenth
 fourth
 fourthly
+four-way
 four-wheeled
 four-wheeler
 foussa
@@ -33419,6 +33926,7 @@ fract
 fracted
 fraction
 fractional
+fractionally
 fractionary
 fractionate
 fractious
@@ -33451,6 +33959,7 @@ fraken
 framable
 frambaesia
 frame
+framer
 frame-up
 framework
 framing
@@ -33548,6 +34057,7 @@ freedom
 freedstool
 free-hand
 free-handed
+free-hearted
 freehold
 freeholder
 free-liver
@@ -33573,6 +34083,7 @@ freethinker
 freethinking
 free-tongued
 freewheel
+freewill
 freezable
 freeze
 freezer
@@ -33876,6 +34387,7 @@ frustrable
 frustraneous
 frustrate
 frustrately
+frustration
 frustrative
 frustratory
 frustule
@@ -34045,6 +34557,8 @@ function
 functionate
 functional
 functionalize
+functionally
+functionary
 functionless
 fund
 fundable
@@ -34055,6 +34569,7 @@ funded
 fundholder
 funding
 fundless
+fundus
 funebrial
 funebrious
 funeral
@@ -34099,6 +34614,7 @@ fur
 furacious
 furacity
 furbelow
+furbish
 furbishable
 furbisher
 furcate
@@ -34122,6 +34638,7 @@ furies
 furile
 furilic
 furioso
+furious
 furl
 furlong
 furlough
@@ -34169,6 +34686,7 @@ fusel oil
 fuselage
 fusibility
 fusible
+fusiform
 fusil
 fusile
 fusileer
@@ -34310,6 +34828,7 @@ gairish
 gairishly
 gairishness
 gait
+gaited
 gaiter
 gaitre
 gaytre
@@ -34507,10 +35026,13 @@ ganesa
 gang
 gange
 ganger
+gangetic
 gang-flower
 gangion
 gangliac
 ganglial
+gangliate
+gangliated
 gangliform
 ganglioform
 ganglion
@@ -34649,6 +35171,8 @@ gasolene
 gasolier
 gasoline
 gasometer
+gasometric
+gasometrical
 gasometry
 gasoscope
 gasp
@@ -34669,17 +35193,21 @@ gastness
 gastornis
 gastraea
 gastralgia
+gastric
 gastriloquist
 gastriloquous
 gastriloquy
 gastritis
 gastrocnemius
+gastrocolic
 gastrodisc
+gastroduodenal
 gastroduodenitis
 gastroelytrotomy
 gastroenteric
 gastroenteritis
 gastroepiploic
+gastrohepatic
 gastrohysterotomy
 gastrointestinal
 gastrolith
@@ -34694,6 +35222,7 @@ gastronomic
 gastronomical
 gastronomist
 gastronomy
+gastrophrenic
 gastropneumatic
 gastropod
 gastropoda
@@ -34702,6 +35231,7 @@ gastroraphy
 gastroscope
 gastroscopic
 gastroscopy
+gastrosplenic
 gastrostege
 gastrostomy
 gastrotomy
@@ -34829,6 +35359,7 @@ gelable
 gelada
 gelastic
 gelatification
+gelatigenous
 gelatinate
 gelatination
 gelatine
@@ -34899,6 +35430,7 @@ gender
 genderless
 geneagenesis
 genealogic
+genealogical
 genealogist
 genealogize
 genealogy
@@ -34927,6 +35459,7 @@ generator
 generatrix
 generic
 generical
+generically
 genericalness
 generification
 generosity
@@ -34952,11 +35485,13 @@ genial
 geniality
 genially
 genialness
+genian
 geniculate
 geniculated
 geniculation
 genie
 genio
+geniohyoid
 genip
 genip tree
 genipap
@@ -35455,6 +35990,7 @@ glare
 glareous
 glariness
 glaringness
+glaring
 glary
 glass
 glass-crab
@@ -35649,6 +36185,7 @@ glossist
 glossitis
 glossly
 glossocomon
+glossoepiglottic
 glossographer
 glossographical
 glossography
@@ -35681,6 +36218,7 @@ gloze
 glozer
 glucic
 glucina
+glucinic
 glucinum
 glucogen
 glucogenesis
@@ -35710,6 +36248,7 @@ glut
 glutaconic
 glutaeus
 glutamic
+glutaric
 glutazine
 gluteal
 gluten
@@ -35743,10 +36282,13 @@ glycocholic
 glycocin
 glycocoll
 glycogen
+glycogenic
 glycogeny
 glycogenesis
 glycol
+glycolic
 glycolide
+glycoluric
 glycoluril
 glycolyl
 glyconian
@@ -36145,6 +36687,7 @@ governante
 governess
 governing
 government
+governmental
 governor
 governorship
 gowan
@@ -36230,16 +36773,19 @@ gramarye
 gramashes
 grame
 gramercy
+graminaceous
 gramineal
 gramineous
 graminifolious
 graminivorous
+grammalogue
 grammar
 grammarian
 grammarianism
 grammarless
 grammates
 grammatic
+grammatical
 grammaticaster
 grammatication
 grammaticism
@@ -36302,6 +36848,8 @@ granitic
 granitical
 granitification
 granitiform
+granitoid
+granivorous
 grannam
 granny
 granolithic
@@ -36318,6 +36866,7 @@ granulated
 granulation
 granule
 granuliferous
+granuliform
 granulite
 granulose
 granulous
@@ -36349,6 +36898,7 @@ grapplement
 grappling
 grapsoid
 graptolite
+graptolitic
 grapy
 grasp
 graspable
@@ -36394,6 +36944,7 @@ graveless
 graveling
 gravelling
 gravelliness
+gravelly
 gravel-stone
 gravely
 graveness
@@ -36405,6 +36956,8 @@ gravery
 graves
 gravestone
 graveyard
+gravic
+gravid
 gravidated
 gravidation
 gravidity
@@ -36414,6 +36967,7 @@ gravimetric
 graving
 gravitate
 gravitation
+gravitational
 gravitative
 gravity
 gray
@@ -36532,6 +37086,8 @@ grenadine
 grenado
 grene
 gres
+gressorial
+gressorious
 gret
 grete
 greve
@@ -36615,6 +37171,7 @@ grisette
 griskin
 grisled
 grisliness
+grisly
 grison
 grisons
 grist
@@ -36662,6 +37219,7 @@ grooving
 grope
 groper
 groping-ly
+gros
 grosbeak
 groschen
 grosgrain
@@ -36710,6 +37268,7 @@ grovy
 grow
 growable
 growan
+grower
 growl
 growler
 growlingly
@@ -36786,6 +37345,7 @@ guard
 guardable
 guardage
 guardant
+guarded
 guardenage
 guarder
 guardfish
@@ -36975,6 +37535,7 @@ gust
 gustable
 gustard
 gustation
+gustatory
 gustful
 gustless
 gusto
@@ -36994,6 +37555,7 @@ guttle
 guttler
 guttulous
 guttural
+gutturalism
 gutturality
 gutturalize
 gutturally
@@ -37117,6 +37679,7 @@ gyrose
 gyrostat
 gyrostatic
 gyrostatics
+gyrus
 gyse
 gyte
 gyve
@@ -37151,6 +37714,7 @@ habitual
 habituate
 habituation
 habitude
+habitue
 habiture
 habitus
 hable
@@ -37372,6 +37936,7 @@ half-hearted
 half-hourly
 half-learned
 half-length
+half-mast
 half-moon
 halfness
 halfpace
@@ -37496,6 +38061,7 @@ hamper
 hamshackle
 hamster
 hamstring
+hamular
 hamulate
 hamule
 hamulose
@@ -37639,6 +38205,7 @@ hardiness
 hardish
 hard-labored
 hardly
+hard-mouthed
 hardness
 hardock
 hardpan
@@ -37817,6 +38384,7 @@ haughtiness
 haughty
 haul
 haulabout
+haulage
 hauler
 haulm
 hauls
@@ -37968,6 +38536,7 @@ healall
 heald
 healer
 healful
+healing
 healingly
 health
 healthful
@@ -38053,6 +38622,7 @@ heathenize
 heathenness
 heathenry
 heathery
+heathy
 heating
 heatingly
 heatless
@@ -38122,6 +38692,7 @@ heddle
 heddle-eye
 hederaceous
 hederal
+hederic
 hederiferous
 hederose
 hedge
@@ -38191,6 +38762,7 @@ heliacally
 helianthin
 helianthoid
 helianthoidea
+helical
 helichrysum
 heliciform
 helicin
@@ -38295,6 +38867,7 @@ helot
 helotism
 helotry
 help
+helper
 helpful
 helpless
 helpmate
@@ -38396,6 +38969,8 @@ hemipteran
 hemisect
 hemisection
 hemisphere
+hemispheric
+hemispherical
 hemispheroid
 hemispheroidal
 hemispherule
@@ -38443,6 +39018,7 @@ hendecagon
 hendecane
 hendecasyllabic
 hendecasyllable
+hendecatoic
 hendiadys
 hendy
 henen
@@ -38476,9 +39052,13 @@ hepatitis
 hepatization
 hepatize
 hepatocele
+hepatocystic
 hepatogastric
+hepatogenic
+hepatogenous
 hepatology
 hepato-pancreas
+hepatorenal
 hepatoscopy
 heppelwhite
 heppen
@@ -38514,11 +39094,13 @@ heptoic
 heptone
 heptyl
 heptylene
+heptylic
 her
 here
 heracleonite
 herakline
 herald
+heraldic
 heraldically
 heraldry
 heraldship
@@ -38637,6 +39219,7 @@ hermaphroditical
 hermaphroditism
 hermeneutic
 hermeneutical
+hermeneutically
 hermeneutics
 hermes
 hermetic
@@ -38692,6 +39275,7 @@ herrnhuter
 hers
 hersal
 herschel
+herschelian
 herse
 herself
 hersillon
@@ -38878,6 +39462,7 @@ hexateuch
 hexatomic
 hexavalent
 hexdecyl
+hexdecylic
 hexeikosane
 hexene
 hexicology
@@ -38888,6 +39473,7 @@ hexone
 hexose
 hexyl
 hexylene
+hexylic
 hey
 heyday
 heydeguy
@@ -38988,6 +39574,7 @@ high-flown
 high-flushed
 highflying
 high-go
+high-handed
 high-hearted
 high-hoe
 high-holder
@@ -38995,7 +39582,9 @@ highland
 highlander
 highlandry
 high-low
+highly
 highmen
+high-mettled
 high-minded
 high-mindedness
 highmost
@@ -39013,9 +39602,11 @@ highroad
 high-seasoned
 high-sighted
 high-souled
+high-sounding
 high-spirited
 high-stepper
 high-stomached
+high-strung
 high-swelling
 hight
 hightener
@@ -39045,6 +39636,7 @@ hillside
 hilltop
 hilly
 hilt
+hilted
 hilum
 hilus
 him
@@ -39144,6 +39736,7 @@ his
 hisingerite
 hispanic
 hispanicism
+hispanicize
 hispid
 hispidulous
 hiss
@@ -39167,6 +39760,8 @@ histonomy
 histophyly
 historial
 historian
+historic
+historical
 historically
 historicize
 historied
@@ -39191,6 +39786,7 @@ histrionize
 hit
 hitch
 hitchel
+hithe
 hither
 hithermost
 hitherto
@@ -39313,6 +39909,7 @@ hoist
 hoistaway
 hoistway
 hoit
+hoity-toity
 hokeday
 hoker
 hol
@@ -39468,6 +40065,7 @@ homodont
 homodromal
 homodromous
 homodynamic
+homodynamous
 homodynamy
 homoeomeria
 homoeomeric
@@ -39502,13 +40100,16 @@ homography
 homoioptoton
 homoiothermal
 homoiousian
+homologate
 homologation
 homological
+homologinic
 homologize
 homologon
 homologoumena
 homologous
 homolographic
+homologue
 homology
 homomallous
 homomorphic
@@ -39530,6 +40131,7 @@ homophylic
 homophyly
 homoplasmy
 homoplast
+homoplastic
 homoplasty
 homoplasy
 homopolic
@@ -39549,6 +40151,7 @@ homothermous
 homotonous
 homotropal
 homotropous
+homotypal
 homotype
 homotypic
 homotypical
@@ -39662,6 +40265,7 @@ horaly
 horary
 horatian
 horde
+hordeic
 hordein
 hordeolum
 hordock
@@ -39670,6 +40274,7 @@ horehound
 horizon
 horizontal
 horizontality
+horizontally
 hormogonium
 hormone
 horn
@@ -39736,6 +40341,7 @@ horridly
 horridness
 horrific
 horrification
+horrify
 horripilation
 horrisonant
 horrisonous
@@ -39827,6 +40433,7 @@ hostry
 hot
 hotbed
 hot-blooded
+hot-brained
 hotchpot
 hotchpotch
 hotcockles
@@ -39835,6 +40442,7 @@ hotel
 hotel-de-ville
 hotel-dieu
 hotfoot
+hot-head
 hot-headed
 hothouse
 hot-livered
@@ -39875,6 +40483,7 @@ housekeeper
 housekeeping
 housel
 houseleek
+houseless
 houselessness
 houseline
 houseling
@@ -39930,6 +40539,7 @@ huaracho
 hub
 hubble-bubble
 hubbub
+hubby
 hubner
 huebner
 huch
@@ -39948,7 +40558,9 @@ huddle
 huddler
 hudge
 hudibrastic
+hudsonian
 hue
+hued
 hueless
 huer
 huff
@@ -40026,6 +40638,7 @@ humeral
 humerus
 humic
 humicubation
+humid
 humidity
 humidness
 humifuse
@@ -40045,6 +40658,7 @@ hummocking
 hummocky
 hummum
 humor
+humoral
 humoralism
 humoralist
 humorism
@@ -40100,6 +40714,7 @@ hunt
 hunt-counter
 hunte
 hunter
+hunterian
 hunting
 huntress
 huntsman
@@ -40188,6 +40803,7 @@ hyaline
 hyalite
 hyalograph
 hyalography
+hyaloid
 hyalonema
 hyalophane
 hyalospongia
@@ -40266,6 +40882,7 @@ hydrocephaloid
 hydrocephalous
 hydrocephalus
 hydrochlorate
+hydrochloric
 hydrochloride
 hydrocorallia
 hydrocyanate
@@ -40370,8 +40987,10 @@ hydrosulphide
 hydrosulphite
 hydrosulphuret
 hydrosulphureted
+hydrosulphuric
 hydrosulphurous
 hydrotellurate
+hydrotelluric
 hydrotheca
 hydrotherapeutics
 hydrotherapy
@@ -40436,6 +41055,7 @@ hylaeosaur
 hylaeosaurus
 hylarchical
 hyleosaur
+hylic
 hylicist
 hylism
 hylobate
@@ -40519,6 +41139,7 @@ hyperbolize
 hyperboloid
 hyperborean
 hypercarbureted
+hypercatalectic
 hyperchloric
 hyperchromatism
 hypercritic
@@ -40578,6 +41199,7 @@ hypinosis
 hypnagogic
 hypnobate
 hypnocyst
+hypnogenic
 hypnologist
 hypnology
 hypnoscope
@@ -40592,6 +41214,7 @@ hypo
 hypoarian
 hypoarion
 hypoblast
+hypoblastic
 hypobole
 hypobranchial
 hypocarp
@@ -40618,6 +41241,7 @@ hypocrisy
 hypocrite
 hypocritely
 hypocritic
+hypocritical
 hypocrystalline
 hypocycloid
 hypodactylum
@@ -40656,6 +41280,7 @@ hypoplastron
 hypoptilum
 hyporadius
 hyporhachis
+hyposkeletal
 hypospadias
 hypostasis
 hypostasize
@@ -40718,6 +41343,7 @@ hysteric
 hysterical
 hysterics
 hysteroepilepsy
+hysterogenic
 hysterology
 hysterophyte
 hysterotomy
@@ -40734,6 +41360,7 @@ iambically
 iambize
 iambus
 ianthina
+iatraliptic
 iatric
 iatrical
 iatrochemical
@@ -40850,6 +41477,7 @@ icteric
 icterical
 icteritious
 icteritous
+icteroid
 icterus
 ictic
 ictus
@@ -40974,6 +41602,7 @@ idorgan
 idrialine
 idrialite
 idumean
+idyl
 idyllic
 if
 ifere
@@ -41023,6 +41652,7 @@ ik
 ile
 ileac
 ileocaecal
+ileocolic
 ileum
 ileus
 ilex
@@ -41034,6 +41664,7 @@ iliche
 ilicic
 ilicin
 iliofemoral
+iliolumbar
 iliopsoas
 ilium
 ilixanthin
@@ -41059,10 +41690,12 @@ ill-bred
 illecebration
 illecebrous
 illegal
+illegality
 illegalize
 illegally
 illegalness
 illegibility
+illegible
 illegitimacy
 illegitimate
 illegitimately
@@ -41077,6 +41710,7 @@ illiberality
 illiberalize
 illiberally
 illiberalness
+illicit
 illicitous
 illicium
 illighten
@@ -41103,12 +41737,14 @@ ill-nurtured
 illocality
 illogical
 ill-omened
+ill-starred
 ill-tempered
 ill-timed
 illtreat
 illude
 illume
 illuminable
+illuminant
 illuminary
 illuminate
 illuminati
@@ -41132,6 +41768,7 @@ illusionist
 illusive
 illusively
 illusiveness
+illusory
 illustrable
 illustrate
 illustration
@@ -41199,6 +41836,7 @@ imber-goose
 imbezzle
 imbibe
 imbiber
+imbibition
 imbitter
 imbitterer
 imbitterment
@@ -41231,10 +41869,12 @@ imbrocado
 imbrocata
 imbroccata
 imbroglio
+imbrown
 imbrue
 imbruement
 imbrute
 imbrutement
+imbue
 imbuement
 imburse
 imbursement
@@ -41248,6 +41888,7 @@ imitableness
 imitancy
 imitate
 imitation
+imitational
 imitative
 imitator
 imitatorship
@@ -41275,6 +41916,7 @@ immatchable
 immaterial
 immaterialism
 immaterialist
+immateriality
 immaterialize
 immaterially
 immaterialness
@@ -41422,6 +42064,7 @@ imparalleled
 impardonable
 imparidigitate
 imparipinnate
+imparisyllabic
 imparity
 impark
 imparl
@@ -41439,6 +42082,7 @@ impartialness
 impartibility
 impartible
 impartment
+impassable
 impassibility
 impassible
 impassibleness
@@ -41457,6 +42101,7 @@ impatiens
 impatient
 impatiently
 impatronization
+impatronize
 impave
 impavid
 impawn
@@ -41472,6 +42117,7 @@ impeccant
 impecuniosity
 impecunious
 impedance
+impede
 impedible
 impediment
 impedimenta
@@ -41568,11 +42214,13 @@ impertinently
 impertransibility
 impertransible
 imperturbability
+imperturbable
 imperturbably
 imperturbation
 imperturbed
 imperviability
 imperviable
+impervious
 impery
 impest
 impester
@@ -41610,6 +42258,7 @@ implacably
 implacental
 implacentalia
 implantation
+implate
 implausibility
 implausible
 impleach
@@ -41733,6 +42382,7 @@ impracticably
 impractical
 imprecate
 imprecation
+imprecatory
 imprecision
 impregn
 impregnability
@@ -41836,6 +42486,7 @@ imprudence
 imprudent
 impuberal
 impuberty
+impudence
 impudency
 impudent
 impudently
@@ -41882,6 +42533,7 @@ inabstinence
 inabstracted
 inabusively
 inaccessibility
+inaccessible
 inaccordant
 inaccuracy
 inaccurate
@@ -41913,6 +42565,7 @@ inaidable
 inalienability
 inalienable
 inalienableness
+inalienably
 inalimental
 inalterability
 inalterable
@@ -41990,6 +42643,7 @@ inbeing
 inbind
 inblown
 inboard
+inborn
 inbreak
 inbreaking
 inbreathe
@@ -42010,6 +42664,7 @@ incalescent
 incameration
 incan
 incandescence
+incandescent
 incanescent
 incanous
 incantation
@@ -42020,6 +42675,7 @@ incapability
 incapable
 incapableness
 incapably
+incapacious
 incapacitate
 incapacitation
 incapacity
@@ -42113,6 +42769,7 @@ incinerate
 incineration
 incipience
 incipiency
+incipient
 incircle
 incirclet
 incircumscriptible
@@ -42153,6 +42810,7 @@ inclemently
 inclinable
 inclinableness
 inclination
+inclinatory
 incline
 incliner
 inclining
@@ -42184,6 +42842,7 @@ incogitance
 incogitancy
 incogitant
 incogitantly
+incogitative
 incogitativity
 incognita
 incognitant
@@ -42372,6 +43031,7 @@ incorporally
 incorporate
 incorporated
 incorporation
+incorporative
 incorporator
 incorporeal
 incorporealism
@@ -42382,6 +43042,7 @@ incorporeity
 incorpse
 incorrect
 incorrection
+incorrectly
 incorrectness
 incorrespondence
 incorrespondency
@@ -42426,6 +43087,7 @@ incremable
 incremate
 incremation
 increment
+incremental
 increpate
 increpation
 increscent
@@ -42482,6 +43144,7 @@ incurious
 incuriously
 incuriousness
 incurrence
+incurrent
 incursion
 incursive
 incurtain
@@ -42679,6 +43342,7 @@ indigofera
 indigogen
 indigometer
 indigometry
+indigotic
 indigotin
 indigrubin
 indihumin
@@ -42734,10 +43398,12 @@ indistinct
 indistinctible
 indistinction
 indistinctive
+indistinctly
 indistinctness
 indistinguishable
 indistinguishably
 indistinguished
+indistinguishing
 indisturbance
 inditch
 indite
@@ -42789,6 +43455,7 @@ indolently
 indoles
 indolin
 indomable
+indomitable
 indomite
 indomptable
 indonesian
@@ -42886,6 +43553,7 @@ ineffably
 ineffaceable
 ineffaceably
 ineffectible
+ineffective
 ineffectively
 ineffectiveness
 ineffectual
@@ -42963,6 +43631,7 @@ inescation
 inescutcheon
 inessential
 inestimable
+inestimably
 inevasible
 inevidence
 inevident
@@ -42976,10 +43645,12 @@ inexactly
 inexactness
 inexcitability
 inexcitable
+inexcusable
 inexcusableness
 inexcusably
 inexecrable
 inexecutable
+inexecution
 inexertion
 inexhalable
 inexhausted
@@ -43034,6 +43705,7 @@ inexpugnable
 inexpugnably
 inexsuperable
 inextended
+inextensible
 inextension
 inexterminable
 inextinct
@@ -43118,6 +43790,7 @@ inferobranchian
 inferobranchiata
 inferobranchiate
 inferrible
+infertile
 infertilely
 infertility
 infest
@@ -43132,6 +43805,7 @@ infidel
 infidelity
 infield
 infile
+infilm
 infilter
 infiltrate
 infiltration
@@ -43168,6 +43842,7 @@ inflammatory
 inflatable
 inflate
 inflated
+inflater
 inflatingly
 inflation
 inflationist
@@ -43238,6 +43913,7 @@ infrahyoid
 infralabial
 infralapsarian
 infralapsarianism
+inframarginal
 inframaxillary
 inframedian
 inframundane
@@ -43246,6 +43922,7 @@ infrangibility
 infrangible
 infrangibleness
 infraocular
+infraorbital
 infrapose
 infraposition
 infra-red
@@ -43254,6 +43931,7 @@ infraspinal
 infraspinate
 infraspinous
 infrastapedial
+infrasternal
 infratemporal
 infraterritorial
 infratrochlear
@@ -43330,6 +44008,7 @@ ingeny
 ingerminate
 ingest
 ingesta
+ingestion
 inghalla
 ingirt
 ingle
@@ -43396,6 +44075,7 @@ inhabitiveness
 inhabitress
 inhalant
 inhalation
+inhale
 inhalent
 inhaler
 inhance
@@ -43452,6 +44132,7 @@ inimicous
 inimitability
 inimitable
 inion
+iniquitous
 iniquitously
 iniquity
 iniquous
@@ -43538,6 +44219,7 @@ inner
 innerly
 innermost
 innermostly
+innervate
 innervation
 innerve
 innholder
@@ -43597,10 +44279,12 @@ inofficious
 inofficiously
 inogen
 inoperation
+inoperative
 inopercular
 inoperculate
 inopinable
 inopinate
+inopportune
 inopportunely
 inopportunity
 inoppressive
@@ -43619,6 +44303,8 @@ inosculate
 inosculation
 inosinic
 inosite
+inoxidizable
+inoxidize
 inpatient
 inquartation
 inquest
@@ -43634,6 +44320,7 @@ inquirance
 inquire
 inquirent
 inquirer
+inquiring
 inquiringly
 inquiry
 inquisible
@@ -43658,6 +44345,8 @@ inrush
 insabbatati
 insafety
 insalivation
+insalubrious
+insalubrity
 insalutary
 insanability
 insanable
@@ -43846,9 +44535,11 @@ inspiration
 inspirational
 inspirationist
 inspirator
+inspiratory
 inspire
 inspired
 inspirer
+inspiring
 inspirit
 inspissate
 inspissation
@@ -43910,6 +44601,7 @@ instructer
 instructible
 instruction
 instructional
+instructive
 instructor
 instructress
 instrument
@@ -43936,6 +44628,7 @@ insuccess
 insue
 insuetude
 insufferable
+insufferably
 insufficience
 insufficiency
 insufficient
@@ -44053,6 +44746,7 @@ intemperature
 intempestive
 intempestively
 intempestivity
+intenable
 intend
 intendancy
 intendant
@@ -44070,10 +44764,12 @@ intensation
 intensative
 intense
 intensely
+intenseness
 intensification
 intensifier
 intensify
 intension
+intensitive
 intensity
 intensive
 intensively
@@ -44081,26 +44777,32 @@ intensiveness
 intent
 intentation
 intention
+intentional
 intentionality
 intentionally
+intentioned
 intentive
 intentively
 intentiveness
 intently
 intentness
+inter
 interact
 interaction
 interadditive
 interagency
 interagent
 interall
+interalveolar
 interambulacral
 interambulacrum
 interamnian
 interanimate
 interarboration
+interarticular
 interatomic
 interaulic
+interauricular
 interaxal
 interaxillary
 interaxis
@@ -44114,14 +44816,19 @@ intercalary
 intercalate
 intercalation
 intercarotid
+intercarpal
+intercartilaginous
+intercavernous
 intercede
 intercedence
 intercedent
 interceder
+intercellular
 intercentral
 intercentrum
 intercept
 intercepter
+interception
 interceptive
 intercession
 intercessional
@@ -44146,8 +44853,10 @@ interclose
 intercloud
 interclude
 interclusion
+intercollegiate
 intercolline
 intercolonial
+intercolumnar
 intercolumniation
 intercombat
 intercoming
@@ -44160,9 +44869,12 @@ intercommunication
 intercommunion
 intercommunity
 intercomparison
+intercondylar
+intercondyloid
 interconnect
 interconnection
 intercontinental
+interconvertible
 intercostal
 intercourse
 intercrop
@@ -44175,6 +44887,7 @@ intercutaneous
 interdash
 interdeal
 interdenominational
+interdental
 interdentil
 interdependence
 interdependency
@@ -44198,6 +44911,8 @@ interestedness
 interesting
 interestingly
 interestingness
+interfacial
+interfascicular
 interferant
 interfere
 interference
@@ -44209,10 +44924,12 @@ interfluent
 interfluous
 interfoliaceous
 interfoliate
+interfollicular
 interfretted
 interfulgent
 interfuse
 interfusion
+interganglionic
 interglobular
 intergrave
 interhemal
@@ -44224,6 +44941,7 @@ interiority
 interiorly
 interjacence
 interjacency
+interjacent
 interjaculate
 interjangle
 interject
@@ -44257,6 +44975,8 @@ interlineary
 interlineation
 interlining
 interlink
+interlobar
+interlobular
 interlocation
 interlock
 interlocution
@@ -44274,6 +44994,7 @@ interluder
 interluency
 interlunar
 interlunary
+intermandibular
 intermarriage
 intermarry
 intermaxilla
@@ -44297,9 +45018,11 @@ intermediator
 intermedious
 intermedium
 intermell
+intermembral
 intermembranous
 interment
 intermention
+intermesenteric
 intermetacarpal
 intermetatarsal
 intermezzo
@@ -44325,6 +45048,7 @@ intermittingly
 intermix
 intermixedly
 intermixture
+intermobility
 intermodillion
 intermontane
 intermundane
@@ -44364,6 +45088,8 @@ internunciess
 internuncio
 internuncioship
 internuncius
+interoceanic
+interocular
 interopercular
 interoperculum
 interorbital
@@ -44389,6 +45115,7 @@ interphalangeal
 interpilaster
 interplace
 interplanetary
+interplay
 interplead
 interpleader
 interpledge
@@ -44432,6 +45159,7 @@ interrex
 interrogate
 interrogatee
 interrogation
+interrogative
 interrogatively
 interrogator
 interrogatory
@@ -44451,6 +45179,7 @@ intersect
 intersection
 intersectional
 interseminate
+interseptal
 intersert
 interserttion
 intersesamoid
@@ -44477,6 +45206,7 @@ interstinctive
 interstitial
 interstition
 interstratification
+interstratified
 interstratify
 intertalk
 intertangle
@@ -44492,12 +45222,14 @@ intertransverse
 intertrigo
 intertrochanteric
 intertropical
+intertubular
 intertwine
 intertwiningly
 intertwist
 intertwistingly
 interungular
 interungulate
+interurban
 interval
 intervale
 intervallum
@@ -44511,6 +45243,7 @@ intervenient
 intervent
 intervention
 interventor
+interventricular
 intervenue
 intervert
 intervertebral
@@ -44521,6 +45254,7 @@ intervisible
 intervisit
 intervital
 intervocalic
+intervolution
 intervolve
 interweave
 interwish
@@ -44530,6 +45264,7 @@ interwreathe
 intestable
 intestacy
 intestate
+intestinal
 intestine
 intext
 intextine
@@ -44575,18 +45310,22 @@ intone
 intorsion
 intort
 intortion
+intoxicant
 intoxicate
 intoxicatedness
 intoxicating
 intoxication
 intraaxillary
+intracellular
 intracolic
 intracranial
 intractability
 intractable
 intractile
 intrados
+intrafoliaceous
 intrafusion
+intralobular
 intramarginal
 intramercurial
 intramolecular
@@ -44714,6 +45453,7 @@ inuncted
 inunction
 inunctuosity
 inundant
+inundate
 inundation
 inunderstanding
 inurbane
@@ -44823,7 +45563,9 @@ invincibility
 invincible
 inviolability
 inviolable
+inviolableness
 inviolably
+inviolacy
 inviolate
 inviolated
 inviolately
@@ -44878,9 +45620,9 @@ invulnerableness
 invulnerate
 inwall
 inward
+inwards
 inwardly
 inwardness
-inwards
 inweave
 inwheel
 inwit
@@ -44896,6 +45638,7 @@ iodic
 iodide
 iodine
 iodism
+iodize
 iodizer
 iodocresol
 iodoform
@@ -44941,6 +45684,7 @@ irian
 iricism
 iridaceous
 irideous
+iridal
 iridectomy
 iridescence
 iridescent
@@ -45049,6 +45793,7 @@ irrelate
 irrelation
 irrelative
 irrelavance
+irrelavancy
 irrelavant
 irrelievable
 irreligion
@@ -45057,6 +45802,7 @@ irreligious
 irreligiously
 irreligiousness
 irremeable
+irremediable
 irremediableness
 irremediably
 irremissible
@@ -45079,6 +45825,7 @@ irrepleviable
 irreplevisable
 irreprehensible
 irrepresentable
+irrepressible
 irrepressibly
 irreproachable
 irreproachableness
@@ -45113,6 +45860,7 @@ irretention
 irretentive
 irretraceable
 irretractile
+irretrievable
 irretrievableness
 irretrievably
 irreturnable
@@ -45151,6 +45899,7 @@ irrotational
 irrubrical
 irrugate
 irrupted
+irruption
 irruptive
 irvingite
 is
@@ -45165,6 +45914,8 @@ isagogical
 isagogics
 isagon
 isapostolic
+isatic
+isatinic
 isatide
 isatin
 isatis
@@ -45187,6 +45938,7 @@ ishmaelite
 ishmaelitish
 isiac
 isicle
+isidorian
 isinglass
 isis
 islam
@@ -45203,6 +45955,7 @@ ism
 ismaelian
 ismaelite
 isobar
+isobaric
 isobarism
 isobarometric
 isobathytherm
@@ -45212,6 +45965,8 @@ isocephalism
 isochasm
 isochasmic
 isocheim
+isocheimal
+isochimal
 isocheimic
 isochimene
 isochor
@@ -45274,6 +46029,7 @@ isonomic
 isonomy
 isopathy
 isopepsin
+isoperimetrical
 isoperimetry
 isopiestic
 isopleura
@@ -45318,6 +46074,7 @@ israelitic
 israelitish
 issuable
 issuably
+issuance
 issuant
 issue
 issueless
@@ -45344,6 +46101,7 @@ itchiness
 itchless
 itchy
 item
+itemize
 iter
 iterable
 iterance
@@ -45357,6 +46115,7 @@ itinerancy
 itinerant
 itinerantly
 itinerary
+itself
 ittria
 ittrium
 itzibu
@@ -45575,6 +46334,7 @@ jasp
 jaspachate
 jaspe
 jasper
+jasperated
 jasperize
 jaspery
 jaspidean
@@ -45813,6 +46573,7 @@ joiner
 joinery
 joinhand
 joint
+jointed
 jointer
 joint-fir
 jointing
@@ -45898,6 +46659,7 @@ jowter
 joy
 joyance
 joyancy
+joyful
 joyless
 joyous
 joysome
@@ -46203,11 +46965,14 @@ karroo
 karstenite
 karvel
 karyokinesis
+karyokinetic
 karyomiton
 karyoplasma
 karyostenosis
+karyostenotic
 kasack
 kat
+katabolic
 katabolism
 katastate
 kate
@@ -46312,6 +47077,7 @@ kerasine
 keratin
 keratitis
 keratode
+keratogenous
 keratoidea
 keratome
 keratonyxis
@@ -46374,6 +47140,7 @@ key
 keyage
 keyboard
 key-cold
+keyed
 keyhole
 keynote
 keyseat
@@ -46394,6 +47161,7 @@ kiang
 kibble
 kibblings
 kibe
+kibed
 kibitka
 kiblah
 kibosh
@@ -46420,6 +47188,8 @@ kidnap
 kidnaper
 kidnapper
 kidney
+kidney-form
+kidney-shaped
 kidneywort
 kie
 kiefekil
@@ -46645,12 +47415,14 @@ kneecap
 knee-crooking
 kneed
 knee-deep
+knee-high
 kneejoint
 kneejointed
 kneel
 kneeler
 kneelingly
 kneepan
+kneepiece
 kneippism
 kneipp's cure
 kneipp cure
@@ -46796,6 +47568,7 @@ krait
 kraken
 krakowiak
 krameria
+krameric
 krang
 kreatic
 kreatin
@@ -46885,6 +47658,7 @@ labellum
 labent
 labia
 labial
+labialism
 labialization
 labialize
 labially
@@ -46939,6 +47713,7 @@ labyrinthodon
 labyrinthodont
 labyrinthodonta
 lac
+lakh
 laccic
 laccin
 laccolite
@@ -46949,7 +47724,9 @@ laced
 lacedaemonian
 laceman
 lacerable
+lacerate
 laceration
+lacerative
 lacert
 lacerta
 lacertian
@@ -46959,6 +47736,7 @@ lacertiloid
 lacertine
 lacertus
 lacewing
+lace-winged
 laches
 lache
 lachrymable
@@ -47014,7 +47792,9 @@ lacteous
 lacteously
 lactescence
 lactescent
+lactic
 lactide
+lactiferous
 lactific
 lactifical
 lactifuge
@@ -47042,6 +47822,8 @@ lacuna
 lacunal
 lacunar
 lacune
+lacunose
+lacunous
 lacustral
 lacustrine
 lacwork
@@ -47107,6 +47889,7 @@ lagune
 laic
 laical
 laicality
+laically
 laidly
 lainere
 lair
@@ -47119,7 +47902,6 @@ lake
 lake-dweller
 lakelet
 lakeweed
-lakh
 lakin
 lakke
 laky
@@ -47172,6 +47954,8 @@ lamelliform
 lamellirostral
 lamellirostres
 lamellose
+lamely
+lameness
 lament
 lamentable
 lamentation
@@ -47243,6 +48027,7 @@ lancet
 lancewood
 lanch
 lancinate
+lancinating
 lancination
 land
 landamman
@@ -47345,6 +48130,7 @@ lantanum
 lantanuric
 lanterloo
 lantern
+lantern-jawed
 lanthanite
 lanthanum
 lanthopine
@@ -47366,6 +48152,7 @@ lapel
 lapelled
 lapful
 lapicide
+lapidarian
 lapidarious
 lapidary
 lapidate
@@ -47413,6 +48200,7 @@ lar
 larboard
 larcener
 larcenist
+larcenous
 larceny
 larch
 larchen
@@ -47481,6 +48269,7 @@ laryngoscopist
 laryngoscopy
 laryngotome
 laryngotomy
+laryngotracheal
 laryngotracheotomy
 larynx
 las
@@ -47522,6 +48311,7 @@ lateen
 lately
 latence
 latency
+lateness
 latent
 latently
 later
@@ -47531,10 +48321,13 @@ laterality
 laterally
 lateran
 latered
+laterifolious
 laterite
+lateritic
 lateritious
 lates
 latescence
+latescent
 latewake
 lateward
 latex
@@ -47609,8 +48402,10 @@ laudanum
 laudation
 laudative
 laudator
+laudatory
 lauder
 laugh
+laughable
 laugher
 laughing
 laughingly
@@ -47773,6 +48568,7 @@ leam
 leamer
 lean
 lean-faced
+leaning
 leanly
 leanness
 lean-to
@@ -47852,6 +48648,7 @@ ledge
 ledgement
 ledger
 ledgment
+ledgy
 lee
 leeangle
 liangle
@@ -47873,6 +48670,7 @@ leetman
 leeward
 leeway
 left
+left-hand
 left-handed
 left-handedness
 left-handiness
@@ -47908,6 +48706,7 @@ legerdemain
 legerdemainist
 legerity
 legge
+legged
 leggiadro
 leggiero
 legging
@@ -47946,6 +48745,7 @@ legitimism
 legitimist
 legitimize
 legless
+leg-of-mutton
 lego-literary
 leguleian
 legume
@@ -48047,6 +48847,7 @@ leon
 leonced
 leonese
 leonid
+leonine
 leontodon
 leopard
 leopardwood
@@ -48153,6 +48954,7 @@ lettrure
 letts
 lettuce
 letuary
+let-up
 leucadendron
 leucaniline
 leuchaemia
@@ -48217,6 +49019,7 @@ leverock
 leverwood
 levesel
 levet
+leviable
 leviathan
 levier
 levigate
@@ -48250,6 +49053,7 @@ lewd
 lewdster
 lewis
 lewisson
+lex
 lexical
 lexicographer
 lexicographic
@@ -48262,6 +49066,7 @@ lexicon
 lexiconist
 lexigraphic
 lexigraphy
+lexiphanic
 lexiphanicism
 lexipharmic
 ley
@@ -48297,6 +49102,7 @@ liber
 liberal
 liberalism
 liberalist
+liberalistic
 liberality
 liberalization
 liberalize
@@ -48333,6 +49139,7 @@ libyan
 lice
 licensable
 license
+licensed
 licensee
 licenser
 licensure
@@ -48388,6 +49195,7 @@ liegiancy
 lien
 lienal
 lienculus
+lieno-intestinal
 lienteric
 lientery
 lier
@@ -48425,6 +49233,8 @@ lifter
 lifting
 lig
 ligament
+ligamental
+ligamentous
 ligan
 ligate
 ligation
@@ -48495,6 +49305,7 @@ ligule
 liguliflorous
 ligure
 ligustrin
+likable
 like
 likeable
 likehood
@@ -48536,6 +49347,7 @@ limb
 limbat
 limbate
 limbec
+limbed
 limber
 limberness
 limbless
@@ -48566,9 +49378,11 @@ limitarian
 limitary
 limitate
 limitation
+limited
 limitedly
 limitedness
 limiter
+limitive
 limitless
 limitour
 limmer
@@ -48587,6 +49401,7 @@ limousine
 limp
 limper
 limpet
+limpid
 limpidity
 limpidness
 limpin
@@ -48618,6 +49433,7 @@ line
 lineage
 lineal
 lineality
+lineally
 lineament
 linear
 linearensate
@@ -48843,12 +49659,15 @@ lithoglyphic
 lithoglyptics
 lithograph
 lithographer
+lithographic
+lithographical
 lithography
 lithoid
 lithoidal
 litholatry
 lithologic
 lithological
+lithologically
 lithologist
 lithology
 lithomancy
@@ -48902,6 +49721,7 @@ litterateur
 littery
 little
 little-ease
+littleness
 littoral
 littorina
 littress
@@ -48918,6 +49738,7 @@ liturgy
 lituus
 livable
 live
+lived
 live-forever
 livelihed
 livelihood
@@ -48977,6 +49798,7 @@ loafer
 loam
 loamy
 loan
+loanable
 loanin
 loaning
 loanmonger
@@ -49029,6 +49851,7 @@ localism
 locality
 localization
 localize
+locally
 locate
 location
 locative
@@ -49142,10 +49965,12 @@ logomachist
 logomachy
 logometric
 logos
+logotype
 logroll
 logroller
 logrolling
 log-ship
+logy
 lohock
 loimic
 loin
@@ -49203,6 +50028,7 @@ longevous
 longhand
 longheaded
 longhorn
+long-horned
 longicorn
 longicornia
 longilateral
@@ -49279,6 +50105,7 @@ loose
 loosely
 loosen
 loosener
+looseness
 loosestrife
 loosish
 loot
@@ -49438,6 +50265,7 @@ low-churchman
 low-churchmanship
 lower
 lower-case
+lowering
 loweringly
 lowermost
 lowery
@@ -49460,6 +50288,7 @@ lowness
 low-pressure
 lowry
 low-spirited
+low-studded
 low-thoughted
 loxodromic
 loxodromics
@@ -49569,6 +50398,7 @@ lumber
 lumberer
 lumbering
 lumberman
+lumbosacral
 lumbric
 lumbrical
 lumbriciform
@@ -49582,7 +50412,9 @@ lumination
 lumine
 luminescence
 luminescent
+luminiferous
 luminosity
+luminous
 lummox
 lump
 lumper
@@ -49596,6 +50428,8 @@ lunacy
 lunar
 lunarian
 lunary
+lunate
+lunated
 lunatic
 lunation
 lunch
@@ -49625,6 +50459,7 @@ lunular
 lunulate
 lunulated
 lunule
+lunulet
 lunulite
 luny
 lupercal
@@ -49713,6 +50548,7 @@ luxive
 luxullianite
 luxuriance
 luxuriancy
+luxuriant
 luxuriantly
 luxuriate
 luxuriation
@@ -49830,6 +50666,7 @@ macartney
 macauco
 macavahu
 macaw
+maccabean
 maccabees
 maccaboy
 maccoboy
@@ -50432,6 +51269,7 @@ mammaliferous
 mammalogical
 mammalogist
 mammalogy
+mammary
 mammee
 mammer
 mammet
@@ -50470,6 +51308,7 @@ manageable
 manageless
 management
 manager
+managerial
 managership
 managery
 manakin
@@ -50753,6 +51592,7 @@ maori
 map
 mapach
 maple
+maplike
 mappery
 maqui
 mar
@@ -50867,6 +51707,7 @@ mariolatry
 marionette
 mariput
 marish
+marital
 maritated
 maritimal
 maritimale
@@ -51077,6 +51918,7 @@ mast
 mastaba
 mastabah
 mastax
+masted
 master
 masterdom
 masterful
@@ -51091,6 +51933,7 @@ mastership
 mastersinger
 masterwort
 mastery
+mastful
 masthead
 masthouse
 mastic
@@ -51114,6 +51957,7 @@ mastless
 mastlin
 mastodon
 mastodonsaurus
+mastodontic
 mastodynia
 mastodyny
 mastoid
@@ -51234,6 +52078,7 @@ maturely
 matureness
 maturer
 maturescent
+maturing
 maturity
 matutinal
 matutinary
@@ -51294,6 +52139,7 @@ maxillar
 maxillary
 maxilliform
 maxilliped
+maxillo-mandibular
 maxillo-palatine
 maxilloturbinal
 maxim
@@ -51465,9 +52311,11 @@ mediate
 mediately
 mediateness
 mediation
+mediative
 mediatization
 mediatize
 mediator
+mediatorial
 mediatorship
 mediatory
 mediatress
@@ -51481,6 +52329,7 @@ medicamental
 medicaster
 medicate
 medicative
+medicean
 medicinable
 medicinal
 medicinally
@@ -51501,6 +52350,7 @@ meditance
 meditate
 meditation
 meditatist
+meditative
 mediterranean
 mediterraneous
 medium
@@ -51552,6 +52402,7 @@ megaderm
 megadyne
 megafarad
 megalerg
+megalesian
 megalethoscope
 megalith
 megalocephalia
@@ -51646,6 +52497,7 @@ melanterite
 melanure
 melanuric
 melaphyre
+melasma
 melasses
 melassic
 melastoma
@@ -51694,6 +52546,7 @@ mellification
 mellifluence
 mellifluent
 mellifluently
+mellifluous
 melligenous
 melligo
 melliloquent
@@ -52020,11 +52873,14 @@ mesitylene
 mesitylol
 meslin
 mesmeree
+mesmeric
+mesmerical
 mesmerism
 mesmerist
 mesmerization
 mesmerize
 mesmerizer
+mesne
 mesoarium
 mesoblast
 mesoblastic
@@ -52042,6 +52898,7 @@ mesocoracoid
 mesocuneiform
 mesocuniform
 mesoderm
+mesodermal
 mesodermic
 mesodont
 mesogaster
@@ -52062,6 +52919,7 @@ mesomyodian
 mesomyodous
 meson
 mesonasal
+mesonephric
 mesonephros
 mesonotum
 mesophloeum
@@ -52109,6 +52967,7 @@ messet
 messiad
 messiah
 messiahship
+messianic
 messias
 messinese
 messmate
@@ -52243,6 +53102,7 @@ metasome
 metastannate
 metastannic
 metastasis
+metastatic
 metasternal
 metasternum
 metastoma
@@ -52314,6 +53174,7 @@ methanometer
 metheglin
 methene
 methenyl
+methide
 methinks
 methionate
 methionic
@@ -52354,6 +53215,7 @@ metonymic
 metonymical
 metonymy
 metope
+metopic
 metopomancy
 metoposcopic
 metoposcopical
@@ -52391,6 +53253,7 @@ metrotome
 metrotomy
 mettle
 mettled
+mettlesome
 meum
 meute
 meve
@@ -52426,6 +53289,8 @@ miascite
 miasm
 miasma
 miasmal
+miasmatic
+miasmatical
 miasmatist
 miasmology
 miaul
@@ -52451,6 +53316,7 @@ microbacteria
 microbarograph
 microbe
 microbion
+microbian
 microbic
 microbicide
 microbiology
@@ -52485,6 +53351,8 @@ microlestes
 microlite
 microlith
 microlithic
+micrologic
+micrological
 micrology
 micromere
 micrometer
@@ -52617,6 +53485,7 @@ mild
 milden
 mildew
 mildly
+mildness
 mile
 mileage
 milepost
@@ -52663,6 +53532,7 @@ millenarian
 millenarianism
 millenarism
 millenary
+millennial
 millennialism
 millenniarism
 millennialist
@@ -52674,6 +53544,7 @@ millepore
 milleporite
 miller
 millerite
+millesimal
 millet
 milliampere
 milliard
@@ -52694,6 +53565,7 @@ milling
 million
 millionaire
 millionairess
+millionary
 millioned
 millionnaire
 millionth
@@ -52714,6 +53586,7 @@ milreis
 milt
 milter
 miltonian
+miltonic
 milvine
 milvus
 mime
@@ -52843,6 +53716,7 @@ mint-master
 minuend
 minuet
 minum
+minus
 minuscule
 minutary
 minute
@@ -52916,6 +53790,7 @@ misanthropist
 misanthropos
 misanthropy
 misapplication
+misapply
 misappreciated
 misapprehend
 misapprehension
@@ -52975,6 +53850,7 @@ mischnic
 mischoose
 mischristen
 miscibility
+miscible
 miscitation
 miscite
 misclaim
@@ -53022,6 +53898,7 @@ misdate
 misdeal
 misdeed
 misdeem
+misdemean
 misdemeanant
 misdemeanor
 misdepart
@@ -53031,6 +53908,7 @@ misdesert
 misdevotion
 misdiet
 misdight
+misdirect
 misdirection
 misdisposition
 misdistinguish
@@ -53038,6 +53916,7 @@ misdivide
 misdivision
 misdo
 misdoer
+misdoing
 misdoubt
 misdread
 mise
@@ -53046,6 +53925,7 @@ miseased
 miseasy
 misedition
 miseducate
+misemploy
 misemployment
 misenter
 misentreat
@@ -53112,6 +53992,7 @@ mishmash
 mishna
 mishnic
 misimagination
+misimprove
 misimprovement
 misincline
 misinfer
@@ -53161,6 +54042,7 @@ mismanagement
 mismanager
 mismark
 mismatch
+mismate
 mismeasure
 mismeasurement
 mismeter
@@ -53385,9 +54267,12 @@ mitigatory
 miting
 mitome
 mitosis
+mitotic
 mitraille
 mitrailleur
 mitrailleuse
+mitral
+mitriform
 mitt
 mitten
 mittened
@@ -53516,6 +54401,7 @@ modist
 modiste
 modius
 modocs
+modular
 modulate
 modulation
 modulator
@@ -53675,6 +54561,7 @@ momentarily
 momentariness
 momentary
 momently
+momentous
 momentum
 momier
 mommery
@@ -53695,6 +54582,7 @@ monadiform
 monadology
 monal
 monamide
+monamine
 monander
 monandria
 monandrian
@@ -53744,6 +54632,7 @@ monest
 monetary
 moneth
 monetization
+monetize
 money
 moneyage
 moneyed
@@ -53796,10 +54685,12 @@ monkfish
 monkflower
 monkhood
 monking
+monkish
 monkly
 monkshood
 mono
 monobasic
+monocarbonic
 monocardian
 monocarp
 monocarpellary
@@ -53827,6 +54718,7 @@ monocotyledon
 monocotyledonous
 monocracy
 monocrat
+monocrotic
 monocrotism
 monocular
 monocule
@@ -53866,6 +54758,7 @@ monogenic
 monogenism
 monogenist
 monogenistic
+monogenous
 monogeny
 monogoneutic
 monogram
@@ -53875,6 +54768,8 @@ monogrammic
 monogrammous
 monograph
 monographer
+monographic
+monographical
 monographist
 monographous
 monography
@@ -53921,9 +54816,11 @@ monopathy
 monopersonal
 monopetalous
 monophanous
+monophonic
 monophthong
 monophthongal
 monophyletic
+monophyllous
 monophyodont
 monophysite
 monophysitical
@@ -53964,6 +54861,7 @@ monostrophe
 monostrophic
 monosulphide
 monosulphuret
+monosyllabic
 monosyllabism
 monosyllable
 monosyllabled
@@ -53995,7 +54893,10 @@ monotrematous
 monotreme
 monotriglyph
 monotropa
+monotype
+monotypic
 monovalent
+monoxide
 monoxylon
 monoxylous
 monozoa
@@ -54008,6 +54909,7 @@ monstrance
 monstration
 monstrosity
 monstrous
+monstrously
 monstrousness
 monstruosity
 monstruous
@@ -54154,6 +55056,8 @@ morbidezza
 morbidity
 morbidly
 morbidness
+morbific
+morbifical
 morbillous
 morbose
 morbosity
@@ -54188,6 +55092,7 @@ morgue
 moria
 morian
 moribund
+moric
 morice
 morigerate
 morigeration
@@ -54280,6 +55185,7 @@ mortgagee
 mortgageor
 mortgagor
 mortgager
+mortiferous
 mortification
 mortifiedness
 mortifier
@@ -54350,6 +55256,7 @@ motherhood
 mothering
 mother-in-law
 motherland
+motherless
 motherliness
 motherly
 mother-naked
@@ -54392,6 +55299,7 @@ motorpathic
 motorpathy
 motte
 mottle
+mottled
 motto
 mottoed
 motty
@@ -54421,6 +55329,7 @@ mountebank
 mountebankery
 mountebankish
 mountebankism
+mounted
 mountenaunce
 mounter
 mounting
@@ -54474,6 +55383,7 @@ movingness
 mow
 mowburn
 mowe
+mower
 mowing
 mowyer
 moxa
@@ -54662,6 +55572,7 @@ multijugous
 multilateral
 multilineal
 multilobar
+multilocular
 multiloquence
 multiloquent
 multiloquous
@@ -54778,10 +55689,12 @@ mungrel
 municipal
 municipalism
 municipality
+municipalize
 municipally
 munific
 munificate
 munificence
+munificent
 munify
 muniment
 munite
@@ -54810,6 +55723,7 @@ murex
 murexan
 murexide
 murexoin
+muriate
 muriated
 muriatic
 muriatiferous
@@ -54870,6 +55784,7 @@ muscicapine
 muscid
 musciform
 muscle
+muscled
 muscling
 muscogees
 muscoid
@@ -54885,6 +55800,8 @@ musculation
 musculature
 muscule
 musculin
+musculocutaneous
+musculophrenic
 musculosity
 musculospiral
 musculous
@@ -55008,7 +55925,9 @@ muzarabic
 muzziness
 muzzle
 muzzle-loader
+muzzle-loading
 muzzy
+my
 mya
 myalgia
 myaria
@@ -55038,8 +55957,10 @@ myelin
 myelitis
 myelocoele
 myelogenic
+myeloid
 myeloidin
 myelon
+myelonal
 myeloneura
 myeloplax
 mygale
@@ -55213,6 +56134,7 @@ naevose
 naevus
 nag
 nagana
+nagging
 nagor
 nagyagite
 naiad
@@ -55349,6 +56271,12 @@ nash
 nasicornous
 nasiform
 nasion
+nasobuccal
+nasofrontal
+nasolachrymal
+nasopalatal
+nasopalatine
+nasopharyngeal
 nasoseptal
 nasoturbinal
 nassa
@@ -55550,6 +56478,7 @@ necktie
 neckwear
 neckweed
 necrobiosis
+necrobiotic
 necrolatry
 necrolite
 necrologic
@@ -55572,6 +56501,7 @@ necroscopical
 necrose
 necrosed
 necrosis
+necrotic
 necrotomy
 nectar
 nectareal
@@ -55673,6 +56603,7 @@ neife
 neigh
 neighbor
 neighborhood
+neighboring
 neighborliness
 neighborly
 neighborship
@@ -55817,6 +56748,7 @@ nepotist
 neptune
 neptunian
 neptunist
+neptunicentric
 neptunium
 ner
 nereid
@@ -55877,23 +56809,27 @@ nettler
 nettles
 nettling
 netty
+net-veined
 network
 neufchatel
 neurad
 neural
 neuralgia
+neuralgic
 neuralgy
 neurapophysial
 neurapophysis
 neurasthenia
 neuration
 neuraxis
+neurenteric
 neuridin
 neurilemma
 neurility
 neurine
 neurism
 neuritis
+neuro-central
 neurochord
 neurochordal
 neurocity
@@ -55970,6 +56906,7 @@ newish
 newly
 newmarket
 new-model
+newness
 news-book
 newsboy
 news-letter
@@ -56030,6 +56967,7 @@ nictate
 nictation
 nictitate
 nictitation
+nidamental
 nidary
 nide
 nidering
@@ -56154,6 +57092,7 @@ nip
 nipper
 nipperkin
 nippers
+nipping
 nippingly
 nippitate
 nippitato
@@ -56193,10 +57132,12 @@ nitroform
 nitrogelatin
 nitrogen
 nitrogenize
+nitrogenous
 nitroglycerin
 nitrohydrochloric
 nitrol
 nitroleum
+nitrolic
 nitromagnesite
 nitrometer
 nitromethane
@@ -56209,6 +57150,7 @@ nitrosaccharin
 nitrosalicylic
 nitrose
 nitrosyl
+nitrosylic
 nitrous
 nitroxyl
 nitrum
@@ -56465,6 +57407,7 @@ nonimportation
 nonimporting
 noninflectional
 noninhabitant
+nonintervention
 nonius
 nonjoinder
 nonjurant
@@ -56483,14 +57426,18 @@ nonmoral
 nonnatural
 nonne
 nonnecessity
+nonnitrognous
 nonnucleated
 nonny
 nonobedience
 nonobservance
+nonoic
 nonone
+nonoxygenous
 nonpareil
 nonpayment
 nonperformance
+nonphotobiotic
 nonplane
 nonplus
 nonpreparation
@@ -56543,6 +57490,7 @@ nonvocal
 nonyl
 nonylene
 nonylenic
+nonylic
 noodle
 nook
 nook-shotten
@@ -56578,6 +57526,7 @@ norlander
 norm
 norma
 normal
+normalcy
 normalization
 normally
 norman
@@ -56655,6 +57604,7 @@ notably
 notaeum
 notal
 notandum
+notarial
 notarially
 notary
 notate
@@ -56665,6 +57615,7 @@ notching
 notchweed
 note
 notebook
+noted
 noteful
 noteless
 notelessness
@@ -56682,6 +57633,7 @@ noticeably
 noticer
 notidanian
 notification
+notify
 notional
 notionality
 notionally
@@ -56767,6 +57719,7 @@ nowd
 nowed
 nowel
 nowes
+nowhere
 nowhither
 nowise
 nowt
@@ -56802,6 +57755,8 @@ nuchal
 nuciferous
 nuciform
 nucin
+nucleal
+nuclear
 nucleate
 nucleated
 nucleiform
@@ -56889,6 +57844,7 @@ nummulary
 nummulation
 nummulite
 nummulites
+nummulitic
 numps
 numskull
 numskulled
@@ -56953,6 +57909,7 @@ nutritial
 nutrition
 nutritional
 nutritious
+nutritive
 nutriture
 nutshell
 nutter
@@ -57083,6 +58040,7 @@ objectist
 objectivate
 objectivation
 objective
+objectively
 objectiveness
 objectivity
 objectize
@@ -57345,6 +58303,8 @@ oceloid
 ocelot
 ocher
 ochre
+ocherous
+ochreous
 ochery
 ochimy
 ochlesis
@@ -57355,7 +58315,6 @@ ochraceous
 ochrea
 ochreate
 ochreated
-ochreous
 ochrey
 ochroleucous
 ochry
@@ -57374,6 +58333,8 @@ octagynous
 octahedral
 octahedrite
 octahedron
+octamerous
+octameter
 octander
 octandria
 octandrian
@@ -57437,14 +58398,18 @@ octuor
 octuple
 octyl
 octylene
+octylic
 ocular
 ocularly
+oculary
 oculate
 oculated
+oculiform
 oculina
 oculinacea
 oculist
 oculomotor
+oculonasal
 oculus
 ocypodian
 od
@@ -57678,6 +58643,7 @@ olecranal
 olecranon
 olefiant
 olefine
+oleic
 oleiferous
 olein
 olent
@@ -57717,6 +58683,7 @@ oligocene
 oligochaeta
 oligochete
 oligoclase
+oligomerous
 oligomyold
 oligopetalous
 oligosepalous
@@ -57760,6 +58727,7 @@ omega
 omegoid
 omelet
 omen
+omened
 omental
 omentum
 omer
@@ -57801,6 +58769,7 @@ omnipotent
 omnipotently
 omnipresence
 omnipresency
+omnipresent
 omnipresential
 omniprevalent
 omniscience
@@ -57812,10 +58781,14 @@ omnium
 omnium-gatherum
 omnivagant
 omnivora
+omnivorous
+omohyoid
+omophagic
 omoplate
 omostegite
 omosternal
 omosternum
+omphacine
 omphalic
 omphalocele
 omphalode
@@ -57989,6 +58962,7 @@ ooetype
 ooze
 oozoa
 ooezoa
+oozy
 opacate
 opacity
 opacous
@@ -58008,6 +58982,7 @@ ope
 opeidoscope
 opelet
 open
+open-air
 openbill
 opener
 open-eyed
@@ -58078,6 +59053,7 @@ ophiurioidea
 ophiuroidea
 ophryon
 ophthalmia
+ophthalmic
 ophthalmite
 ophthalmological
 ophthalmologist
@@ -58176,6 +59152,7 @@ oppositisepalous
 oppositive
 oppress
 oppression
+oppressive
 oppressor
 oppressure
 opprobrious
@@ -58220,6 +59197,7 @@ optometrist
 optometry
 opulence
 opulency
+opulent
 opuntia
 opus
 opuscle
@@ -58279,6 +59257,7 @@ orbitar
 orbitary
 orbitelae
 orbitolites
+orbitonasal
 orbitosphenoid
 orbitosphenoidal
 orbituary
@@ -58337,6 +59316,7 @@ ordinalism
 ordinance
 ordinand
 ordinant
+ordinarily
 ordinary
 ordinaryship
 ordinate
@@ -58529,6 +59509,7 @@ orphanism
 orphanotrophism
 orphanotrophy
 orpharion
+orphean
 orpheline
 orpheus
 orphic
@@ -58578,6 +59559,8 @@ orthognathic
 orthognathism
 orthognathous
 orthogon
+orthogonal
+orthogonally
 orthograph
 orthographer
 orthographic
@@ -58618,6 +59601,7 @@ orthotropal
 orthotropous
 orthotropic
 orthoxylene
+ortive
 ortolan
 ortygan
 orval
@@ -58689,6 +59673,7 @@ osmometer
 osmometry
 osmose
 osmosis
+osmotic
 osmund
 osnaburg
 oso-berry
@@ -58953,6 +59938,7 @@ outdwell
 outdweller
 outer
 outerly
+outermost
 outface
 outfall
 outfangthef
@@ -59040,6 +60026,7 @@ outpassion
 out-patient
 outpeer
 outpension
+outplay
 outpoise
 outport
 outpost
@@ -59110,10 +60097,12 @@ outspeak
 outspeed
 outspend
 outspin
+outspoken
 outsport
 outspread
 outspring
 outstand
+outstanding
 outstare
 outstart
 outstay
@@ -59348,6 +60337,7 @@ overgreat
 overgreatness
 overgreedy
 overgross
+overground
 overgrow
 overgrowth
 overhale
@@ -59534,6 +60524,7 @@ overseas
 oversearch
 overseason
 oversee
+overseer
 overseership
 oversell
 overset
@@ -59571,6 +60562,7 @@ overstand
 overstare
 overstate
 overstatement
+overstay
 overstep
 overstock
 overstore
@@ -59617,6 +60609,7 @@ overtrip
 overtroubled
 overtrow
 overtrust
+overture
 overturn
 overturnable
 overturner
@@ -59663,11 +60656,13 @@ ovidian
 oviducal
 oviduct
 oviferous
+oviform
 ovigerons
 ovile
 ovine
 ovipara
 oviparity
+oviparous
 oviposit
 ovipositing
 oviposition
@@ -59677,6 +60672,7 @@ ovism
 ovist
 ovococcus
 ovoid
+ovoidal
 ovolo
 ovology
 ovoplasma
@@ -59784,8 +60780,10 @@ oxybenzene
 oxybenzoic
 oxybromic
 oxybutyric
+oxycalcium
 oxycaproic
 oxychloric
+oxychloride
 oxycrate
 oxycymene
 oxygenate
@@ -59804,6 +60802,7 @@ oxyhaemacyanin
 oxyhaemocyanin
 oxyhaemoglobin
 oxyhemoglobin
+oxyhydrogen
 oxymel
 oxymethylene
 oxymoron
@@ -60012,6 +61011,7 @@ pakfong
 pal
 palace
 palacious
+paladin
 palaeographer
 palaeographic
 palaeotype
@@ -60108,6 +61108,7 @@ palfreyed
 palgrave
 pali
 palification
+paliform
 palilogy
 palimpsest
 palindrome
@@ -60149,6 +61150,7 @@ palliate
 palliation
 palliative
 palliatory
+pallid
 pallidity
 pallidly
 pallidness
@@ -60157,6 +61159,7 @@ palliobranchiate
 pallium
 pall-mall
 pallone
+pallor
 palm
 palmaceous
 palmacite
@@ -60187,6 +61190,7 @@ palmister
 palmistry
 palmitate
 palmite
+palmitic
 palmitin
 palmitolic
 palmitone
@@ -60255,6 +61259,7 @@ pam
 pament
 pampano
 pampas
+pamper
 pampered
 pamperer
 pamperize
@@ -60291,6 +61296,7 @@ pancratical
 pancratist
 pancratium
 pancreas
+pancreatic
 pancreatin
 pancy
 panda
@@ -60389,6 +61395,7 @@ panslavic
 panslavism
 panslavist
 panslavonian
+pansophical
 pansophy
 panspermatist
 panspermist
@@ -60491,6 +61498,7 @@ papilio
 papilionaceous
 papiliones
 papilionides
+papilla
 papillar
 papillary
 papillate
@@ -60775,12 +61783,14 @@ pardine
 pardo
 pardon
 pardonable
+pardonableness
 pardonably
 pardoner
 pardoning
 pare
 paregoric
 parelcon
+parelectronomic
 parelectronomy
 parella
 parelle
@@ -60865,6 +61875,7 @@ parkee
 parkeria
 parkesine
 parkleaves
+parlance
 parlando
 parlante
 parle
@@ -60884,6 +61895,7 @@ parnassus
 parnellism
 parnellite
 paroccipital
+parochial
 parochialism
 parochiality
 parochialize
@@ -60966,6 +61978,7 @@ parterre
 partheniad
 parthenic
 parthenogenesis
+parthenogenetic
 parthenogenitive
 parthenogeny
 parthenon
@@ -61004,6 +62017,7 @@ parting
 partisan
 partisanship
 partita
+partite
 partition
 partitionment
 partitive
@@ -61023,6 +62037,8 @@ parturition
 parturitive
 party
 party-coated
+party-colored
+parti-colored
 partyism
 parumbilical
 parure
@@ -61039,6 +62055,7 @@ pas
 pasan
 pasch
 pascha
+paschal
 paseng
 pash
 pasha
@@ -61080,6 +62097,7 @@ passibility
 passible
 passibleness
 passiflora
+passim
 passing
 passingly
 passion
@@ -61155,6 +62173,7 @@ patchouly
 patchwork
 patchy
 pate
+pated
 patee
 patefaction
 patela
@@ -61186,15 +62205,18 @@ pathetical
 pathetism
 pathfinder
 pathic
+pathless
 pathmaker
 pathogene
 pathogenesis
 pathogenetic
+pathogenic
 pathogeny
 pathognomonic
 pathognomy
 pathologic
 pathological
+pathologist
 pathology
 pathopoela
 pathos
@@ -61228,6 +62250,7 @@ patricianism
 patriciate
 patricidal
 patricide
+patrimonial
 patrimonially
 patrimony
 patriot
@@ -61254,6 +62277,7 @@ patroness
 patronization
 patronize
 patronizer
+patronizing
 patronless
 patronomayology
 patronymic
@@ -61274,6 +62298,7 @@ patulous
 pau
 pauciloquent
 pauciloquy
+paucispiral
 paucity
 paugie
 paugy
@@ -61400,6 +62425,7 @@ pearlite
 pearlstone
 pearlwort
 pearly
+pearmain
 pear-shaped
 peart
 peasant
@@ -61473,6 +62499,7 @@ peculiarness
 peculium
 pecunial
 pecuniarily
+pecuniary
 pecunious
 ped
 pedage
@@ -61566,7 +62593,10 @@ pedotrophy
 pedregal
 peduncle
 peduncled
+peduncular
 pedunculata
+pedunculate
+pedunculated
 pee
 peece
 peechi
@@ -61604,6 +62634,7 @@ pegger
 pegging
 pegm
 pegmatite
+pegmatitic
 pegmatoid
 pegomancy
 pegroots
@@ -61648,6 +62679,7 @@ pellack
 pellage
 pellagra
 pellagrin
+pellagrous
 pellet
 pelleted
 pellibranchiata
@@ -61680,6 +62712,8 @@ peltry
 peltryware
 peludo
 pelure
+pelusiac
+pelvic
 pelvimeter
 pelvimetry
 pelvis
@@ -61755,6 +62789,7 @@ penicil
 penicillate
 penicilliform
 peninsula
+peninsular
 peninsulate
 penis
 penitence
@@ -61903,11 +62938,13 @@ pentone
 pentosan
 pentosane
 pentose
+pentoxide
 pentremite
 pentremites
 pentroof
 pentrough
 pentyl
+pentylic
 penuchle
 pinocle
 penult
@@ -61967,6 +63004,7 @@ peracute
 peradventure
 peraeopod
 peragrate
+peragration
 perambulate
 perambulation
 perambulator
@@ -62098,6 +63136,7 @@ perforce
 perform
 performable
 performance
+performer
 perfricate
 perfumatory
 perfume
@@ -62137,6 +63176,7 @@ pericardium
 pericarp
 pericarpial
 pericarpic
+pericellular
 perichaeth
 perichaetial
 perichaetium
@@ -62166,6 +63206,7 @@ peridrome
 periecians
 perienteron
 periergy
+periganglionic
 perigastric
 perigean
 perigee
@@ -62186,6 +63227,8 @@ perilymph
 perilymphangial
 perilymphatic
 perimeter
+perimetric
+perimetrical
 perimetry
 perimorph
 perimysial
@@ -62198,6 +63241,7 @@ perinephritis
 perineum
 perineurial
 perineurium
+perinuclear
 period
 periodate
 periodic
@@ -62251,6 +63295,7 @@ periscope
 periscopic
 perish
 perishability
+perishable
 perishableness
 perishably
 perishment
@@ -62279,6 +63324,7 @@ peristoma
 peristome
 peristomial
 peristomium
+peristrephic
 peristyle
 perisystole
 perite
@@ -62316,6 +63362,7 @@ perky
 perlaceous
 perlid
 perlite
+perlitic
 perlous
 perlustration
 permanable
@@ -62482,6 +63529,7 @@ perspirability
 perspirable
 perspiration
 perspirative
+perspiratory
 perspire
 perstreperous
 perstringe
@@ -62560,6 +63608,7 @@ pervicacity
 pervicacy
 pervigilation
 pervious
+perviousness
 pervis
 pery
 pes
@@ -62604,6 +63653,7 @@ pestillation
 pestle
 pet
 petal
+petaled
 petaliferous
 petaliform
 petaline
@@ -62629,6 +63679,10 @@ peterero
 peterman
 petersham
 peterwort
+petiolar
+petiolary
+petiolate
+petiolated
 petiole
 petioled
 petiolulate
@@ -63009,6 +64063,7 @@ phlegmatical
 phlegmatically
 phlegmaticly
 phlegmon
+phlegmonous
 phleme
 phleum
 phloem
@@ -63133,6 +64188,7 @@ photics
 photism
 photo
 photobacterium
+photobiotic
 photoceramics
 photochemical
 photochemistry
@@ -63240,6 +64296,7 @@ photozincograph
 photozincography
 phragmocone
 phragmosiphon
+phrasal
 phrase
 phraseless
 phraseogram
@@ -63252,6 +64309,7 @@ phratry
 phreatic
 phrenetic
 phrenetical
+phrenic
 phrenics
 phrenism
 phrenitis
@@ -63339,6 +64397,7 @@ phyllostomid
 phyllotactic
 phyllotaxy
 phyllotaxis
+phyllous
 phylloxanthin
 phylloxera
 phylogenesis
@@ -63402,6 +64461,7 @@ physostigmine
 physostomi
 physostomous
 phytelephas
+phytivorous
 phytochemical
 phytochemistry
 phytochimy
@@ -63738,6 +64798,7 @@ pilour
 pilous
 pilpul
 pilser
+pilular
 pilulous
 pilwe
 pily
@@ -63777,6 +64838,7 @@ pinchem
 pincher
 pinchers
 pinchfist
+pinching
 pinchingly
 pinchpenny
 pincoffin
@@ -63806,6 +64868,7 @@ piney
 pin-eyed
 pinfeather
 pinfeathered
+pin-fire
 pinfish
 pinfold
 ping
@@ -64075,6 +65138,8 @@ placement
 placenta
 placental
 placentalia
+placentary
+placentation
 placentiferous
 placentiform
 placentious
@@ -64122,6 +65187,7 @@ plagiotropic
 plagium
 plagose
 plague
+plagueful
 plagueless
 plaguer
 plaguily
@@ -64135,6 +65201,7 @@ plainant
 plain-dealing
 plain-hearted
 plaining
+plain-laid
 plainly
 plainness
 plainsman
@@ -64178,6 +65245,7 @@ planetule
 plangency
 plangent
 planifolious
+planiform
 planimeter
 planimetric
 planimetrical
@@ -64196,7 +65264,9 @@ plankton
 planless
 planner
 planoblast
+plano-concave
 plano-conical
+plano-convex
 planogamete
 plano-horizontal
 planometer
@@ -64209,10 +65279,12 @@ plantable
 plantage
 plantain
 plantal
+plantar
 plantation
 plant-cane
 plant-eating
 planted
+planter
 plantership
 planticle
 plantigrada
@@ -64240,6 +65312,7 @@ plasmator
 plasmature
 plasmic
 plasmin
+plasmodial
 plasmodium
 plasmogen
 plasmon
@@ -64313,6 +65386,7 @@ platonizer
 platoon
 platt
 plattdeutsch
+platten
 platter
 platter-faced
 platting
@@ -64352,6 +65426,7 @@ playful
 playgame
 playgoer
 playgoing
+playground
 playhouse
 playmaker
 playmate
@@ -64451,6 +65526,7 @@ pleochroism
 pleochromatic
 pleochromatism
 pleochroous
+pleomorphic
 pleomorphism
 pleomorphous
 pleonast
@@ -64520,7 +65596,9 @@ plexure
 plexus
 pley
 pleyt
+pliability
 pliable
+pliancy
 pliant
 plica
 plicate
@@ -64543,6 +65621,7 @@ plod
 plodder
 plodding
 plonge
+plongee
 plop
 plot
 plotful
@@ -64753,6 +65832,7 @@ pockarred
 pock-broken
 pocket
 pocketbook
+pocketful
 pocketknife
 pock-fretten
 pockiness
@@ -64833,6 +65913,7 @@ poh
 pohagen
 poi
 poicile
+poignancy
 poignant
 poignantly
 poikilitic
@@ -64854,6 +65935,7 @@ pointel
 pointer
 pointing
 pointingstock
+pointless
 pointlessly
 pointleted
 pointrel
@@ -65053,6 +66135,7 @@ polyconic
 polycotyledon
 polycotyledonary
 polycracy
+polycrotic
 polycrotism
 polycystid
 polycystidea
@@ -65087,6 +66170,7 @@ polygenetic
 polygenic
 polygenism
 polygenist
+polygenous
 polyglot
 polyglottous
 polygon
@@ -65103,6 +66187,7 @@ polygraph
 polygraphic
 polygraphical
 polygraphy
+polygrooved
 polygyn
 polygynia
 polygynian
@@ -65164,8 +66249,11 @@ polypary
 polype
 polypean
 polyperythrin
+polypetalous
+polyphagous
 polyphagy
 polypharmacy
+polyphase
 polyphaser
 polyphemus
 polyphone
@@ -65188,6 +66276,7 @@ polypiferous
 polypiparous
 polypite
 polyplacophora
+polyplastic
 polypode
 polypodium
 polypody
@@ -65244,6 +66333,7 @@ polytocous
 polytomous
 polytomy
 polytungstate
+polytungstic
 polytype
 polyuria
 polyvalent
@@ -65298,6 +66388,7 @@ pom-pom
 pompon
 pomposity
 pomposo
+pompous
 pomptine
 pomwater
 poncelet
@@ -65448,6 +66539,7 @@ porket
 porkling
 porkwood
 pornerastic
+pornographic
 pornography
 porosity
 porotic
@@ -65487,6 +66579,7 @@ portal
 portamento
 portance
 portass
+portate
 portative
 portcluse
 portcrayon
@@ -65577,6 +66670,7 @@ possess
 possession
 possessionary
 possessioner
+possessival
 possessive
 possessively
 possessor
@@ -65591,6 +66685,7 @@ post-abdomen
 postable
 postact
 postage
+postal
 postanal
 postaxial
 postboy
@@ -65611,6 +66706,7 @@ postencephalon
 postentry
 poster
 posterior
+posteriority
 posteriorly
 posteriors
 posterity
@@ -65660,7 +66756,9 @@ postmastership
 postmeridian
 post-mortem
 postnares
+postnatal
 postnate
+postnuptial
 post-obit
 post-obit bond
 postoblongata
@@ -65679,6 +66777,8 @@ postpose
 postposit
 postposition
 postpositional
+postpositive
+postprandial
 postremogeniture
 postremote
 postrider
@@ -65954,6 +67054,7 @@ praisement
 praiser
 praiseworthily
 praiseworthiness
+praiseworthy
 prakrit
 prakritic
 praline
@@ -66006,6 +67107,7 @@ preact
 preaction
 preadamic
 preadamite
+preadamitic
 preadjustment
 preadministration
 preadmission
@@ -66032,6 +67134,7 @@ preataxic
 preaudience
 preaxial
 prebend
+prebendal
 prebendary
 prebendaryship
 prebendate
@@ -66045,6 +67148,7 @@ precative
 precatory
 precaution
 precautional
+precautionary
 precautious
 precedaneous
 precede
@@ -66070,6 +67174,7 @@ preceptorial
 preceptory
 preceptress
 precession
+precessional
 precessor
 precieuse
 precinct
@@ -66140,6 +67245,7 @@ precontract
 precontrive
 precoracoid
 precordial
+precrural
 precurrer
 precurse
 precursive
@@ -66180,6 +67286,7 @@ predeterminate
 predetermination
 predetermine
 predial
+prediastolic
 predicability
 predicable
 predicament
@@ -66243,6 +67350,7 @@ preexamine
 preexist
 preexistence
 preexistency
+preexistent
 preexistentism
 preexistimation
 preexpectation
@@ -66263,6 +67371,7 @@ preferable
 preferableness
 preferably
 preference
+preferential
 preferment
 preferrer
 prefidence
@@ -66297,8 +67406,10 @@ pregustation
 prehallux
 prehend
 prehensi-ble
+prehensile
 prehension
 prehensory
+prehistoric
 prehnite
 prehnitic
 preignition
@@ -66319,6 +67430,8 @@ prelateity
 prelateship
 prelatess
 prelatial
+prelatic
+prelatical
 prelatically
 prelation
 prelatism
@@ -66364,7 +67477,9 @@ premium
 premolar
 premonish
 premonishment
+premonition
 premonitor
+premonitory
 premonstrant
 premonstrate
 premonstratensian
@@ -66392,6 +67507,7 @@ prenunciation
 prenuncious
 preoblongata
 preobtain
+preoccupancy
 preoccupate
 preoccupation
 preoccupy
@@ -66400,6 +67516,7 @@ preominate
 preopercular
 preopinion
 preoption
+preoral
 preordain
 preorder
 preordinance
@@ -66412,6 +67529,7 @@ preparatively
 preparator
 preparatory
 prepare
+prepared
 preparer
 prepay
 prepayment
@@ -66425,6 +67543,7 @@ preponderance
 preponderancy
 preponderate
 preponderatingly
+preponderation
 prepose
 preposition
 prepositive
@@ -66580,6 +67699,7 @@ presupposal
 presuppose
 presupposition
 presurmise
+presystolic
 pretemporal
 pretence
 pretenceful
@@ -66658,6 +67778,7 @@ prevenience
 prevenient
 prevent
 preventability
+preventable
 preventative
 preventer
 preventingly
@@ -66684,6 +67805,7 @@ priapism
 priapulacea
 pricasour
 price
+priced
 priceite
 priceless
 prick
@@ -66781,6 +67903,7 @@ primogenitureship
 primordial
 primordialism
 primordially
+primordian
 primordiate
 primp
 primrose
@@ -66853,6 +67976,7 @@ pristinate
 pristine
 pritch
 pritchel
+prithee
 prittle-prattle
 privacy
 privado
@@ -66897,6 +68021,7 @@ probational
 probationer
 probationership
 probationship
+probative
 probatory
 probe
 probeagle
@@ -66932,6 +68057,7 @@ process
 procession
 processional
 processionalist
+processionary
 processioner
 processioning
 processive
@@ -67000,6 +68126,7 @@ prodition
 proditor
 proditorious
 proditory
+prodromal
 prodrome
 prodromous
 prodromus
@@ -67018,6 +68145,7 @@ productive
 productivity
 productress
 productus
+proeguminal
 proem
 proembryo
 proemial
@@ -67034,6 +68162,7 @@ profection
 profectitious
 profert
 profess
+professed
 professedly
 profession
 professional
@@ -67041,6 +68170,7 @@ professionalism
 professionalist
 professionally
 professor
+professorial
 professorialism
 professoriat
 professoriate
@@ -67078,6 +68208,7 @@ profuseness
 profusion
 profusive
 prog
+progenerate
 progeneration
 progenitor
 progenitorship
@@ -67112,6 +68243,7 @@ prohibit
 prohibiter
 prohibition
 prohibitionist
+prohibitive
 prohibitory
 proin
 project
@@ -67193,6 +68325,7 @@ promiscuousness
 promise
 promisee
 promiser
+promising
 promisor
 promissive
 promissorily
@@ -67218,6 +68351,7 @@ prompt-note
 promptuary
 prompture
 promulgate
+promulgation
 promulgator
 promulge
 promulger
@@ -67234,10 +68368,12 @@ pronephros
 pronephron
 prong
 prongbuck
+pronged
 prong-hoe
 pronghorn
 pronity
 pronominal
+pronominalize
 pronominally
 prononce
 pronotary
@@ -67248,6 +68384,7 @@ pronounceable
 pronounced
 pronouncement
 pronouncer
+pronouncing
 pronubial
 pronucleus
 pronuncial
@@ -67258,6 +68395,7 @@ pronunciative
 pronunciator
 pronunciatory
 proof
+proof-arm
 proofless
 proof-proof
 proostracum
@@ -67308,6 +68446,8 @@ prophesier
 prophesy
 prophet
 prophetess
+prophetic
+prophetical
 propheticality
 prophetically
 propheticalness
@@ -67353,6 +68493,7 @@ proportionable
 proportionably
 proportional
 proportionality
+proportionally
 proportionate
 proportionately
 proportionateness
@@ -67368,6 +68509,7 @@ propounder
 propretor
 proprietary
 proprietor
+proprietorial
 proprietorship
 proprietress
 propriety
@@ -67385,6 +68527,7 @@ propulsory
 propyl
 propylaeum
 propylene
+propylic
 propylidene
 propylon
 proratable
@@ -67507,6 +68650,7 @@ protectionist
 protective
 protectiveness
 protector
+protectoral
 protectorate
 protectorial
 protectorless
@@ -67575,6 +68719,7 @@ protohippus
 protomartyr
 protomerite
 protometals
+protomorphic
 protonema
 protoorganism
 protooerganism
@@ -67689,6 +68834,7 @@ provisionally
 provisionary
 proviso
 provisor
+provisorily
 provisorship
 provisory
 provocation
@@ -67808,6 +68954,7 @@ pseudograph
 pseudography
 pseudohalter
 pseudo-heart
+pseudo-hyperthophic
 pseudologist
 pseudology
 pseudo-metallic
@@ -67896,6 +69043,7 @@ psychopomp
 psychosis
 psychotherapeutics
 psychotherapy
+psychozoic
 psychrometer
 psychrometrical
 psychrometry
@@ -68007,6 +69155,7 @@ pudency
 pudenda
 pudendal
 pudendum
+pudgy
 pudic
 pudical
 pudicity
@@ -68051,6 +69200,7 @@ puh
 puisne
 puisny
 puissance
+puissant
 puissantly
 puissantness
 puit
@@ -68081,6 +69231,7 @@ pullulation
 pullus
 pulmobranchiata
 pulmobranchiate
+pulmocutaneous
 pulmogasteropoda
 pulmograde
 pulmometer
@@ -68107,6 +69258,7 @@ pulpitical
 pulpitish
 pulpitry
 pulpous
+pulpy
 pulque
 pulsate
 pulsatile
@@ -68344,6 +69496,8 @@ purpure
 purpureal
 purpuric
 purpurin
+purpuriparous
+purpurogenous
 purr
 purre
 purree
@@ -68399,6 +69553,7 @@ pussy
 pustulant
 pustular
 pustulate
+pustulated
 pustulation
 pustule
 pustulous
@@ -68406,6 +69561,7 @@ put
 putage
 putamen
 putanism
+putative
 putchuck
 puteal
 puteli
@@ -68484,6 +69640,7 @@ pykar
 pylagore
 pylangium
 pylon
+pyloric
 pylorus
 pyne
 pynoun
@@ -68522,6 +69679,7 @@ pyrexial
 pyrexical
 pyrgom
 pyrheliometer
+pyridic
 pyridine
 pyridyl
 pyriform
@@ -68573,6 +69731,7 @@ pyrolithic
 pyrologist
 pyrology
 pyrolusite
+pyromagnetic
 pyromalate
 pyromalic
 pyromancy
@@ -68690,6 +69849,7 @@ quadrate
 quadratic
 quadratics
 quadratojugal
+quadratrix
 quadrature
 quadrel
 quadrennial
@@ -68702,10 +69862,12 @@ quadricapsular
 quadriceps
 quadricipital
 quadricorn
+quadricornous
 quadricostate
 quadridentate
 quadriennial
 quadrifarious
+quadrifid
 quadrifoil
 quadrifoliate
 quadrifurcated
@@ -68735,6 +69897,7 @@ quadripennate
 quadriphyllous
 quadrireme
 quadrisection
+quadrisulcate
 quadrisyllable
 quadrivalence
 quadrivalent
@@ -68823,6 +69986,7 @@ quarantine
 quarl
 quarrel
 quarrelet
+quarreling
 quarrellous
 quarrelsome
 quarried
@@ -68881,6 +70045,7 @@ quata
 quatch
 quater-cousin
 quaternary
+quaternate
 quaternion
 quaternity
 quateron
@@ -68936,6 +70101,7 @@ quemeful
 quench
 quenchable
 quencher
+quenchless
 quenelle
 quercitannic
 quercite
@@ -68949,6 +70115,7 @@ querimonious
 querimony
 querist
 querken
+querl
 quern
 querpo
 querquedule
@@ -69084,6 +70251,7 @@ quinoxyl
 quinoyl
 quinquagesima
 quinquangular
+quinquarticular
 quinqueangled
 quinquedentate
 quinquedentated
@@ -69096,11 +70264,13 @@ quinqueliteral
 quinquelobate
 quinquelobared
 quinquelobed
+quinquelocular
 quinquenerved
 quinquennalia
 quinquennial
 quinquennium
 quinquepartite
+quinquereme
 quinquesyllable
 quinquevalve
 quinquevalvular
@@ -69186,6 +70356,7 @@ quondam
 quop
 quorum
 quota
+quotable
 quotation
 quote
 quoter
@@ -69241,6 +70412,7 @@ racemed
 racemic
 racemiferous
 racemiform
+racemose
 racemous
 racemule
 racemulose
@@ -69255,6 +70427,7 @@ rachis
 rachitic
 rachitis
 rachitome
+racial
 racily
 raciness
 rack
@@ -69375,6 +70548,7 @@ ragious
 raglan
 ragman
 ragnarok
+ragout
 ragpicker
 ragtime
 raguled
@@ -69456,6 +70630,7 @@ ramayana
 ramberge
 ramble
 rambler
+rambling
 ramblingly
 rambooze
 rambutan
@@ -69722,6 +70897,7 @@ rattlewort
 rattlings
 rattoon
 raucid
+raucity
 raucous
 raunch
 raunsoun
@@ -69752,12 +70928,14 @@ ravissant
 raw
 rawbone
 rawboned
+rawhead
 rawhide
 rawish
 rawly
 rawness
 ray
 rayah
+rayless
 rayon
 rayonnant
 raze
@@ -69766,6 +70944,7 @@ razee
 razor
 razorable
 razorback
+razor-backed
 razorbill
 razure
 razzia
@@ -69879,6 +71058,7 @@ reason
 reasonable
 reasonableness
 reasonably
+reasoner
 reasoning
 reasonist
 reasonless
@@ -69969,6 +71149,7 @@ recapper
 recaption
 recaptor
 recapture
+recarbonize
 recarnify
 recarriage
 recarry
@@ -69993,8 +71174,10 @@ recension
 recensionist
 recent
 recenter
+recently
 recentness
 receptacle
+receptacular
 receptaculum
 receptary
 receptibility
@@ -70097,6 +71280,7 @@ recoilingly
 recoilment
 recoin
 recoinage
+re-collect
 recollect
 recollection
 recollective
@@ -70127,12 +71311,14 @@ recompenser
 recompensive
 recompilation
 recompile
+recompilement
 recompose
 recomposer
 recomposition
 reconcentrado
 reconcentrate
 reconcentration
+reconcilable
 reconcile
 reconcilement
 reconciler
@@ -70140,6 +71326,7 @@ reconciliation
 reconciliatory
 recondensation
 recondense
+recondite
 reconditory
 reconduct
 reconfirm
@@ -70149,6 +71336,7 @@ reconnoissance
 reconnaissance
 reconnoiter
 reconnoitre
+reconquer
 reconquest
 reconsecrate
 reconsecration
@@ -70159,6 +71347,7 @@ reconsolidate
 reconsolidation
 reconstruct
 reconstruction
+reconstructive
 recontinuance
 recontinue
 reconvene
@@ -70174,6 +71363,7 @@ recordance
 recordation
 recorder
 recordership
+recording
 recorporification
 recouch
 recount
@@ -70261,6 +71451,7 @@ reculement
 recumb
 recumbence
 recumbency
+recumbent
 recuperable
 recuperate
 recuperation
@@ -70278,6 +71469,7 @@ recursion
 recurvate
 recurvation
 recurve
+recurved
 recurviroster
 recurvirostral
 recurvity
@@ -70330,6 +71522,7 @@ re-demption
 redemptionary
 redemptioner
 redemptionist
+redemptive
 redemptorist
 redemptory
 redempture
@@ -70346,8 +71539,10 @@ red-hand
 red-handed
 redhead
 redhibition
+redhibitory
 redhoop
 redhorn
+red-hot
 redia
 redient
 redif
@@ -70382,6 +71577,7 @@ redolency
 redolent
 redouble
 redoubt
+redoubtable
 redoubted
 redoubting
 redound
@@ -70440,6 +71636,7 @@ redwood
 ree
 reebok
 reecho
+re-echo
 reechy
 reed
 reedbird
@@ -70463,7 +71660,9 @@ reek
 reeky
 reel
 reelect
+reelection
 reeler
+reeligible
 reem
 reembark
 reembarkation
@@ -70494,6 +71693,7 @@ reentrant
 reentry
 reerect
 reermouse
+reestablish
 reestablisher
 reestablishment
 reestate
@@ -70554,6 +71754,7 @@ reflector
 reflet
 reflex
 reflexed
+reflexibility
 reflexible
 reflexion
 reflexity
@@ -70586,6 +71787,7 @@ reformade
 reformado
 reformalize
 reformation
+re-formation
 reformative
 reformatory
 reformed
@@ -70599,6 +71801,7 @@ refound
 refounder
 refract
 refractable
+refracted
 refracting
 refraction
 refractive
@@ -70633,6 +71836,7 @@ refrigerative
 refrigerator
 refrigeratory
 refrigerium
+refringency
 refringent
 reft
 refuge
@@ -70687,6 +71891,7 @@ regeneracy
 regenerate
 regenerateness
 regeneration
+regenerative
 regeneratively
 regenerator
 regeneratory
@@ -70708,6 +71913,8 @@ regild
 regime
 regimen
 regiment
+regimental
+regimentally
 regimentals
 regiminal
 region
@@ -70717,6 +71924,7 @@ register
 registering
 registership
 registrant
+registrar
 registrarship
 registrary
 registrate
@@ -70758,6 +71966,7 @@ reguerdon
 regulable
 regular
 regularia
+regularity
 regularize
 regularly
 regularness
@@ -70773,6 +71982,7 @@ regurgitation
 rehabilitate
 rehabilitation
 rehash
+rehear
 rehearsal
 rehearse
 rehearser
@@ -71079,6 +72289,7 @@ remissness
 remissory
 remit
 remitment
+remittal
 remittance
 remittee
 remittent
@@ -71128,6 +72339,7 @@ remugient
 remunerable
 remunerate
 remuneration
+remunerative
 remuneratory
 remurmur
 ren
@@ -71164,12 +72376,14 @@ renerve
 renew
 renewability
 renewable
+renewal
 renewedly
 renewedness
 renewer
 reneye
 reng
 renidification
+reniform
 renitence
 renitency
 renitent
@@ -71220,14 +72434,18 @@ reoppose
 reordain
 reorder
 reordination
+reorganization
+reorganize
 reorient
 reostat
 reotrope
 rep
 repace
 repacify
+repack
 repacker
 repaganize
+repaint
 repair
 repairable
 repairer
@@ -71250,6 +72468,7 @@ repasture
 repatriate
 repatriation
 repay
+repayable
 repayment
 repeal
 repealability
@@ -71318,6 +72537,7 @@ replevy
 replica
 replicant
 replicate
+replicated
 replication
 replier
 replum
@@ -71331,6 +72551,7 @@ reportable
 reportage
 reporter
 reportingly
+reportorial
 reposal
 reposance
 repose
@@ -71371,6 +72592,7 @@ repress
 represser
 repressible
 repression
+repressive
 reprevable
 repreve
 repriefe
@@ -71498,6 +72720,7 @@ rescat
 rescind
 rescindable
 rescindment
+rescission
 rescissory
 rescous
 rescowe
@@ -71557,6 +72780,7 @@ reservor
 reset
 resetter
 resettle
+resettlement
 reshape
 reship
 reshipment
@@ -71575,6 +72799,7 @@ residentiaryship
 residentship
 resider
 residual
+residuary
 residue
 residuous
 residuum
@@ -71616,6 +72841,7 @@ resistible
 resisting
 resistive
 resistless
+resoluble
 resolute
 resolutely
 resoluteness
@@ -71640,6 +72866,7 @@ resonator
 resorb
 resorbent
 resorcin
+resorcylic
 resorption
 resort
 resorter
@@ -71658,6 +72885,7 @@ respectable
 respectant
 respecter
 respectful
+respecting
 respection
 respective
 respectively
@@ -71669,8 +72897,10 @@ respersion
 respirability
 respirable
 respiration
+respirational
 respirative
 respirator
+respiratory
 respire
 respite
 respiteless
@@ -71720,6 +72950,7 @@ restitution
 restitutor
 restive
 restless
+restorable
 restoral
 restoration
 restorationer
@@ -71764,6 +72995,7 @@ resume
 resummon
 resummons
 resumption
+resumptive
 resupinate
 resupinated
 resupination
@@ -71785,6 +73017,7 @@ resuscitator
 ret
 retable
 retail
+retailer
 retailment
 retain
 retainable
@@ -71796,6 +73029,7 @@ retaker
 retaliate
 retaliation
 retaliative
+retaliatory
 retard
 retardation
 retardative
@@ -71813,6 +73047,7 @@ retention
 retentive
 retentively
 retentiveness
+retentivity
 retentor
 retepore
 retex
@@ -71860,6 +73095,7 @@ retiped
 retiracy
 retirade
 retire
+retired
 retirement
 retirer
 retiring
@@ -71879,6 +73115,7 @@ retractable
 retractate
 retractation
 retractible
+retractile
 retraction
 retractive
 retractor
@@ -71956,6 +73193,7 @@ return
 returnable
 returner
 returnless
+retuse
 reule
 reume
 reunion
@@ -72037,6 +73275,7 @@ revert
 reverted
 revertent
 reverter
+revertible
 revertive
 revest
 revestiary
@@ -72089,6 +73328,7 @@ reviviscency
 reviviscent
 revivor
 revocability
+revocable
 revocate
 revocation
 revocatory
@@ -72107,6 +73347,7 @@ revolutionary
 revolutioner
 revolutionism
 revolutionist
+revolutionize
 revolutive
 revolvable
 revolve
@@ -72154,11 +73395,13 @@ rhabdophora
 rhabdopleura
 rhabdosphere
 rhachialgia
+rhachidian
 rhachiglossa
 rhachilla
 rhachiodont
 rhachis
 rhachitis
+rhadamanthine
 rhadamanthus
 rhadamanthys
 rhaetic
@@ -72462,6 +73705,7 @@ riggish
 riggle
 right
 right-about
+right-angled
 righten
 righteous
 righteoused
@@ -72551,6 +73795,7 @@ ringneck
 ring-necked
 ringsail
 ringstraked
+ring-streaked
 ringtail
 ring-tailed
 ringtoss
@@ -72583,18 +73828,21 @@ ripple
 ripple-marked
 ripplet
 ripplingly
+ripply
 riprap
 riptowel
 ris
 rise
 riser
 rish
+risibility
 risible
 rising
 risk
 risker
 riskful
 risky
+risorial
 risotto
 risque
 risquee
@@ -72852,11 +74100,13 @@ roomage
 roomer
 roomful
 roomily
+roominess
 roomless
 roommate
 roomsome
 roomth
 roomthy
+roomy
 roon
 roop
 roorback
@@ -73042,6 +74292,7 @@ roughness
 roughrider
 roughscuff
 roughsetter
+roughshod
 roughstrings
 roughtail
 roughwork
@@ -73074,6 +74325,7 @@ rounding
 roundish
 roundlet
 roundly
+roundness
 roundridge
 round-shouldered
 roundsman
@@ -73116,6 +74368,7 @@ rowdydow
 rowdydowdy
 rowdyish
 rowdyism
+rowed
 rowel
 rowen
 rower
@@ -73176,6 +74429,7 @@ rubidine
 rubidium
 rubific
 rubification
+rubiform
 rubify
 rubiginose
 rubiginous
@@ -73214,6 +74468,7 @@ rudderpost
 rudderstock
 ruddied
 ruddily
+ruddiness
 ruddle
 ruddock
 ruddy
@@ -73336,6 +74591,7 @@ rune
 runer
 rung
 runghead
+runic
 runlet
 runnel
 runner
@@ -73366,6 +74622,7 @@ ruralize
 rurally
 ruralness
 ruricolist
+ruridecanal
 rurigenous
 ruse
 rush
@@ -73387,6 +74644,7 @@ russeting
 russety
 russia
 russian
+russianize
 russification
 russify
 russophile
@@ -73417,6 +74675,7 @@ ruthenious
 ruthenium
 ruthful
 ruthless
+rutic
 rutilant
 rutilate
 rutile
@@ -73574,6 +74833,7 @@ sacrist
 sacristan
 sacristy
 sacrosanct
+sacrosciatic
 sacrovertebral
 sacrum
 sacs
@@ -73592,6 +74852,7 @@ saddler
 saddlery
 saddle-shaped
 saddletree
+sadducaic
 sadducee
 sadduceeism
 sadducism
@@ -73775,6 +75036,7 @@ salite
 saliva
 salival
 salivant
+salivary
 salivate
 salivation
 salivous
@@ -73826,6 +75088,7 @@ saltate
 saltation
 saltatoria
 saltatorial
+saltatorious
 saltatory
 saltbush
 saltcat
@@ -73850,6 +75113,7 @@ saltness
 saltpetrous
 saltwort
 salty
+salubrious
 salubrity
 salue
 salutary
@@ -73859,6 +75123,7 @@ salutatorily
 salutatory
 salute
 saluter
+salutiferous
 salutiferously
 salvability
 salvable
@@ -74233,6 +75498,7 @@ satin
 satinet
 satinette
 satinwood
+satiny
 sation
 satiric
 satirical
@@ -74379,6 +75645,7 @@ saw-wort
 saw-wrest
 sawyer
 sax
+saxatile
 saxhorn
 saxicava
 saxicavid
@@ -74438,6 +75705,7 @@ scalawag
 scald
 scalder
 scaldfish
+scaldic
 scale
 scaleback
 scalebeam
@@ -74450,6 +75718,7 @@ scalenohedron
 scaler
 scale-winged
 scaliness
+scaling
 scaliola
 scall
 scalled
@@ -74614,6 +75883,8 @@ scepsis
 scepter
 sceptre
 scepterellate
+scepterless
+sceptreless
 sceptral
 scern
 schade
@@ -74949,6 +76220,7 @@ scotograph
 scotoma
 scotomy
 scotoscope
+scots
 scotsman
 scottering
 scotticism
@@ -75023,6 +76295,7 @@ screed
 screen
 screenings
 screw
+screw-cutting
 screw-driver
 screwer
 scribable
@@ -75065,6 +76338,7 @@ scrit
 scritch
 scrivener
 scrobicula
+scrobicular
 scrobiculate
 scrobiculated
 scrod
@@ -75089,6 +76363,7 @@ scrub
 scrubbed
 scrubber
 scrubboard
+scrubby
 scrubstone
 scruff
 scrummage
@@ -75229,6 +76504,7 @@ seafarer
 seafaring
 sea-gate
 sea-gait
+seagirt
 seagoing
 sea-green
 seah
@@ -75271,6 +76547,7 @@ search
 searchable
 searchableness
 searcher
+searching
 searchless
 searcloth
 seared
@@ -75290,6 +76567,7 @@ seasoner
 seasoning
 seasonless
 seat
+seating
 seatless
 seave
 seavy
@@ -75312,6 +76590,7 @@ sebiferous
 sebiparous
 seborrhea
 secale
+secancy
 secant
 secco
 secede
@@ -75339,6 +76618,7 @@ second-class
 seconder
 secondhand
 secondly
+second-rate
 second-sight
 second-sighted
 secre
@@ -75356,6 +76636,7 @@ secrete
 secretion
 secretist
 secretitious
+secretive
 secretiveness
 secretly
 secretness
@@ -75537,6 +76818,7 @@ seismography
 seismological
 seismology
 seismometer
+seismometric
 seismometry
 seismoscope
 seity
@@ -75578,12 +76860,14 @@ selenate
 selenhydric
 selenic
 selenide
+seleniferous
 selenious
 selenite
 selenitic
 selenitical
 selenium
 seleniuret
+seleniureted
 selenocentric
 selenographer
 selenographic
@@ -75674,6 +76958,7 @@ self-destroyer
 self-destruction
 self-destructive
 self-determination
+self-determining
 self-devised
 self-devoted
 self-devotement
@@ -76095,6 +77380,7 @@ sensibly
 sensifacient
 sensiferous
 sensific
+sensificatory
 sensigenous
 sensism
 sensist
@@ -76106,6 +77392,7 @@ sensitometer
 sensitory
 sensive
 sensor
+sensorial
 sensorium
 sensori-volitional
 sensory
@@ -76197,15 +77484,18 @@ septane
 septangle
 septangular
 septarium
+septate
 september
 septemberer
 septembrist
 septemfluous
+septempartite
 septemtrioun
 septemvir
 septemvirate
 septenary
 septenate
+septennate
 septennial
 septennially
 septentrial
@@ -76233,6 +77523,7 @@ septifragal
 septilateral
 septillion
 septimole
+septinsular
 septisyllable
 septoic
 septomaxillary
@@ -76312,6 +77603,7 @@ sergeantship
 sergeanty
 serial
 seriality
+serially
 seriate
 seriatim
 seriation
@@ -76363,6 +77655,7 @@ serpentine
 serpentinely
 serpentinian
 serpentinize
+serpentinous
 serpentize
 serpentry
 serpent-tongued
@@ -76437,6 +77730,8 @@ sesquialterous
 sesquibasic
 sesquiduplicate
 sesquioxide
+sesquipedal
+sesquipedalian
 sesquipedalianism
 sesquipedalism
 sesquipedality
@@ -76461,6 +77756,7 @@ sestine
 sestuor
 set
 seta
+setaceous
 setback
 setbolt
 setdown
@@ -76546,6 +77842,7 @@ sexangularly
 sexavalent
 sexdigitism
 sexdigitist
+sexed
 sexenary
 sexennial
 sexennially
@@ -76555,6 +77852,7 @@ sexisyllabic
 sexisyllable
 sexivalent
 sexless
+sexlocular
 sexly
 sexradiate
 sext
@@ -76855,6 +78153,7 @@ shell-lac
 shellapple
 shellbark
 shelled
+sheller
 shellfish
 shelling
 shellproof
@@ -77096,6 +78395,7 @@ short-handed
 shorthead
 shorthorn
 short-jointed
+short-lived
 shortly
 shortness
 shortsighted
@@ -77118,6 +78418,7 @@ shotted
 shotten
 shough
 shoulder
+shouldered
 shoulder-shotten
 shout
 shouter
@@ -77132,6 +78433,7 @@ shoveler
 shovelful
 shovelhead
 shovelnose
+shovel-nosed
 show
 showbread
 shower
@@ -77296,6 +78598,7 @@ siddow
 side
 sideboard
 sidebone
+sided
 sideflash
 sidehill
 sideling
@@ -77330,6 +78633,7 @@ side-wheel
 sidewinder
 sidewise
 siding
+sidle
 siege
 siegework
 sienite
@@ -77379,6 +78683,7 @@ sigmoid
 sigmoidal
 sigmoidally
 sign
+signable
 signal
 signalist
 signality
@@ -77392,6 +78697,7 @@ signatory
 signature
 signaturist
 signboard
+signer
 signet
 signeted
 signifer
@@ -77434,6 +78740,7 @@ silex
 silhouette
 silica
 silicate
+silicated
 silicatization
 silicea
 siliceous
@@ -77465,6 +78772,8 @@ siliqua
 silique
 siliquiform
 siliquosa
+siliquose
+siliquous
 silk
 silken
 silkiness
@@ -77507,6 +78816,7 @@ silverbill
 silverboom
 silverfin
 silverfish
+silver-gray
 silveriness
 silvering
 silverite
@@ -77586,6 +78896,7 @@ simulation
 simulator
 simulatory
 simultaneity
+simultaneous
 simulty
 sin
 sinaic
@@ -77793,8 +79104,10 @@ sist
 sister
 sisterhood
 sistering
+sisterly
 sistine
 sistren
+sisyphean
 sisyphus
 sit
 site
@@ -77975,6 +79288,7 @@ skittish
 skittle
 skittle-dog
 skittles
+skitty
 skive
 skiver
 skiving
@@ -78118,6 +79432,7 @@ sle
 sleave
 sleaved
 sleaziness
+sleazy
 sled
 sledding
 sledge
@@ -78147,6 +79462,7 @@ sleer
 sleet
 sleetch
 sleetiness
+sleety
 sleeve
 sleeved
 sleevefish
@@ -78379,6 +79695,7 @@ smatterer
 smattering
 smear
 smearcase
+smeared
 smeary
 smeath
 smectite
@@ -78439,6 +79756,7 @@ smittlish
 smock
 smock-faced
 smockless
+smokable
 smoke
 smoke-dry
 smokehouse
@@ -78575,6 +79893,7 @@ snew
 snib
 snick
 snicker
+snide
 snider rifle
 snider
 sniff
@@ -78630,11 +79949,13 @@ snout
 snouty
 snow
 snowball
+snowberry
 snowbird
 snow-blind
 snow-bound
 snow-broth
 snowcap
+snow-capped
 snowdrift
 snowdrop
 snowflake
@@ -78652,6 +79973,7 @@ snowstorm
 snow-white
 snowy
 snub
+snub-nosed
 snudge
 snuff
 snuffbox
@@ -78780,6 +80102,7 @@ soft-shelled
 soft-spoken
 soger
 sogginess
+soggy
 soho
 soi-disant
 soil
@@ -78843,10 +80166,12 @@ solecistic
 solecistical
 solecistically
 solecize
+solely
 solemn
 solemness
 solemnity
 solemnizate
+solemnization
 solemnize
 solemnizer
 solemnly
@@ -79007,6 +80332,7 @@ somnial
 somniative
 somniatory
 somniculous
+somniferous
 somnific
 somnifugous
 somniloquence
@@ -79042,6 +80368,7 @@ song
 songcraft
 songful
 songish
+songless
 songster
 songstress
 sonifer
@@ -79105,6 +80432,7 @@ sophistic
 sophistical
 sophisticate
 sophisticated
+sophistication
 sophisticator
 sophistry
 sophomore
@@ -79162,7 +80490,9 @@ soree
 sorehead
 sorehon
 sorel
+sorely
 sorema
+soreness
 sorex
 sorghe
 sorghum
@@ -79251,6 +80581,7 @@ sounding
 sounding-board
 soundless
 soundly
+soundness
 soune
 sounst
 soup
@@ -79263,6 +80594,7 @@ source
 sourcrout
 sourde
 souring
+sourish
 sourkrout
 sourly
 sourness
@@ -79308,6 +80640,8 @@ southward
 southwards
 southwardly
 southwest
+southwesterly
+southwestern
 southwestward
 southwestwardly
 souvenance
@@ -79386,6 +80720,7 @@ spane
 spang
 spangle
 spangler
+spangly
 spaniard
 spaniel
 spanish
@@ -79427,6 +80762,7 @@ sparkle
 sparkler
 sparklet
 sparkliness
+sparkling
 sparling
 sparlyre
 sparoid
@@ -79439,6 +80775,7 @@ sparry
 sparse
 sparsedly
 sparsely
+sparseness
 sparsim
 spartan
 sparteine
@@ -79493,6 +80830,7 @@ spayade
 speak
 speakable
 speaker
+speakership
 speaking
 spear
 spearer
@@ -79507,6 +80845,7 @@ spece
 specht
 special
 specialism
+specialist
 speciality
 specialization
 specialize
@@ -79555,6 +80894,7 @@ spectroelectric
 spectrogram
 spectroheliogram
 spectroheliograph
+spectrological
 spectrology
 spectrometer
 spectrometry
@@ -79643,6 +80983,7 @@ spermalist
 spermaphore
 spermary
 spermatheca
+spermatic
 spermatical
 spermatin
 spermatism
@@ -79652,12 +80993,14 @@ spermatoblast
 spermatocyte
 spermatogemma
 spermatogenesis
+spermatogenetic
 spermatogenous
 spermatogonium
 spermatoid
 spermatoon
 spermatooen
 spermatophore
+spermatophorous
 spermatophyta
 spermatophyte
 spermatospore
@@ -79722,6 +81065,7 @@ spheral
 sphere
 spherical
 spheric
+sphericity
 sphericle
 spherics
 spherobacteria
@@ -79738,6 +81082,7 @@ spherometer
 spherosiderite
 spherosome
 spherulate
+spherule
 spherulite
 spherulitic
 sphery
@@ -79752,6 +81097,7 @@ sphrigosis
 sphygmic
 sphygmogram
 sphygmograph
+sphygmographic
 sphygmometer
 sphygmophone
 sphygmoscope
@@ -79824,6 +81170,7 @@ spindleshanks
 spindle-shaped
 spindletail
 spindleworm
+spindling
 spindrift
 spine
 spineback
@@ -79881,6 +81228,7 @@ spirant
 spiranthy
 spiration
 spire
+spired
 spiricle
 spirifer
 spirillum
@@ -79929,6 +81277,7 @@ spirulate
 spiry
 spiss
 spissated
+spissitude
 spit
 spital
 spitalhouse
@@ -79978,6 +81327,7 @@ spleget
 splenalgia
 splenculus
 splendent
+splendid
 splendidious
 splendidly
 splendidness
@@ -80011,6 +81361,7 @@ splining
 splint
 splinter
 splinterproof
+splintery
 split
 splitfeet
 split-tail
@@ -80208,6 +81559,7 @@ sprinkle
 sprinkler
 sprinkling
 sprint
+sprinter
 sprit
 sprite
 spriteful
@@ -80326,6 +81678,7 @@ squanderer
 squanderingly
 square
 squarely
+squareness
 squarer
 square-rigged
 square-toed
@@ -80415,6 +81768,7 @@ stabler
 stabling
 stablish
 stablishment
+stably
 stabulation
 staccato
 stack
@@ -80515,6 +81869,7 @@ stallage
 stallation
 stalled
 staller
+stall-feed
 stalling
 stallion
 stallman
@@ -80592,11 +81947,13 @@ stannum
 stannyel
 stanyel
 stanza
+stanzaic
 stapedial
 stapelia
 stapes
 staphyline
 staphylinid
+staphyloma
 staphylomatous
 staphyloplasty
 staphyloraphy
@@ -80629,6 +81986,7 @@ staringly
 stark
 starkly
 starkness
+starless
 starlight
 starlike
 starling
@@ -80639,7 +81997,9 @@ starnose
 starost
 starosty
 starproof
+star-read
 starred
+starriness
 starry
 starshine
 starshoot
@@ -80664,6 +82024,7 @@ starveling
 starwort
 stasimon
 stasis
+statable
 statal
 statant
 statarian
@@ -80674,6 +82035,7 @@ statecraft
 stated
 statedly
 stateful
+statehood
 statehouse
 stateless
 statelily
@@ -80694,6 +82056,7 @@ static
 statical
 statically
 statics
+stating
 station
 stational
 stationariness
@@ -80702,6 +82065,8 @@ stationer
 stationery
 statism
 statist
+statistic
+statistical
 statistically
 statistician
 statistics
@@ -80726,6 +82091,7 @@ status
 statutable
 statutably
 statute
+statutory
 staurolite
 staurolitic
 stauroscope
@@ -80776,6 +82142,7 @@ steamy
 stean
 steaningp
 steapsin
+stearate
 stearic
 stearin
 stearolic
@@ -80878,6 +82245,7 @@ stellulate
 stelmatopoda
 stelography
 stem
+stem-clasping
 stemless
 stemlet
 stemma
@@ -80887,6 +82255,7 @@ stemmy
 stemple
 stemson
 stem-winder
+stem-winding
 stench
 stenchy
 stencil
@@ -80905,6 +82274,7 @@ stenostome
 stent
 stenting
 stentor
+stentorian
 stentorin
 stentorious
 stentoronic
@@ -81002,8 +82372,10 @@ sterner
 sternforemost
 sternite
 sternly
+sternmost
 sternness
 sternocoracoid
+sternocostal
 sternohyoid
 sternomastoid
 sternothyroid
@@ -81071,6 +82443,7 @@ stichwort
 stick
 sticker
 stickful
+stickiness
 stickit
 stick-lac
 stickle
@@ -81089,7 +82462,9 @@ stiffening
 stiff-hearted
 stiffish
 stiffly
+stiff-necked
 stiff-neckedness
+stiffness
 stifftail
 stiff-tailed
 stifle
@@ -81119,6 +82494,7 @@ stillatitious
 stillatory
 stillbirth
 stillborn
+still-burn
 still-closing
 stiller
 stillhouse
@@ -81135,6 +82511,7 @@ stilly
 stilpnomelane
 stilt
 stiltbird
+stilted
 stiltify
 stilton cheese
 stilton
@@ -81297,6 +82674,7 @@ stomatitis
 stomatoda
 stomatodaeum
 stomatode
+stomatogastric
 stomatology
 stomatoplastic
 stomatoplasty
@@ -81367,6 +82745,7 @@ stopship
 storage
 storax
 store
+stored
 storehouse
 storekeeper
 storer
@@ -81406,6 +82785,7 @@ stour
 stout
 stout-hearted
 stoutish
+stoutly
 stoutness
 stovain
 stovaine
@@ -81452,6 +82832,7 @@ straik
 strain
 strainable
 strainably
+strained
 strainer
 straining
 straint
@@ -81512,6 +82893,7 @@ strath
 strathspey
 straticulate
 stratification
+stratified
 stratiform
 stratify
 stratigraphic
@@ -81721,6 +83103,7 @@ strout
 strow
 strowl
 stroy
+structural
 structure
 structured
 structureless
@@ -81863,6 +83246,7 @@ stycerin
 stye
 stygial
 stygian
+stylagalmaic
 stylar
 stylaster
 style
@@ -81975,17 +83359,20 @@ subbrachial
 subbrachiales
 subbrachian
 subbreed
+subbronchial
 subcaliber
 subcarbonate
 subcarboniferous
 subcarbureted
 subcartilaginous
+subcaudal
 subcelestial
 subcellar
 subcentral
 subchanter
 subcircular
 subclass
+subclavian
 subcolumnar
 subcommittee
 subcompressed
@@ -82000,10 +83387,12 @@ subcontract
 subcontracted
 subcontractor
 subcontrary
+subcoracoid
 subcordate
 subcorneous
 subcostal
 subcranial
+subcrustaceous
 subcrystalline
 subcultrate
 subcultrated
@@ -82090,6 +83479,7 @@ subhepatic
 subhornblendic
 subhumerate
 subhyaloid
+subhyoidean
 subimago
 subincusation
 subindex
@@ -82101,6 +83491,7 @@ subinfer
 subinfeudation
 subingression
 subintestinal
+subinvolution
 subitaneous
 subitany
 subito
@@ -82165,6 +83556,7 @@ submarine
 submarshal
 submaxillary
 submedial
+submedian
 submediant
 submental
 submentum
@@ -82191,14 +83583,17 @@ submucous
 submultiple
 submuscular
 subnarcotic
+subnasal
 subnascent
 subnect
 subnex
 subnormal
 subnotation
+subnotochordal
 subnuvolar
 subobscurely
 subobtuse
+suboccipital
 suboctave
 suboctuple
 subocular
@@ -82224,6 +83619,7 @@ suboval
 subovate
 subovated
 suboxide
+subpeduncular
 subpedunculate
 subpellucid
 subpena
@@ -82245,6 +83641,7 @@ subpulmonary
 subpurchaser
 subpyriform
 subquadrate
+subquadruple
 subquinquefid
 subquintuple
 subreader
@@ -82262,6 +83659,8 @@ subsacral
 subsaline
 subsalt
 subsannation
+subscapular
+subscapulary
 subscribable
 subscribe
 subscriber
@@ -82313,6 +83712,7 @@ substantial
 substantiality
 substantialize
 substantially
+substantialness
 substantials
 substantiate
 substantiation
@@ -82320,6 +83720,7 @@ substantival
 substantive
 substantively
 substantiveness
+substantivize
 substile
 substituent
 substitute
@@ -82352,6 +83753,8 @@ subtartarean
 subtectacle
 subtegulaneous
 subtenant
+subtend
+subtense
 subtepid
 subterete
 subterfluent
@@ -82388,8 +83791,10 @@ subtrahend
 subtranslucent
 subtransparent
 subtreasurer
+subtreasury
 subtriangular
 subtribe
+subtrihedral
 subtriple
 subtriplicate
 subtropical
@@ -82414,6 +83819,7 @@ suburbian
 suburbicarian
 suburbicary
 suburethral
+subvaginal
 subvariety
 subvene
 subventaneous
@@ -82446,6 +83852,7 @@ succeeding
 succentor
 success
 successary
+successful
 succession
 successional
 successionist
@@ -82481,9 +83888,12 @@ succubine
 succubous
 succubus
 succula
+succulence
+succulency
 succulent
 succulently
 succulous
+succumb
 succumbent
 succursal
 succus
@@ -82621,6 +84031,8 @@ suitor
 suitress
 suji
 sula
+sulcate
+sulcated
 sulcation
 sulciform
 sulcus
@@ -82628,6 +84040,7 @@ sulk
 sulker
 sulkily
 sulkiness
+sulks
 sulky
 sull
 sullage
@@ -82808,6 +84221,7 @@ sunsquall
 sunsted
 sunstone
 sunstroke
+sun-struck
 sunup
 sunward
 sunwise
@@ -82894,6 +84308,8 @@ superfuse
 superheat
 superheater
 superhive
+superhuman
+superimpose
 superimpregnation
 superincumbence
 superincumbency
@@ -82914,6 +84330,7 @@ superintender
 superinvestiture
 superior
 superioress
+superiority
 superiorly
 superjacent
 superlation
@@ -82930,6 +84347,7 @@ supermundane
 supermundial
 supernacular
 supernaculum
+supernal
 supernatant
 supernatation
 supernatural
@@ -82957,6 +84375,7 @@ superpolitic
 superponderate
 superposable
 superpose
+superposition
 superpraise
 superproportion
 superpurgation
@@ -82976,6 +84395,7 @@ superscription
 supersecular
 supersede
 supersedeas
+supersedure
 superseminate
 supersemination
 supersensible
@@ -83035,6 +84455,7 @@ suppedaneous
 suppeditate
 suppeditation
 supper
+supperless
 supping
 supplace
 supplant
@@ -83075,6 +84496,7 @@ supportful
 supportless
 supportment
 supportress
+supposable
 supposal
 suppose
 supposeer
@@ -83115,6 +84537,8 @@ supracostal
 supracranial
 supracretaceous
 supradecompound
+supra-esophagal
+supra-esophageal
 supra-ethmoid
 suprafoliaceous
 supraglotic
@@ -83145,6 +84569,7 @@ suprapubic
 suprarenal
 suprascalpular
 suprascalpulary
+suprasphenoidal
 supraspinal
 supraspinate
 supraspinous
@@ -83164,6 +84589,7 @@ sura
 suradanni
 suraddition
 surah
+sural
 surance
 surangular
 surbase
@@ -83211,6 +84637,7 @@ surfle
 surfer
 surfman
 surfoot
+surfy
 surge
 surgeful
 surgeless
@@ -83284,6 +84711,7 @@ surrounding
 surroyal
 sursanure
 surseance
+sursolid
 surstyle
 surtax
 surtout
@@ -83307,6 +84735,7 @@ survivancy
 survive
 survivency
 surviver
+surviving
 survivor
 survivorship
 susceptibility
@@ -83325,6 +84754,7 @@ suspect
 suspectable
 suspected
 suspecter
+suspectful
 suspection
 suspectiousness
 suspectless
@@ -83349,6 +84779,8 @@ suspiration
 suspire
 suspired
 sustain
+sustainable
+sustained
 sustainer
 sustainment
 sustaltic
@@ -83357,6 +84789,7 @@ sustentacle
 sustentacular
 sustentate
 sustentation
+sustentative
 sustention
 suster
 sustre
@@ -83416,8 +84849,10 @@ swallowtail
 swallow-tailed
 swallowwort
 swamp
+swampy
 swan
 swang
+swanherd
 swan-hopping
 swanimote
 swankie
@@ -83488,6 +84923,7 @@ sweep
 sweepage
 sweeper
 sweeping
+sweepings
 sweep-saw
 sweepstake
 sweepstakes
@@ -83600,6 +85036,7 @@ swivel-eyed
 swizzle
 swob
 swobber
+swollen
 swoon
 swooning
 swoop
@@ -83772,9 +85209,11 @@ syneresis
 synagogical
 synagogue
 synalepha
+synallagmatic
 synallaxine
 synaloepha
 synangium
+synantherous
 synanthesis
 synanthous
 synanthrose
@@ -83829,6 +85268,8 @@ syndactylous
 syndesmography
 syndesmology
 syndesmosis
+syndetic
+syndetical
 syndic
 syndical
 syndicalism
@@ -84031,6 +85472,7 @@ tabularization
 tabularize
 tabulata
 tabulate
+tabulation
 tac
 tacamahac
 tacamahaca
@@ -84114,6 +85556,7 @@ tagbelt
 tagger
 taglet
 taglia
+tagliacotain
 taglioni
 taglock
 tagnicate
@@ -84219,6 +85662,8 @@ tallyho
 tallyman
 talma
 talmud
+talmudic
+talmudical
 talmudism
 talmudist
 talmudistic
@@ -84403,6 +85848,7 @@ tardity
 tardo
 tardy
 tare
+tared
 tarente
 tarentism
 tarentula
@@ -84513,6 +85959,7 @@ tath
 tatou
 tatouay
 tatouhou
+tatt
 tatta
 tatter
 tatterdemalion
@@ -84541,6 +85988,7 @@ taurid
 tauridor
 tauriform
 taurine
+taurocholate
 taurocholic
 taurocol
 taurocolla
@@ -84555,6 +86003,7 @@ tautochrone
 tautochronous
 tautog
 tautologic
+tautological
 tautologist
 tautologize
 tautologous
@@ -84635,6 +86084,7 @@ teapoy
 tear
 tearer
 tear-falling
+tearful
 tearless
 tearpit
 tear-thumb
@@ -84732,6 +86182,7 @@ teeuck
 teewit
 teg
 tegmen
+tegmental
 tegmentum
 teguexin
 tegula
@@ -84882,6 +86333,7 @@ temperately
 temperateness
 temperative
 temperature
+tempered
 temperer
 tempering
 tempest
@@ -84908,6 +86360,7 @@ temporization
 temporize
 temporizer
 temporizingly
+temporo-auricular
 temporofacial
 temporomalar
 temporomaxillary
@@ -85075,6 +86528,7 @@ tephramancy
 tephrite
 tephroite
 tephrosia
+tepid
 tepidity
 tepor
 tequila
@@ -85123,6 +86577,7 @@ terephthalate
 terephthalic
 teret
 terete
+teretial
 teretous
 tergal
 tergant
@@ -85168,6 +86623,7 @@ termonology
 termor
 tern
 ternary
+ternate
 terneplate
 ternion
 terpene
@@ -85183,6 +86639,7 @@ terrace
 terraculture
 terrane
 terrapin
+terraqueous
 terrar
 terras
 terreen
@@ -85191,6 +86648,7 @@ terrel
 terremote
 terrene
 terrenity
+terreous
 terreplein
 terrestre
 terrestrial
@@ -85270,6 +86728,7 @@ testicular
 testiculate
 testiere
 testif
+testification
 testificator
 testifier
 testify
@@ -85365,6 +86824,7 @@ tetrandria
 tetrandrian
 tetrandrous
 tetraonid
+tetrapetalous
 tetrapharmacom
 tetrapharmacum
 tetraphenol
@@ -85567,6 +87027,7 @@ thegn
 thegnhood
 theiform
 theine
+their
 theism
 theist
 theistic
@@ -85701,9 +87162,11 @@ theriodonta
 theriodontia
 theriotomy
 thermae
+thermal
 thermally
 thermantidote
 thermetograph
+thermic
 thermidor
 thermifugine
 thermoanaesthesia
@@ -85739,6 +87202,8 @@ thermolytic
 thermolyze
 thermomagnetism
 thermometer
+thermometric
+thermometrical
 thermometrically
 thermometrograph
 thermometry
@@ -85763,6 +87228,8 @@ thermotaxic
 thermotensile
 thermotension
 thermotherapy
+thermotic
+thermotical
 thermotics
 thermotonus
 thermotropic
@@ -85940,6 +87407,7 @@ thoroughgoing
 thorough-lighted
 thoroughly
 thoroughness
+thoroughpaced
 thoroughpin
 thoroughsped
 thoroughstitch
@@ -86002,10 +87470,12 @@ three-color
 three-cornered
 three-decker
 three-flowered
+threefold
 three-handed
 three-leafed
 three-leaved
 three-lobed
+three-mile
 three-nerved
 three-parted
 threepence
@@ -86017,6 +87487,7 @@ three-pointed
 three-port
 three-quarter
 three-score
+three-sided
 three-square
 three-valved
 three-way
@@ -86385,6 +87856,7 @@ tinamou
 tincal
 tinchel
 tinct
+tinctorial
 tincture
 tind
 tindal
@@ -86486,12 +87958,14 @@ tisical
 tisicky
 tisri
 tissue
+tissued
 tit
 titan
 titanate
 titanic
 titaniferous
 titanite
+titanitic
 titanium
 titanotherium
 titanous
@@ -86524,6 +87998,7 @@ titling
 titmal
 titmouse
 titrate
+titrated
 titration
 titter
 titterel
@@ -86608,6 +88083,7 @@ tog
 toga
 togated
 toged
+together
 toggery
 toggle
 toght
@@ -86621,6 +88097,7 @@ toil
 toiler
 toilet
 toilette
+toilful
 toilinette
 toilless
 toilsome
@@ -86688,6 +88165,7 @@ tomcat
 tomcod
 tome
 tomelet
+tomentose
 tomentous
 tomentum
 tomfool
@@ -86709,6 +88187,7 @@ ton
 tonality
 to-name
 tone
+toned
 toneless
 tong
 tonge
@@ -86801,6 +88280,7 @@ top-boots
 top-chain
 top-cloth
 topcoat
+top-drain
 top-draining
 top-dress
 top-dressing
@@ -86828,6 +88308,7 @@ topless
 top-light
 topman
 topmast
+topmost
 topographer
 topographic
 topographical
@@ -86987,8 +88468,10 @@ tosto
 toswink
 tot
 tota
+total
 totalis
 totalisator
+totality
 totalization
 totalizator
 totalize
@@ -87183,6 +88666,7 @@ track
 trackage
 tracker
 tracklayer
+trackless
 trackman
 trackmaster
 roadmaster
@@ -87265,6 +88749,7 @@ tragus
 trail
 trailer
 train
+trainable
 trainband
 trainbearer
 trainel
@@ -87306,6 +88791,7 @@ tramontane
 tramp
 tramper
 trample
+trampler
 trampoose
 tramrail
 tramroad
@@ -87315,6 +88801,7 @@ trance
 tranect
 trangram
 trannel
+tranquil
 tranquilization
 tranquillization
 tranquilize
@@ -87348,8 +88835,10 @@ transcendentness
 transcension
 transcolate
 transcolation
+transcontinental
 transcorporate
 transcribbler
+transcribe
 transcriber
 transcript
 transcription
@@ -87379,6 +88868,7 @@ transferrible
 transfigurate
 transfiguration
 transfigure
+transfix
 transfixion
 transfluent
 transflux
@@ -87593,6 +89083,7 @@ traveled
 traveler
 travel-tainted
 travers
+traversable
 traverse
 traverser
 traversing
@@ -87644,6 +89135,7 @@ treatment
 treature
 treaty
 treble
+trebleness
 treblet
 trebly
 trebuchet
@@ -87789,11 +89281,17 @@ tribrach
 tribracteate
 tribromophenol
 tribromphenol
+tribual
+tribular
 tribulation
 tribunal
+tribunary
 tribunate
 tribune
 tribuneship
+tribunician
+tribunitial
+tribunitian
 tribunitious
 tributarily
 tributariness
@@ -87832,6 +89330,7 @@ trichoptera
 trichopterous
 trichord
 trichoscolices
+trichotomous
 trichotomy
 trichroic
 trichroism
@@ -87867,6 +89366,8 @@ tricot
 tricrotic
 tricrotism
 tricrotous
+tricurvate
+tricuspid
 tricuspidate
 tricycle
 tridacna
@@ -87874,6 +89375,7 @@ tridactyl
 tridactyle
 tridactylous
 triddler
+tride
 tridecane
 tridecatoic
 tridecatylene
@@ -87906,6 +89408,9 @@ trifid
 trifistulary
 trifle
 trifler
+trifling
+trifloral
+triflorous
 trifluctuation
 trifoliate
 trifoliated
@@ -87935,6 +89440,7 @@ triglyphical
 trigness
 trigon
 trigonid
+trigonal
 trigone
 trigonia
 trigonocerous
@@ -87953,13 +89459,18 @@ trihedral
 trihedron
 trihoral
 trihybrid
+trijugate
 trijugous
 trikosane
+trilateral
 trilemma
+trilinear
 trilingual
 trilinguar
 triliteral
 triliteralism
+triliterality
+triliteralness
 trilith
 trilithon
 trill
@@ -87973,6 +89484,8 @@ trilobation
 trilobed
 trilobita
 trilobite
+trilobitic
+trilocular
 trilogy
 triluminar
 triluminous
@@ -88041,6 +89554,7 @@ trional
 trionychoidea
 trionyx
 trior
+trioxide
 trip
 tripalmitate
 tripalmitin
@@ -88077,6 +89591,7 @@ tripitaka
 triplasian
 triple
 triple-crowned
+triple-headed
 triplet
 triple-tail
 triplex
@@ -88132,6 +89647,7 @@ trisnitrate
 trisoctahedron
 trispast
 trispaston
+trispermous
 trisplanchnic
 trist
 triste
@@ -88208,6 +89724,7 @@ troat
 trocar
 trocha
 trochaic
+trochaical
 trochal
 trochanter
 trochanteric
@@ -88228,6 +89745,7 @@ trochisk
 trochite
 trochlea
 trochlear
+trochleary
 trochoid
 trochoidal
 trochometer
@@ -88276,6 +89794,7 @@ tropaeolin
 trope
 tropeine
 trophi
+trophic
 trophied
 trophonian
 trophosome
@@ -88322,6 +89841,7 @@ trousse
 trousseau
 trout
 troutbird
+trout-colored
 troutlet
 troutling
 trouvere
@@ -88336,6 +89856,7 @@ trowsers
 troy
 troyounce
 truage
+truancy
 truand
 truant
 truantly
@@ -88364,12 +89885,14 @@ trudge
 trudgeman
 true
 true-blue
+true-born
 true-bred
 true-hearted
 truelove
 trueness
 true-penny
 truffle
+truffled
 trug
 trugging-house
 truism
@@ -88411,6 +89934,7 @@ trunkful
 trunkwork
 trunnel
 trunnion
+trunnioned
 trusion
 truss
 trussing
@@ -88433,10 +89957,13 @@ truthness
 truth-teller
 truthy
 trutination
+truttaceous
 try
+trying
 tryout
 trypsin
 trypsinogen
+tryptic
 tryptone
 trysail
 try-square
@@ -88462,6 +89989,7 @@ tubeform
 tube-nosed
 tuber
 tubercle
+tubercled
 tubercular
 tubercularize
 tuberculate
@@ -88596,6 +90124,7 @@ tumultuarily
 tumultuariness
 tumultuary
 tumultuate
+tumultuation
 tumultuous
 tumulus
 tun
@@ -88610,6 +90139,7 @@ tuneless
 tuner
 tun-great
 tungstate
+tungstenic
 tungstic
 tungstite
 tunguses
@@ -88932,11 +90462,14 @@ two-capsuled
 two-cleft
 two-cycle
 two-decker
+two-edged
 twofold
+two-foot
 two-forked
 two-hand
 two-handed
 two-lipped
+two-name
 two-parted
 twopence
 twopenny
@@ -88995,6 +90528,7 @@ typhlitis
 typhlosole
 typhoean
 typhoid
+typhomalarial
 typhomania
 typhon
 typhoon
@@ -89087,6 +90621,7 @@ ularburong
 ulcer
 ulcerable
 ulcerate
+ulcerated
 ulceration
 ulcerative
 ulcered
@@ -89109,6 +90644,7 @@ ulmin
 ulmus
 ulna
 ulnage
+ulnar
 ulnare
 ulodendron
 uloid
@@ -89121,6 +90657,7 @@ ulterior
 ulteriorly
 ultima
 ultimate
+ultimately
 ultimation
 ultimatum
 ultime
@@ -89137,6 +90674,7 @@ ultramontane
 ultramontanism
 ultramontanist
 ultramundane
+ultrared
 ultratropical
 ultraviolet
 ultrazodiacal
@@ -89150,6 +90688,8 @@ umbe
 umbecast
 umbel
 umbellar
+umbellate
+umbellated
 umbellet
 umbellic
 umbellifer
@@ -89244,6 +90784,7 @@ unanimate
 unanimity
 unanimous
 unanswerability
+unanswerable
 unanswered
 unappalled
 unapparel
@@ -89284,6 +90825,7 @@ unballast
 unballasted
 unbaned
 unbank
+unbar
 unbarbed
 unbark
 unbarrel
@@ -89332,6 +90874,8 @@ unbid
 unbidden
 unbind
 unbishop
+unbit
+unblemished
 unbless
 unblessed
 unblest
@@ -89352,11 +90896,13 @@ unbosom
 unbosomer
 unbottomed
 unboundably
+unbounded
 unbow
 unbowed
 unbowel
 unbox
 unboy
+unbrace
 unbraid
 unbreast
 unbreathed
@@ -89432,6 +90978,7 @@ uncial
 unciatim
 unciform
 uncinata
+uncinate
 uncinatum
 uncinus
 uncipher
@@ -89451,6 +90998,7 @@ uncleansable
 unclench
 uncleship
 unclew
+unclinch
 uncling
 uncloak
 unclog
@@ -89473,6 +91021,7 @@ uncolt
 uncombine
 uncomeatable
 uncomely
+uncomfortable
 uncommon
 uncomplete
 uncomprehend
@@ -89514,6 +91063,7 @@ unconstraint
 unconsummate
 uncontestable
 uncontinent
+uncontrollable
 uncontroversory
 uncontrovertible
 uncontrovertibly
@@ -89659,6 +91209,7 @@ underfong
 underfoot
 underfringe
 underfurnish
+underfurrow
 under-garment
 underget
 undergird
@@ -89706,6 +91257,7 @@ underling
 underlip
 underlock
 underlocker
+underlying
 undermanned
 undermasted
 undermaster
@@ -89898,6 +91450,7 @@ undumpish
 undust
 undwellable
 undwelt
+undying
 uneared
 unearned
 unearth
@@ -90019,6 +91572,7 @@ unfrequented
 unfret
 unfriend
 unfriended
+unfriendly
 unfriendship
 unfrock
 unfruitful
@@ -90082,6 +91636,7 @@ ungulate
 unguled
 unguligrade
 ungulous
+unhair
 unhallow
 unhallowed
 unhand
@@ -90141,6 +91696,7 @@ unibranchiate
 unicameral
 unicarinated
 unicelled
+unicellular
 unicentral
 unicity
 uniclinal
@@ -90152,8 +91708,10 @@ unicursal
 unideaed
 unideal
 unidimensional
+unifacial
 unific
 unification
+unifier
 unifilar
 uniflagellate
 uniflorous
@@ -90175,6 +91733,7 @@ unilabiate
 unilateral
 uniliteral
 unilobar
+unilocular
 unimitable
 unimpairable
 unimpeachable
@@ -90249,6 +91808,7 @@ universalist
 universalistic
 universality
 universalize
+universally
 universalness
 universe
 university
@@ -90314,6 +91874,7 @@ unlikeness
 unlimber
 unlimitable
 unlimited
+unline
 unlink
 unliquidated
 unliquored
@@ -90358,6 +91919,7 @@ unmaterial
 unmeaning
 unmeant
 unmeasurable
+unmechanize
 unmechanized
 unmeet
 unmember
@@ -90473,6 +92035,7 @@ unpervert
 unphilosophize
 unpick
 unpicked
+unpin
 unpinion
 unpitied
 unpitious
@@ -90580,6 +92143,7 @@ unrelenting
 unreliable
 unreligious
 unremembrance
+unremitting
 unremorseless
 unrepentance
 unreprievable
@@ -90601,6 +92165,7 @@ unreverence
 unreverend
 unreverent
 unreverently
+unriddle
 unriddler
 unrig
 unright
@@ -90612,6 +92177,7 @@ unrip
 unripe
 unripeness
 unrivaled
+unrivet
 unrobe
 unroll
 un-romanized
@@ -90629,6 +92195,7 @@ unruliment
 unruliness
 unruly
 unrumple
+unsacrament
 unsad
 unsadden
 unsaddle
@@ -90776,6 +92343,7 @@ unstock
 unstockinged
 unstop
 unstrain
+unstrained
 unstratified
 unstrength
 unstriated
@@ -90890,6 +92458,7 @@ untwist
 unty
 unusage
 unused
+unusual
 unusuality
 unutterable
 unvail
@@ -90929,6 +92498,7 @@ unweary
 unweave
 unwedgeable
 unweeting
+unweighed
 unweighing
 unweld
 unweldy
@@ -90939,6 +92509,7 @@ unwieldy
 unwild
 unwill
 unwilled
+unwilling
 unwind
 unwisdom
 unwise
@@ -91011,6 +92582,7 @@ upheaval
 upheave
 upher
 uphill
+uphilt
 uphoard
 uphold
 upholder
@@ -91053,6 +92625,7 @@ uprise
 uprising
 uprist
 uproar
+uproarious
 uproll
 uproot
 uprouse
@@ -91100,6 +92673,7 @@ up-to-date
 uptown
 uptrace
 uptrain
+upturn
 upupa
 upwaft
 upward
@@ -91116,6 +92690,7 @@ uraemic
 uraeum
 uraeus
 ural
+ural-altaic
 urali
 uralian
 uralic
@@ -91188,6 +92763,7 @@ urethroscope
 urethroscopy
 urethrotome
 urethrotomy
+uretic
 urge
 urgence
 urgency
@@ -91205,6 +92781,7 @@ urinative
 urinator
 urine
 uriniferous
+uriniparous
 urinogenital
 urinometer
 urinometry
@@ -91215,6 +92792,7 @@ urith
 urn
 urnal
 urnful
+urn-shaped
 urobilin
 urocele
 urocerata
@@ -91333,6 +92911,7 @@ utile
 utilitarian
 utilitarianism
 utility
+utilizable
 utilization
 utilize
 utis
@@ -91356,6 +92935,7 @@ utterable
 utterance
 utterer
 utterless
+utterly
 uttermore
 uttermost
 utterness
@@ -91434,6 +93014,8 @@ vagient
 vagina
 vaginal
 vaginant
+vaginate
+vaginated
 vaginati
 vaginervose
 vaginicola
@@ -91514,6 +93096,7 @@ vallancy
 vallar
 vallary
 vallation
+vallatory
 vallecula
 valley
 vallum
@@ -91528,6 +93111,7 @@ valuably
 valuation
 valuator
 value
+valued
 valueless
 valuer
 valure
@@ -91609,6 +93193,7 @@ vapored
 vaporer
 vaporiferous
 vaporific
+vaporiform
 vaporimeter
 vaporing
 vaporish
@@ -91647,7 +93232,9 @@ varicosis
 varicosity
 varicotomy
 varicous
+varied
 variegate
+variegated
 variegation
 varier
 varietal
@@ -91697,8 +93284,10 @@ vase-shaped
 vasiform
 vasoconstrictor
 vasodentine
+vasodilator
 vasoformative
 vaso-inhibitory
+vasomotor
 vassal
 vassalage
 vassaless
@@ -91759,6 +93348,7 @@ vedantic
 vedantist
 vedette
 vedro
+veer
 veering
 veery
 vega
@@ -91782,6 +93372,7 @@ vehement
 vehemently
 vehicle
 vehicled
+vehicular
 vehiculary
 vehiculate
 vehiculation
@@ -91906,6 +93497,7 @@ venison
 venite
 venom
 venomous
+venose
 venosity
 venous
 vent
@@ -91943,12 +93535,14 @@ venture
 venturer
 venturesome
 venturine
+venturous
 ventuse
 venue
 venule
 venulose
 venus
 venust
+veracious
 veraciously
 veracity
 veranda
@@ -91970,6 +93564,7 @@ verbalize
 verbally
 verbarian
 verbarium
+verbatim
 verbena
 verbenaceous
 verbenate
@@ -91994,6 +93589,7 @@ verdit
 verditer
 verditure
 verdoy
+verdure
 verdured
 verdureless
 verdurous
@@ -92043,6 +93639,7 @@ vermicule
 vermiculite
 vermiculose
 vermiculous
+vermiform
 vermiformia
 vermifugal
 vermifuge
@@ -92118,6 +93715,7 @@ verso
 versor
 verst
 versual
+versus
 versute
 vert
 verteber
@@ -92310,6 +93908,7 @@ victimize
 victor
 victoress
 victoria
+victorian
 victorine
 victorious
 victorium
@@ -92459,6 +94058,7 @@ vinolent
 vinometer
 vinose
 vinosity
+vinous
 vinquish
 vintage
 vintager
@@ -92504,6 +94104,7 @@ viperish
 viperoid
 viperoidea
 viperoides
+viperous
 viraginian
 viraginity
 virago
@@ -92634,6 +94235,7 @@ vitascope
 vitellary
 vitelligenous
 vitellin
+vitelline
 vitellogene
 vitellus
 vitiate
@@ -92820,6 +94422,7 @@ volitive
 volkslied
 volksraad
 volley
+volleyed
 volost
 volow
 volplane
@@ -93241,6 +94844,7 @@ warly
 warm
 warm-blooded
 warmer
+warmful
 warm-hearted
 warmly
 warmness
@@ -93280,12 +94884,14 @@ warrioress
 warry
 warsaw
 wart
+warted
 wartless
 wartweed
 wartwort
 warty
 warty-back
 warwickite
+warworn
 wary
 warye
 wase
@@ -93324,6 +94930,7 @@ wasteness
 waster
 wastethrift
 wasteweir
+wasting
 wastor
 wastorel
 wastrel
@@ -93357,6 +94964,7 @@ waterie
 wateriness
 waterish
 waterishness
+water-laid
 waterleaf
 waterless
 water-logged
@@ -93368,6 +94976,7 @@ waterpot
 waterproof
 waterproofing
 water-ret
+water-rot
 waterscape
 watershed
 watershoot
@@ -93381,6 +94990,7 @@ waterweed
 water-white
 water-withe
 waterwork
+waterworn
 waterwort
 watery
 watt
@@ -93397,6 +95007,7 @@ waul
 waur
 wave
 waved
+waveless
 wavelet
 wavellite
 waver
@@ -93492,6 +95103,7 @@ wearily
 weariness
 wearing
 wearish
+wearisome
 weary
 weasand
 weasel
@@ -93515,6 +95127,7 @@ weather-fend
 weatherglass
 weathering
 weatherliness
+weatherly
 weathermost
 weatherproof
 weatherwise
@@ -93536,6 +95149,7 @@ weber
 webeye
 web-fingered
 webfoot
+web-footed
 webster
 websterite
 web-toed
@@ -93698,6 +95312,8 @@ wends
 wene
 wen-li
 wennel
+wennish
+wenny
 wenona
 went
 wentletrap
@@ -93800,6 +95416,7 @@ wheel
 wheelband
 wheelbarrow
 wheelbird
+wheeled
 wheeler
 wheelhouse
 wheeling
@@ -94011,6 +95628,7 @@ white-hot
 white-limed
 white-livered
 whitely
+whiten
 whitener
 whiteness
 whitening
@@ -94034,6 +95652,7 @@ whitewood
 whitewort
 whitflaw
 whither
+whithersoever
 whitherward
 whitile
 whiting
@@ -94049,6 +95668,7 @@ whitneyite
 whitson
 whitsour
 whitster
+whitsun
 whitsunday
 whitsuntide
 whitterick
@@ -94105,6 +95725,7 @@ wich
 wichitas
 wick
 wicke
+wicked
 wickedly
 wickedness
 wicker
@@ -94320,12 +95941,14 @@ winter-beaten
 wintergreen
 winter-ground
 winterkill
+winterly
 winter-proud
 winter-rig
 wintertide
 winterweed
 wintery
 wintry
+winy
 winze
 wipe
 wiper
@@ -94460,6 +96083,7 @@ wizard
 wizardly
 wizardry
 wizen
+wizened
 wizen-faced
 wlatsome
 wo
@@ -94485,6 +96109,7 @@ wold
 wolf
 wolfberry
 wolfhound
+wolfish
 wolfkin
 wolfling
 wolfram
@@ -94556,6 +96181,7 @@ woodcraft
 woodcut
 woodcutter
 woodcutting
+wooded
 wooden
 woodenly
 woodenness
@@ -94645,6 +96271,7 @@ wordplay
 wordsman
 wordy
 work
+workable
 workaday
 workbag
 workbasket
@@ -94668,6 +96295,8 @@ workroom
 workship
 workshop
 worktable
+workways
+workwise
 workwoman
 workyday
 world
@@ -94680,6 +96309,7 @@ world-wide
 worm
 wormal
 worm-eaten
+wormed
 wormhole
 wormian
 wormil
@@ -94691,6 +96321,7 @@ wormul
 wormwood
 wormy
 wornil
+worn-out
 worral
 worrel
 worrier
@@ -94826,9 +96457,11 @@ wrong
 wrongdoer
 wrongdoing
 wronger
+wrongful
 wronghead
 wrongheaded
 wrongless
+wrongly
 wrongness
 wrongous
 wrong-timed
@@ -94909,6 +96542,7 @@ xenodochium
 xenodochy
 xenogamy
 xenogenesis
+xenogenetic
 xenomania
 xenomi
 xenon
@@ -95267,6 +96901,7 @@ ytterbic
 ytterbium
 yttria
 yttric
+yttriferous
 yttrious
 yttrium
 yttro-cerite
@@ -95456,6 +97091,7 @@ zircon
 zircona
 zirconate
 zirconia
+zirconic
 zirconium
 zirconoid
 zither
@@ -95475,6 +97111,7 @@ zocco
 zoccolo
 zocle
 zodiac
+zodiacal
 zoea
 zoetrope
 zohar
@@ -95493,6 +97130,7 @@ zona
 zonal
 zonar
 zonaria
+zonate
 zone
 zoned
 zoneless
@@ -95589,6 +97227,8 @@ zoophily
 zooephily
 zoophite
 zooephite
+zoophoric
+zooephoric
 zoophorous
 zooephorous
 zoophyta
@@ -95601,6 +97241,8 @@ zoophytical
 zooephytical
 zoophytoid
 zooephytoid
+zoophytological
+zooephytological
 zoophytology
 zooephytology
 zoopraxiscope

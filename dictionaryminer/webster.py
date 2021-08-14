@@ -33,31 +33,29 @@ def get_definition(line, webster, definitions):
     lcounter = 0
     definition_found = False
     definition = ''
+
     while line and line != '\n' and definition_found == False:
         pcount = line.count('.')
         scount = line.count(';')
         line = line.rstrip()
         if line[0] == '[': break
-        if line[:6] == 'Defn:':
-            line = line[6:]
 
         if pcount == 0 and scount == 0:
             definition += ' ' + line if lcounter > 0 else line
-        else:
+        elif pcount > 0:
             definition_found = True
             if '[Obs.]' in line:
                 definition += ' ' + line[:line.find('[Obs.]')+6] if lcounter > 0 else line[:line.find('[Obs.]')+6]
             else:
-                if scount > 0:
-                    if line.find('; as') == -1:
-                        # Just return short def if available
-                        definition += ' ' + line[:line.find(';')] + '.' if lcounter > 0 else line[:line.find(';')] + '.'
-                    else:
-                        # Preserve long definition if followed by word use example
-                        definition += ' ' + line[:line.find('.')+1] if lcounter > 0 else line[:line.find('.')+1]
-                else:
-                    # Get long definition
-                    definition += ' ' + line[:line.find('.')+1] if lcounter > 0 else line[:line.find('.')+1]
+                # Get long definition
+                definition += ' ' + line[:line.find('.')+1] if lcounter > 0 else line[:line.find('.')+1]
+        elif scount > 0:
+            if line.find('; as') == -1:
+                # Just return short def if available
+                definition_found = True
+                definition += ' ' + line[:line.find(';')] + '.' if lcounter > 0 else line[:line.find(';')] + '.'
+            else:
+                definition += ' ' + line if lcounter > 0 else line
 
         if not definition_found: line = webster.readline()
         lcounter += 1
@@ -131,7 +129,11 @@ def get_webster_definitions(pronunciations_list=None):
                             get_definition(line[3:], webster, definitions)
 
                         if is_definition_defn(line):
-                            get_definition(line[6:], webster, definitions)
+                            line = line[6:]
+                            if is_definition_letter(line):
+                                line = line[3:].strip()
+                            
+                            get_definition(line, webster, definitions)
                     
                     line = webster.readline()
                     
@@ -147,7 +149,7 @@ def get_webster_definitions(pronunciations_list=None):
                         if prev_variant != variant:
                             if variant in dictionary:
                                 # Add on to the word object for different PoS
-                                dictionary[variant]['definitions'][pos] = definitions
+                                dictionary[variant]['definitions'].setdefault(pos, []).extend(definitions)
                             else:
                                 # New word in the dictionary
                                 dictionary[variant] = {
@@ -159,7 +161,6 @@ def get_webster_definitions(pronunciations_list=None):
 
                             prev_variant = variant
 
-                    prev_word = word_variations[0]
                     print("Done \u2713")
                 else:
                     print("Empty Definition X")
