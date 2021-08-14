@@ -1,0 +1,155 @@
+from . import ROOT_DIR
+from pathlib import Path
+from .pronunciations import get_pronunciation
+
+PART_OF_SPEECH = {
+    'prep': 'preposition',
+    'n': 'noun',
+    'v': 'verb',
+    'a': 'adjective',
+    'adv': 'adverb',
+    'conj': 'conjunction',
+    'interj': 'interjection',
+    'pron': 'pronoun'
+}
+
+dictionary = {}
+words = []
+
+def is_end(line):
+    return line.rstrip() == '!E!'
+
+
+def is_word_line(line):
+    return line.isupper() and line.find('.') == -1
+
+
+def is_definition_defn(line):
+    return line[:5] == 'Defn:'
+
+def get_definition(line, webster, definitions):
+    # Definition always ends with the first period.
+    # Short definition always neds with a semi-colon.
+    lcounter = 0
+    definition_found = False
+    definition = ''
+    while line and line != '\n' and definition_found == False:
+        pcount = line.count('.')
+        scount = line.count(';')
+        line = line.rstrip()
+        if line[0] == '[': break
+        if line[:6] == 'Defn:':
+            line = line[6:]
+        if line[0] == '(' and line[2] == ')':
+            line = line[4:]
+
+        if pcount == 0 and scount == 0:
+            definition += ' ' + line if lcounter > 0 else line
+        else:
+            definition_found = True
+            if '[Obs.]' in line:
+                definition += ' ' + line[:line.find('[Obs.]')+6] if lcounter > 0 else line[:line.find('[Obs.]')+6]
+            else:
+                if scount > 0:
+                    # Just return short def if available
+                    definition += ' ' + line[:line.find(';')] + '.' if lcounter > 0 else line[:line.find(';')] + '.'
+                else:
+                    definition += ' ' + line[:line.find('.')+1] if lcounter > 0 else line[:line.find('.')+1]
+
+        line = webster.readline()
+        lcounter += 1
+
+    if definition: definitions.append(definition)
+
+
+def is_definition_num(line):
+    return line[:1].isnumeric() and line[1:3] == '. '
+
+
+def get_definition_num(line, webster, definitions):
+    # Definition always ends with the first period.
+    if line[0] == '(' and line.rstrip()[-1] == ')' or line.find(': [') != -1:
+        line = webster.readline()
+        get_definition(line, webster, definitions)
+    else:
+        get_definition(line, webster, definitions)
+
+def get_webster_definitions(pronunciations_list=None):
+    with open(Path.joinpath(ROOT_DIR, 'assets/webster-dict/webster-full-raw'), 'r', encoding='utf-8') as webster:
+        line = webster.readline()
+        word = ''
+
+        # Read lines until the end of file
+        while(not is_end(line)):
+            # Check if line is a word
+            # Loop through the word body if not    
+            while is_word_line(line):
+                word = line.rstrip().lower()
+                print('Getting %s from Webster' % word, end='... ')
+                line = webster.readline()
+
+                # Parsing Part of Speech
+                pos = ''
+                pos_start = line.find(', ')
+                pos_end = line.find('.')
+                
+                pos_exists = False
+                word_variations = word.split(';')
+                for i in range(0, len(word_variations)):
+                    if pos_start != -1 and pos_end != -1 and pos_start < pos_end:
+                        if line[pos_start+2:pos_end] in PART_OF_SPEECH:
+                            pos = PART_OF_SPEECH[line[pos_start+2:pos_end]]
+                            pos_exists = True
+                            break
+                    
+                    pos_start = line.find(', ', pos_start+1)
+                
+                if not pos_exists:
+                    print("Empty Part Of Speech X")
+                    break
+
+                definitions = []
+                ## Move and collect definitions until new word
+                while not is_word_line(line):
+                    line = webster.readline()
+                    if line != '\n':
+                        if is_definition_num(line):
+                            get_definition_num(line[line.find('. ')+2:], webster, definitions)
+                        
+                        if is_definition_defn(line):
+                            get_definition(line[6:], webster, definitions)
+                    
+
+                if len(definitions) > 0:
+                    prev_variant = ''
+                    for variant in word_variations:
+                        variant = variant.strip()
+                        pronunciation = ''
+                        if pronunciations_list is not None:
+                            pronunciation = get_pronunciation(variant, pronunciations_list)
+                        # Some words have same variations in the Webster dict (e.g. Ampere)
+                        if prev_variant != variant:
+                            if variant in dictionary:
+                                # Add on to the word object for different PoS
+                                for definition in definitions:
+                                    dictionary[variant]['definitions'].setdefault(pos, []).append(definition)
+                            else:
+                                # New word in the dictionary
+                                dictionary[variant] = {
+                                    'pronunciation': pronunciation,
+                                    'definitions': {
+                                        pos: definitions
+                                    }
+                                }
+                                
+                            words.append(variant)
+                            prev_variant = variant
+
+                    print("Done \u2713")
+                else:
+                    print("Empty Definition X")
+
+            if not is_end(line):
+                line = webster.readline()
+
+    return dictionary, words

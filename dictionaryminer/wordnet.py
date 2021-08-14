@@ -4,8 +4,8 @@ from . import ROOT_DIR
 from pathlib import Path
 from .pronunciations import get_pronunciation
 
-WN_DATA_DIRECTORY = Path.joinpath(ROOT_DIR, 'assets/dictionary-raw')
-WN_WORDS_FILE = Path.joinpath(ROOT_DIR, 'assets/wn_words_no_duplicate.txt')
+WN_DATA_DIRECTORY = Path.joinpath(ROOT_DIR, 'assets/')
+WN_WORDS_FILE = Path.joinpath(ROOT_DIR, 'etc/')
 
 wn.config.data_directory = WN_DATA_DIRECTORY
 
@@ -17,7 +17,7 @@ PART_OF_SPEECH = {
     'r': 'adverb'
 }
 
-dictionary = []
+dictionary = {}
 
 def setup():
     if not Path(WN_DATA_DIRECTORY, 'wn.db').is_file():
@@ -34,7 +34,6 @@ def get_wordnet_data(word, pronunciations_list=None):
             pronunciation = get_pronunciation(word, pronunciations_list)
     
         word_data = {
-            "word": word,
             "pronunciation": pronunciation,
             "definitions": {}
         }
@@ -75,15 +74,13 @@ def collect_all_data(words_file, pronunciations_list=None):
         for line in f:
             word = line.rstrip()
             word_data = get_wordnet_data(word, pronunciations_list=pronunciations_list)
-            dictionary.append(word_data)
+            dictionary[word] = word_data
             
         return dictionary
 
-
-setup()
 if __name__ == '__main__':
     # collect_all_data(WN_WORDS_FILE)
     # print('Writing dictionary.json and words.txt')
     # with open('wordnet_dictionary.json', 'w', encoding='utf-8') as dictionary_file:
     #     json.dump(dictionary, dictionary_file, indent = True, ensure_ascii=True, sort_keys=True)
-    print("Hello")
+    print("Wordnet Main")

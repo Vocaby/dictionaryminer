@@ -1,4 +1,4 @@
 env
-assets/dictionary-raw/wn.db
-assets/dictionary-raw/downloads
+assets/wn.db
+assets/downloads
 __pycache__
