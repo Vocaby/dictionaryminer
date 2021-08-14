@@ -38,7 +38,7 @@ The formatted dictionary json files inside the [assets folder](assets/). Words t
 ## Some Useful Commands
 To see the number of words that's in the Webster dictionary but not in Wordnet, use the command below:
 
-`awk 'FNR==NR {a[$0]++; next} !($0 in a)' assets/wn_words_no_duplicates.txt assets/webster_parsed_words.txt | wc -l`
+`awk 'FNR==NR {a[$0]++; next} !($0 in a)' etc/wn_words_no_duplicates.txt etc/webster_parsed_words.txt | wc -l`
 
 ## Sources
 1. Definition, Part of Speech, Sentence: [Wordnet (Princeton Wordnet License)](https://wordnet.princeton.edu/)
