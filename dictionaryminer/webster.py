@@ -27,6 +27,7 @@ def is_word_line(line):
 def is_definition_defn(line):
     return line[:5] == 'Defn:'
 
+
 def get_definition(line, webster, definitions):
     # Definition always ends with the first period.
     # Short definition always ends with a semi-colon.
@@ -40,8 +41,6 @@ def get_definition(line, webster, definitions):
         if line[0] == '[': break
         if line[:6] == 'Defn:':
             line = line[6:]
-        if line[0] == '(' and line[2] == ')':
-            line = line[4:]
 
         if pcount == 0 and scount == 0:
             definition += ' ' + line if lcounter > 0 else line
@@ -56,7 +55,7 @@ def get_definition(line, webster, definitions):
                 else:
                     definition += ' ' + line[:line.find('.')+1] if lcounter > 0 else line[:line.find('.')+1]
 
-        line = webster.readline()
+        if not definition_found: line = webster.readline()
         lcounter += 1
 
     if definition: definitions.append({'definition': definition, 'sentence': ''})
@@ -70,9 +69,19 @@ def get_definition_num(line, webster, definitions):
     # Definition always ends with the first period.
     if line[0] == '(' and line.rstrip()[-1] == ')' or line.find(': [') != -1:
         line = webster.readline()
-        get_definition(line, webster, definitions)
+        if is_definition_letter(line):
+            get_definition(line[3:], webster, definitions)
+        else:
+            get_definition(line, webster, definitions)
     else:
         get_definition(line, webster, definitions)
+
+
+def is_definition_letter(line):
+    if len(line) > 3:
+        return line[0] == '(' and line[1].isalpha() and line[2] == ')'
+    return False
+
 
 def get_webster_definitions(pronunciations_list=None):
     with open(Path.joinpath(ROOT_DIR, 'assets/webster-dict/webster-full-raw'), 'r', encoding='utf-8') as webster:
@@ -111,13 +120,17 @@ def get_webster_definitions(pronunciations_list=None):
                 definitions = []
                 ## Move and collect definitions until new word
                 while not is_word_line(line):
-                    line = webster.readline()
                     if line != '\n':
                         if is_definition_num(line):
                             get_definition_num(line[line.find('. ')+2:], webster, definitions)
                         
+                        if is_definition_letter(line):
+                            get_definition(line[3:], webster, definitions)
+
                         if is_definition_defn(line):
                             get_definition(line[6:], webster, definitions)
+                    
+                    line = webster.readline()
                     
 
                 if len(definitions) > 0:
