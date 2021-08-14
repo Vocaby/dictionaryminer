@@ -29,7 +29,7 @@ def is_definition_defn(line):
 
 def get_definition(line, webster, definitions):
     # Definition always ends with the first period.
-    # Short definition always neds with a semi-colon.
+    # Short definition always ends with a semi-colon.
     lcounter = 0
     definition_found = False
     definition = ''
@@ -59,7 +59,7 @@ def get_definition(line, webster, definitions):
         line = webster.readline()
         lcounter += 1
 
-    if definition: definitions.append(definition)
+    if definition: definitions.append({'definition': definition, 'sentence': ''})
 
 
 def is_definition_num(line):
@@ -131,8 +131,7 @@ def get_webster_definitions(pronunciations_list=None):
                         if prev_variant != variant:
                             if variant in dictionary:
                                 # Add on to the word object for different PoS
-                                for definition in definitions:
-                                    dictionary[variant]['definitions'].setdefault(pos, []).append(definition)
+                                dictionary[variant]['definitions'][pos] = definitions
                             else:
                                 # New word in the dictionary
                                 dictionary[variant] = {
