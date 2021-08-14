@@ -7,7 +7,8 @@ words = []
 
 with open('assets/cmu-pronunciations', 'r', encoding='utf-8') as pronun_file:
     pronunciations_list = pronun_file.readlines()
-    dictionary, words = get_webster_definitions(pronunciations_list=pronunciations_list)
+    dictionary = get_webster_definitions(pronunciations_list=pronunciations_list)
+    words = dictionary.keys()
 
 with open('assets/webster-dict/webster_dictionary.json', 'w', encoding='utf-8') as dictionary_file, open('etc/webster_parsed_words.txt', 'w', encoding='utf-8') as words_file:
         json.dump(dictionary, dictionary_file, indent=False, ensure_ascii=False, sort_keys=True)

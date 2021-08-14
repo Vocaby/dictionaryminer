@@ -14,7 +14,6 @@ PART_OF_SPEECH = {
 }
 
 dictionary = {}
-words = []
 
 def is_end(line):
     return line.rstrip() == '!E!'
@@ -50,9 +49,14 @@ def get_definition(line, webster, definitions):
                 definition += ' ' + line[:line.find('[Obs.]')+6] if lcounter > 0 else line[:line.find('[Obs.]')+6]
             else:
                 if scount > 0:
-                    # Just return short def if available
-                    definition += ' ' + line[:line.find(';')] + '.' if lcounter > 0 else line[:line.find(';')] + '.'
+                    if line.find('; as') == -1:
+                        # Just return short def if available
+                        definition += ' ' + line[:line.find(';')] + '.' if lcounter > 0 else line[:line.find(';')] + '.'
+                    else:
+                        # Preserve long definition if followed by word use example
+                        definition += ' ' + line[:line.find('.')+1] if lcounter > 0 else line[:line.find('.')+1]
                 else:
+                    # Get long definition
                     definition += ' ' + line[:line.find('.')+1] if lcounter > 0 else line[:line.find('.')+1]
 
         if not definition_found: line = webster.readline()
@@ -87,7 +91,6 @@ def get_webster_definitions(pronunciations_list=None):
     with open(Path.joinpath(ROOT_DIR, 'assets/webster-dict/webster-full-raw'), 'r', encoding='utf-8') as webster:
         line = webster.readline()
         word = ''
-
         # Read lines until the end of file
         while(not is_end(line)):
             # Check if line is a word
@@ -153,10 +156,10 @@ def get_webster_definitions(pronunciations_list=None):
                                         pos: definitions
                                     }
                                 }
-                                
-                            words.append(variant)
+
                             prev_variant = variant
 
+                    prev_word = word_variations[0]
                     print("Done \u2713")
                 else:
                     print("Empty Definition X")
@@ -164,4 +167,4 @@ def get_webster_definitions(pronunciations_list=None):
             if not is_end(line):
                 line = webster.readline()
 
-    return dictionary, words
+    return dictionary
