@@ -1,5 +1,5 @@
 # :scroll: dictionaryminer
-Free English dictionary available for any use (personal or commercial). 
+Free English dictionary available for any use (personal or commercial). The current dictionary has definitions for over 210,000+ words.
 
 Contributions are encouraged and welcomed! 
 
@@ -35,12 +35,8 @@ Contributions are encouraged and welcomed!
 ```
 
 ## Output Files
-The formatted dictionary json files inside the [assets folder](assets/). Words that are included in the dictionaries are inside the [etc folder](etc/). The parsed Webster dictionary file is [webster_dictionary.json](assets/webster-dict/webster_dictionary.json). The Wordnet dictionary file is [wordnet_dictionary.json](assets/wordnet-dict/wordnet_dictionary.json). The all-in-one dictionary is being worked on.
+The formatted dictionary json files inside the [assets folder](assets/). Words that are included in the dictionaries are inside the [etc folder](etc/). The parsed Webster dictionary file is [webster_dictionary.json](assets/webster-dict/webster_dictionary.json). The Wordnet dictionary file is [wordnet_dictionary.json](assets/wordnet-dict/wordnet_dictionary.json). The all-in-one dictionary that prefers Wordnet definitions over Webster is [dictionary.json](assets/dictionary.json).
 
-## Some Useful Commands
-To see the number of words that's in the Webster dictionary but not in Wordnet, use the command below:
-
-`awk 'FNR==NR {a[$0]++; next} !($0 in a)' etc/wn_words_no_duplicates.txt etc/webster_parsed_words.txt | wc -l`
 
 ## Sources
 1. Definition, Part of Speech, Sentence: [Wordnet (Princeton Wordnet License)](https://wordnet.princeton.edu/)
