@@ -1,4 +1,5 @@
 from . import ROOT_DIR
+from halo import Halo
 from pathlib import Path
 from .pronunciations import get_pronunciation
 
@@ -86,6 +87,9 @@ def is_definition_letter(line):
 
 
 def get_webster_definitions(pronunciations_list=None):
+    spinner = Halo(text='Collecting webster data...', spinner='dots')
+    spinner.start()
+    
     with open(Path.joinpath(ROOT_DIR, 'assets/webster-dict/webster-full-raw'), 'r', encoding='utf-8') as webster:
         line = webster.readline()
         word = ''
@@ -95,7 +99,7 @@ def get_webster_definitions(pronunciations_list=None):
             # Loop through the word body if not    
             while is_word_line(line):
                 word = line.rstrip().lower()
-                print('Getting %s from Webster' % word, end='... ')
+                # print('Getting %s from Webster' % word, end='... ')
                 line = webster.readline()
 
                 # Parsing Part of Speech
@@ -115,7 +119,7 @@ def get_webster_definitions(pronunciations_list=None):
                     pos_start = line.find(', ', pos_start+1)
                 
                 if not pos_exists:
-                    print("Empty Part Of Speech X")
+                    # print("Empty Part Of Speech X")
                     break
 
                 definitions = []
@@ -161,11 +165,13 @@ def get_webster_definitions(pronunciations_list=None):
 
                             prev_variant = variant
 
-                    print("Done \u2713")
+                    # print("Done \u2713")
                 else:
-                    print("Empty Definition X")
+                    pass
+                    # print("Empty Definition X")
 
             if not is_end(line):
                 line = webster.readline()
 
+    spinner.succeed("Done!")
     return dictionary

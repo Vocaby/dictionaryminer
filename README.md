@@ -3,6 +3,13 @@ Free English dictionary available for any use (personal or commercial). The curr
 
 Contributions are encouraged and welcomed! 
 
+## Usage
+```shell
+$ python make_dictionary.py
+$ python make_dictionary.py --webster
+$ python make_dictionary.py --wordnet
+```
+
 ## Data Structure
 ```json
 {
@@ -35,7 +42,7 @@ Contributions are encouraged and welcomed!
 ```
 
 ## Output Files
-The formatted dictionary json files inside the [assets folder](assets/). Words that are included in the dictionaries are inside the [etc folder](etc/). The parsed Webster dictionary file is [webster_dictionary.json](assets/webster-dict/webster_dictionary.json). The Wordnet dictionary file is [wordnet_dictionary.json](assets/wordnet-dict/wordnet_dictionary.json). The all-in-one dictionary that prefers Wordnet definitions over Webster is [dictionary.json](assets/dictionary.json).
+The formatted dictionary json files inside the [assets folder](assets/). Words that are included in the dictionaries are inside the [etc folder](etc/). The parsed Webster dictionary file is [webster_dictionary.json](assets/webster-dict/webster_dictionary.json). The Wordnet dictionary file is [wordnet_dictionary.json](assets/wordnet-dict/wordnet_dictionary.json). The all-in-one dictionary that prefers Wordnet definitions over Webster is [dictionary.json](assets/complete_dictionary.json).
 
 
 ## Sources

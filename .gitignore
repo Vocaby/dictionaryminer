@@ -1,4 +1,5 @@
 env
-assets/wn.db
+assets/wordnet-dict/*
 assets/downloads
 __pycache__
+*.json
