@@ -78,7 +78,7 @@ if __name__ == '__main__':
     
     if args.wordnet:
         make_wordnet_dict()
-    else if args.webster:
+    elif args.webster:
         make_webster_dict()
     else:
         make_complete_dict()

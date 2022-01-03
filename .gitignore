@@ -1,5 +1,8 @@
 env
-assets/wordnet-dict/*
+assets/wordnet-dict/*.json
+assets/wordnet-dict/*.db
+assets/wordnet-dict/*.txt
+assets/wordnet-dict/downloads
 assets/downloads
 __pycache__
 *.json
