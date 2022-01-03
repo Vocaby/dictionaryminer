@@ -19,6 +19,7 @@ def make_webster_dict():
         pronunciations_list = pronun_file.readlines()
         dictionary = get_webster_definitions(pronunciations_list=pronunciations_list)
 
+    print('Finishing up...')
     with open(WEBSTER_DICTIONARY, 'w', encoding='utf-8') as dictionary_file:
         json.dump(dictionary, dictionary_file, indent=False, ensure_ascii=False, sort_keys=True)
 
@@ -31,7 +32,8 @@ def make_wordnet_dict():
     with open('assets/cmu-pronunciations', 'r', encoding='utf-8') as pronun_file:
         pronunciations_list = pronun_file.readlines()
         dictionary = collect_all_data(pronunciations_list=pronunciations_list)
-
+    
+    print('Finishing up...')
     with open(WORDNET_DICTIONARY, 'w', encoding='utf-8') as dictionary_file:
         json.dump(dictionary, dictionary_file, indent=False, ensure_ascii=False, sort_keys=True)
     
