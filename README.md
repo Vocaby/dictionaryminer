@@ -42,8 +42,7 @@ $ python make_dictionary.py --wordnet
 ```
 
 ## Output Files
-The formatted dictionary json files inside the [assets folder](assets/). Words that are included in the dictionaries are inside the [etc folder](etc/). The parsed Webster dictionary file is [webster_dictionary.json](assets/webster-dict/webster_dictionary.json). The Wordnet dictionary file is [wordnet_dictionary.json](assets/wordnet-dict/wordnet_dictionary.json). The all-in-one dictionary that prefers Wordnet definitions over Webster is [dictionary.json](assets/complete_dictionary.json).
-
+The dictionary json files will be created inside the [assets folder](assets/).
 
 ## Sources
 1. Definition, Part of Speech, Sentence: [Wordnet (Princeton Wordnet License)](https://wordnet.princeton.edu/)
