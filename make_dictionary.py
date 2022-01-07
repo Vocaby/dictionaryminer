@@ -7,7 +7,6 @@ from pathlib import Path
 
 ROOT_DIR = Path(__file__).parent
 COMPLETE_DICTIONARY = Path.joinpath(ROOT_DIR, 'assets/complete_dictionary.json')
-
 WEBSTER_DIRECTORY = Path.joinpath(ROOT_DIR, 'assets/webster-dict/')
 WEBSTER_DICTIONARY = Path.joinpath(WEBSTER_DIRECTORY, 'webster_dictionary.json')
 WORDNET_DIRECTORY = Path.joinpath(ROOT_DIR, 'assets/wordnet-dict/')
@@ -73,9 +72,9 @@ def make_complete_dict():
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Create an English dictionary for any purpose')
+    parser = argparse.ArgumentParser(description='Create a json formatted English dictionary')
     parser.add_argument('--wordnet', help='Make a dictionary from Wordnet', action='store_true')
-    parser.add_argument('--webster', help='Make a dictionary from Wordnet', action='store_true')
+    parser.add_argument('--webster', help='Make a dictionary from Webster', action='store_true')
     args = parser.parse_args()
     
     if args.wordnet:
